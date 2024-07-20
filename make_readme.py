@@ -55,7 +55,10 @@ class Album:
 
     def print(self, printer):
         printer("- %s" % self.name)
-        printer("  - Playlists: %s" % ", ".join(self.config["playlists"]))
+        printer(
+            "  - Playlists: %s"
+            % ", ".join(sorted(self.config["playlists"]))
+        )
 
     def get_playlists(self):
         return self.config["playlists"]
