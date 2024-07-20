@@ -1,1 +1,1189 @@
 # musiclib
+
+## Contents
+
+- [Contents](#contents)
+- [None (292)](#none)
+- [Road trip (1)](#road-trip)
+- [All playlists (293)](#all-playlists)
+
+## None
+
+- 1956 - Ravi Shankar - Three Ragas
+  - Playlists: None
+- 1958 - Cannonball Adderley - Somethin' Else
+  - Playlists: None
+- 1958 - John Coltrane - Blue Train
+  - Playlists: None
+- 1959 - Charles Mingus - Mingus Ah Um
+  - Playlists: None
+- 1959 - Miles Davis - Kind of Blue
+  - Playlists: None
+- 1959 - The Dave Brubeck Quartet - Time Out
+  - Playlists: None
+- 1960 - Wes Montgomery - The incredible jazz guitar of wes montgomery
+  - Playlists: None
+- 1961 - John Coltrane - My favourite things
+  - Playlists: None
+- 1963 - Bob Dylan - The Freewheelin' Bob Dylan
+  - Playlists: None
+- 1963 - Charles Mingus - The Black Saint and the Sinner Lady
+  - Playlists: None
+- 1965 - Bert Jansch - Bert Jansch
+  - Playlists: None
+- 1965 - Bob Dylan - Highway 61 Revisited
+  - Playlists: None
+- 1965 - John Coltrane - A Love Supreme
+  - Playlists: None
+- 1967 - Cream - Disraeli Gears
+  - Playlists: None
+- 1967 - Leonard Cohen - Songs of Leonard Cohen
+  - Playlists: None
+- 1967 - Love - Forever Changes
+  - Playlists: None
+- 1967 - The Doors - The Doors
+  - Playlists: None
+- 1967 - The Jimi Hendrix Experience - Are you experienced
+  - Playlists: None
+- 1968 - The Incredible String Band - The Hangman's Beautiful Daughter
+  - Playlists: None
+- 1968 - The Jimi Hendrix Experience - Electric Ladyland
+  - Playlists: None
+- 1968 - Van Morrison - Astral Weeks
+  - Playlists: None
+- 1969 - Crosby, Stills & Nash - Crosby, Stills & Nash
+  - Playlists: None
+- 1969 - King Crimson - In the Court of the Crimson King
+  - Playlists: None
+- 1969 - Leonard Cohen - Songs From A Room
+  - Playlists: None
+- 1969 - Nick Drake - Five Leaves Left
+  - Playlists: None
+- 1969 - Pentangle - Basket Of Light
+  - Playlists: None
+- 1970 - Black Sabbath - Black Sabbath
+  - Playlists: None
+- 1970 - Black Sabbath - Paranoid
+  - Playlists: None
+- 1970 - Curtis Mayfield - Curtis
+  - Playlists: None
+- 1970 - James Taylor - Sweet Baby James
+  - Playlists: None
+- 1970 - Simon and Garfunkel - Bridge Over Troubled Water
+  - Playlists: None
+- 1970 - Vashti Bunyan - Just Another Diamond Day
+  - Playlists: None
+- 1971 - Black Sabbath - Master of Reality
+  - Playlists: None
+- 1971 - David Bowie - Hunky Dory
+  - Playlists: None
+- 1971 - Fabrizio De Andre - Non al denaro non all'amore nè al cielo
+  - Playlists: None
+- 1971 - Gil Scott-Heron - Pieces Of A Man
+  - Playlists: None
+- 1971 - J. J. Cale - Naturally
+  - Playlists: None
+- 1971 - James Taylor - Mud Slide Slim
+  - Playlists: None
+- 1971 - Jethro Tull - Aqualung
+  - Playlists: None
+- 1971 - John Martyn - Bless The Weather
+  - Playlists: None
+- 1971 - Joni Mitchell - Blue
+  - Playlists: None
+- 1971 - Leonard Cohen - songs of love and hate
+  - Playlists: None
+- 1971 - Nick Drake - Bryter Layter
+  - Playlists: None
+- 1971 - Paul & Linda McCartney - Ram
+  - Playlists: None
+- 1971 - Roy Harper - Stormcock
+  - Playlists: None
+- 1971 - Van Morrison - Tupelo Honey
+  - Playlists: None
+- 1971 - Yes - Fragile
+  - Playlists: None
+- 1972 - Curtis Mayfield - Super Fly
+  - Playlists: None
+- 1972 - David Bowie - The rise and fall of Ziggy Stardust and the spiders from Mars
+  - Playlists: None
+- 1972 - Deep Purple - Machine Head
+  - Playlists: None
+- 1972 - Jethro Tull - Thick as a Brick
+  - Playlists: None
+- 1972 - Nick Drake - Pink Moon
+  - Playlists: None
+- 1972 - Steely Dan - Can’t Buy A Thrill
+  - Playlists: None
+- 1972 - Yes - Close To The Edge
+  - Playlists: None
+- 1973 - Fabrizio De Andre - Storia di un inpiegato
+  - Playlists: None
+- 1973 - Herbie Hancock - Head Hunters
+  - Playlists: None
+- 1973 - James Brown - The Payback
+  - Playlists: None
+- 1973 - Magnet - The Wicker Man
+  - Playlists: None
+- 1973 - Paul McCartney & Wings - Band On The Run
+  - Playlists: None
+- 1973 - Pink Floyd - The Dark Side of the Moon
+  - Playlists: None
+- 1973 - Steely Dan - Countdown To Ecstasy
+  - Playlists: None
+- 1973 - Stevie Wonder - Innervisions
+  - Playlists: None
+- 1973 - The Isley Brothers - 3+3
+  - Playlists: None
+- 1974 - Camel - Mirage
+  - Playlists: None
+- 1974 - Harmonium - Harmonium
+  - Playlists: None
+- 1974 - King Crimson - Red
+  - Playlists: None
+- 1974 - Osamu Kitajima - Benzaiten
+  - Playlists: None
+- 1974 - Steely Dan - Pretzel Logic
+  - Playlists: None
+- 1975 - Harmonium - Si on avait besoin d'une cinquième saison
+  - Playlists: None
+- 1975 - Parliament - Mothership Connection
+  - Playlists: None
+- 1975 - Pink Floyd - Wish You Were Here
+  - Playlists: None
+- 1975 - Steely Dan - Katy Lied
+  - Playlists: None
+- 1976 - Harmonium - L'Heptade
+  - Playlists: None
+- 1976 - Rainbow - Rising
+  - Playlists: None
+- 1976 - Rush - 2112
+  - Playlists: None
+- 1976 - Shakti - A Handful Of Beauty
+  - Playlists: None
+- 1976 - Steely Dan - The Royal Scam
+  - Playlists: None
+- 1977 - Fela Kuti - Zombie
+  - Playlists: None
+- 1977 - Fleetwood Mac - Rumours
+  - Playlists: None
+- 1977 - Pink Floyd - Animals
+  - Playlists: None
+- 1977 - Shakti - Natural elements
+  - Playlists: None
+- 1977 - Steely Dan - Aja
+  - Playlists: None
+- 1978 - Dire Straits - Dire Straits
+  - Playlists: None
+- 1978 - Steve Reich - Music for 18 musicians
+  - Playlists: None
+- 1979 - Pink Floyd - The Wall
+  - Playlists: None
+- 1980 - Talking Heads - Remain in Light
+  - Playlists: None
+- 1982 - Iron Maiden - The number of the beast
+  - Playlists: None
+- 1984 - Baltar Benitez - Music of Astor Piazzolla
+  - Playlists: None
+- 1984 - Iron Maiden - Powerslave
+  - Playlists: None
+- 1984 - The Smiths - The Smiths
+  - Playlists: None
+- 1985 - Tom Waits - Rain Dogs
+  - Playlists: None
+- 1986 - Nick Drake - Time Of No Reply
+  - Playlists: None
+- 1986 - The Smiths - The Queen Is Dead
+  - Playlists: None
+- 1988 - Pixies - Surfer Rosa
+  - Playlists: None
+- 1989 - Pixies - Doolittle
+  - Playlists: None
+- 1989 - Steve Reich - Different trains, electric counterpoint
+  - Playlists: None
+- 1989 - The Necks - Sex
+  - Playlists: None
+- 1990 - Inkuyo - Land of the Incas (Music of the Andes)
+  - Playlists: None
+- 1991 - My Bloody Valentine - Loveless
+  - Playlists: None
+- 1991 - Pearl Jam - Ten
+  - Playlists: None
+- 1991 - Red Hot Chili Peppers - Blood Sugar Sex Magik
+  - Playlists: None
+- 1991 - Slint - Spiderland
+  - Playlists: None
+- 1992 - Gang Starr - Daily Operation
+  - Playlists: None
+- 1992 - Pete Rock and CL Smooth - Mecca And The Soul Brother
+  - Playlists: None
+- 1993 - Ry Cooder & V.M. Bhatt - A Meeting by the River
+  - Playlists: None
+- 1993 - Souls Of Mischief - 93 'Til Infinity
+  - Playlists: None
+- 1993 - Wu-Tang Clan - Enter the Wu-Tang (36 Chambers)
+  - Playlists: None
+- 1994 - Ali Farka Touré and Ry Cooder - Talking Timbuktu (with Ry Cooder)
+  - Playlists: None
+- 1994 - Green Day - Dookie
+  - Playlists: None
+- 1994 - Jeff Buckley - Grace
+  - Playlists: None
+- 1994 - Kemba Sussoko - La Kora Des Griots Mandingues
+  - Playlists: None
+- 1994 - Nas - Illmatic
+  - Playlists: None
+- 1994 - The Necks - Aquatic
+  - Playlists: None
+- 1994 - The Notorious B.I.G. - Ready To Die
+  - Playlists: None
+- 1994 - Woob - 1194
+  - Playlists: None
+- 1995 - Big L - Lifestylez Ov Da Poor & Dangerous
+  - Playlists: None
+- 1995 - David Russell - The Music Of Agustin Barrios Mangoré
+  - Playlists: None
+- 1995 - Elliott Smith - Elliott Smith
+  - Playlists: None
+- 1995 - GZA - Liquid Swords
+  - Playlists: None
+- 1995 - John Williams - The Great Paraguayan - Guitar Music Of Barrios
+  - Playlists: None
+- 1995 - Mobb Deep - The Infamous
+  - Playlists: None
+- 1995 - Toumani Diabate - Djelika
+  - Playlists: None
+- 1996 - Belle and Sebastian - Tigermilk
+  - Playlists: None
+- 1996 - Cardiacs - Sing to God
+  - Playlists: None
+- 1996 - Failure - Fantastic Planet
+  - Playlists: None
+- 1996 - Julian Bream - The Ultimate Guitar Collection
+  - Playlists: None
+- 1996 - Michael Tröster - El Decameron Negro
+  - Playlists: None
+- 1996 - Placebo - Come home
+  - Playlists: None
+- 1997 - David Russell - Music of Moreno Torroba
+  - Playlists: None
+- 1997 - Dispatch - Bang Bang
+  - Playlists: None
+- 1997 - Elliott Smith - Either-Or
+  - Playlists: None
+- 1997 - Modest Mouse - The Lonesome Crowded West
+  - Playlists: None
+- 1997 - Radiohead - OK Computer
+  - Playlists: None
+- 1998 - Habib Koité & Bamada - Ma Ya
+  - Playlists: None
+- 1998 - Neutral Milk Hotel - In the Aeroplane Over the Sea
+  - Playlists: None
+- 1998 - Tuatara - Trading With The Enemy
+  - Playlists: None
+- 1999 - MF DOOM - Operation Doomsday
+  - Playlists: None
+- 1999 - Mos Def - Black On Both Sides
+  - Playlists: None
+- 1999 - Red Hot Chili Peppers - Californication
+  - Playlists: None
+- 1999 - The Necks - Hanging Gardens
+  - Playlists: None
+- 2000 - Adam Holzman - Lauro - Venezuelan Waltzes For Guitar
+  - Playlists: None
+- 2000 - Luomo - Vocalcity
+  - Playlists: None
+- 2000 - Mamadou Diabate - Tunga
+  - Playlists: None
+- 2000 - Modest Mouse - The Moon & Antarctica
+  - Playlists: None
+- 2000 - Norbert Kraft - Villa-Lobos - Music For Solo Guitar (Complete)
+  - Playlists: None
+- 2001 - Daft Punk - Discovery
+  - Playlists: None
+- 2001 - Spoon - Girls Can Tell
+  - Playlists: None
+- 2001 - The shins - Oh, Inverted World
+  - Playlists: None
+- 2001 - The strokes - Is this it
+  - Playlists: None
+- 2002 - Andres Segovia - The art of Segovia
+  - Playlists: None
+- 2002 - Johnny Cash - American IV - The Man Comes Around
+  - Playlists: None
+- 2002 - The Flaming Lips - Yoshimi Battles the Pink Robots
+  - Playlists: None
+- 2003 - Blink-182 - Blink-182
+  - Playlists: None
+- 2003 - Kélétigui Diabaté - Sandiya
+  - Playlists: None
+- 2003 - Solar Fields - Blue Moon Station
+  - Playlists: None
+- 2003 - The Necks - Drive By
+  - Playlists: None
+- 2003 - The Strokes - Room on fire
+  - Playlists: None
+- 2003 - The shins - Chutes Too Narrow
+  - Playlists: None
+- 2004 - Acrade Fire - Funeral
+  - Playlists: None
+- 2004 - Green Day - American Idiot
+  - Playlists: None
+- 2004 - Iron and Wine - Our Endless Numbered Days
+  - Playlists: None
+- 2004 - Joanna Newsom - The Milk-Eyed Mender
+  - Playlists: None
+- 2004 - Kasabian - Kasabian
+  - Playlists: None
+- 2004 - MF DOOM - MM.. Food
+  - Playlists: None
+- 2004 - Madvillain - Madvillainy
+  - Playlists: None
+- 2004 - Modest Mouse - Good News For People Who Love Bad News
+  - Playlists: None
+- 2004 - Phoenix - Alphabetical
+  - Playlists: None
+- 2004 - Rodrigo y gabriela - Re-foc
+  - Playlists: None
+- 2004 - The Zutons - Who killed the zutons
+  - Playlists: None
+- 2005 - Boards Of Canada - The Campfire Headphase
+  - Playlists: None
+- 2005 - Dengue Fever - Escape From Dragon House
+  - Playlists: None
+- 2005 - Fat Freddy's Drop - Based On a True Story
+  - Playlists: None
+- 2005 - Flyleaf - Flyleaf
+  - Playlists: None
+- 2005 - Paramore - All we know is falling
+  - Playlists: None
+- 2005 - Solar Fields - Leaving Home
+  - Playlists: None
+- 2006 - Arctic Monkeys - Whatever People Say I Am, That's What I'm Not
+  - Playlists: None
+- 2006 - Bassekou Kouyaté & Ngoni Ba - Segu Blue
+  - Playlists: None
+- 2006 - Brand New - The Devil And God Are Raging Inside Me
+  - Playlists: None
+- 2006 - Corinne Bailey Rae - Corinne Bailey Rae
+  - Playlists: None
+- 2006 - Midlake - The trials of Van Occupanther
+  - Playlists: None
+- 2006 - Ratatat - Classics
+  - Playlists: None
+- 2006 - Red Hot Chili Peppers - Stadium Arcadium
+  - Playlists: None
+- 2006 - Rodrigo y gabriela - Rodrigo y gabriela
+  - Playlists: None
+- 2006 - Silversun Pickups - Carnavas
+  - Playlists: None
+- 2006 - Ugly Duckling - Bang For The Buck
+  - Playlists: None
+- 2007 - Arctic Monkeys - Favourite Worst Nightmare
+  - Playlists: None
+- 2007 - Biffy Clyro - Puzzle
+  - Playlists: None
+- 2007 - Bon Iver - For Emma, Forever Ago
+  - Playlists: None
+- 2007 - Foo Fighters - Echoes, Silence, Patience & Grace
+  - Playlists: None
+- 2007 - Iron and Wine-The Shepherd's Dog
+  - Playlists: None
+- 2007 - Kanye West - Graduation
+  - Playlists: None
+- 2007 - Paramore - Riot!
+  - Playlists: None
+- 2007 - Pigeon detectives - Wait for me
+  - Playlists: None
+- 2007 - Tinariwen - Aman Iman Water Is Life
+  - Playlists: None
+- 2008 - CALLmeKAT
+  - Playlists: None
+- 2008 - Cage the elephant - cage the elephant
+  - Playlists: None
+- 2008 - Causa Sui - Summer Sessions Vol. 1
+  - Playlists: None
+- 2008 - Coldplay - Viva la Vida or Death and All His Friends
+  - Playlists: None
+- 2008 - Infadels - Universe In Reverse
+  - Playlists: None
+- 2008 - Johnny Flynn - A Larum
+  - Playlists: None
+- 2008 - Kouyaté-Neerman - Kangaba
+  - Playlists: None
+- 2008 - Matthew Halsall - Sending My Love (Special Edition)
+  - Playlists: None
+- 2008 - Pete and the pirates - Little death
+  - Playlists: None
+- 2009 - Biffy Clyro - Only Revolutions
+  - Playlists: None
+- 2009 - Bombay Bicycle Club - I Had The Blues But I Shook Them Loose
+  - Playlists: None
+- 2009 - Causa Sui - Summer Sessions Vol. 2
+  - Playlists: None
+- 2009 - Causa Sui - Summer Sessions Vol. 3
+  - Playlists: None
+- 2009 - Florence and the Machine - Lungs
+  - Playlists: None
+- 2009 - Flyleaf - Memento Mori
+  - Playlists: None
+- 2009 - John Williams - Spanish Guitar Music
+  - Playlists: None
+- 2009 - Matthew Halsall - Colour Yes (Special Edition)
+  - Playlists: None
+- 2009 - Phoenix - Wolfgang amadeus phoenix
+  - Playlists: None
+- 2009 - Placebo - Battle for the Sun
+  - Playlists: None
+- 2009 - Rodrigo y gabriela - 11-11
+  - Playlists: None
+- 2009 - Solar Fields - Mirror's Edge
+  - Playlists: None
+- 2009 - St. Vincent - Actor
+  - Playlists: None
+- 2009 - Tapes 'n Tapes - The Loon
+  - Playlists: None
+- 2010 - Arcade Fire - The Suburbs
+  - Playlists: None
+- 2010 - Basia Bulat - Heart Of My Own
+  - Playlists: None
+- 2010 - Bombay Bicycle Club - Flaws
+  - Playlists: None
+- 2010 - Bonobo - Black Sands
+  - Playlists: None
+- 2010 - Darwin Deez - Darwin Deez
+  - Playlists: None
+- 2010 - Everything Everything - Man Alive
+  - Playlists: None
+- 2010 - Kanye West - My Beautiful Dark Twisted Fantasy
+  - Playlists: None
+- 2010 - Snarky Puppy - Tell Your Friends
+  - Playlists: None
+- 2010 - Tame Impala - Innerspeaker
+  - Playlists: None
+- 2010 - The tallest man on earth - The wild hunt
+  - Playlists: None
+- 2010 - This Is the Kit - Wriggle Out The Restless
+  - Playlists: None
+- 2010 - Two door cinema club - Tourist history
+  - Playlists: None
+- 2011 - Bombay Bicycle Club - A Different Kind of Fix
+  - Playlists: None
+- 2011 - Bon Iver - Bon Iver
+  - Playlists: None
+- 2011 - Fatoumata Diawara - Fatou
+  - Playlists: None
+- 2011 - Foo Fighters - Wasting Light
+  - Playlists: None
+- 2011 - Metronomy - The English Riviera
+  - Playlists: None
+- 2011 - Pete and the pirates - One thousand pictures
+  - Playlists: None
+- 2011 - Submotion Orchestra - Finest Hour
+  - Playlists: None
+- 2011 - Tycho - Dive
+  - Playlists: None
+- 2011 - Uncle Acid And The Deadbeats - Blood Lust
+  - Playlists: None
+- 2011 - Unknown Mortal Orchestra - Unknown Mortal Orchestra
+  - Playlists: None
+- 2011 - White Denim - D
+  - Playlists: None
+- 2012 - Alt-J - An Awesome Wave
+  - Playlists: None
+- 2012 - Dog Is Dead - All Our Favourite Stories
+  - Playlists: None
+- 2012 - Goat - World Music
+  - Playlists: None
+- 2012 - Modern Baseball - Sports
+  - Playlists: None
+- 2012 - Pinegrove - Meridian
+  - Playlists: None
+- 2012 - Pond - Beard, Wives, Denim
+  - Playlists: None
+- 2012 - Shakey Graves - Roll the Bones
+  - Playlists: None
+- 2012 - Stoned Jesus - Seven Thunders Roar
+  - Playlists: None
+- 2012 - The Staves - Dead & Born & Grown
+  - Playlists: None
+- 2012 - Thriftworks - Rainmaker
+  - Playlists: None
+- 2013 - Arctic Monkeys - AM
+  - Playlists: None
+- 2013 - Darwin Deez - Songs for Imaginative People
+  - Playlists: None
+- 2013 - Dinosaur pile-up - Nature nurture
+  - Playlists: None
+- 2013 - Fat Freddy's Drop - Blackbird
+  - Playlists: None
+- 2013 - Haim - Days Are Gone
+  - Playlists: None
+- 2013 - Midlake - Antiphon
+  - Playlists: None
+- 2013 - Phoenix - Bankrupt!
+  - Playlists: None
+- 2013 - Uncle Acid ad the Deadbeats - Mind Control
+  - Playlists: None
+- 2013 - Unknown Mortal Orchestra - II
+  - Playlists: None
+- 2014 - Bombay Bicycle Club - So Long See You Tomorrow
+  - Playlists: None
+- 2014 - Modern Baseball - You're Gonna Miss It All
+  - Playlists: None
+- 2014 - Nick Mulvey - First Mind
+  - Playlists: None
+- 2014 - Snarky Puppy - We Like It Here
+  - Playlists: None
+- 2014 - Temples - Sun Structures
+  - Playlists: None
+- 2014 - Tinariwen - Emmaar
+  - Playlists: None
+- 2014 - Tuatara - Underworld
+  - Playlists: None
+- 2015 - Everything Everything - Get To Heaven
+  - Playlists: None
+- 2015 - Snarky Puppy & Metropole Orkest - Sylva
+  - Playlists: None
+- 2015 - Stealing Sheep - Not Real
+  - Playlists: None
+- 2015 - Sufjan Stevens - Carrie & Lowell
+  - Playlists: None
+- 2015 - The Staves - If I Was
+  - Playlists: None
+- 2015 - Unknown Mortal Orchestra - Multi-Love
+  - Playlists: None
+- 2016 - Pinegrove - Cardinal
+  - Playlists: None
+- 2016 - Tycho - Epoch
+  - Playlists: None
+- 2017 - Bonobo - Migration
+  - Playlists: None
+- 2017 - Jesca Hoop - Memories Are Now
+  - Playlists: None
+- 2017 - Richard Dawson - Peasant
+  - Playlists: None
+- 2017 - This is the kit - Moonshine Freeze
+  - Playlists: None
+- 2018 - Bokanté, Jules Buckley & Metropole Orkest - What Heat
+  - Playlists: None
+- 2018 - Pinegrove - Skylight
+  - Playlists: None
+- 2018 - Pinegrove - Skylight II
+  - Playlists: None
+- 2018 - Wu Man & Wu Wei - Distant Mountains
+  - Playlists: None
+- 2019 - Psychedelic Porn Crumpets - And Now For The Whatchamacallit
+  - Playlists: None
+- 2019 - Ricardo Gallén - Leo Brouwer Guitar Sonatas
+  - Playlists: None
+- 2019 - Tim Baker - Forever Overhead
+  - Playlists: None
+- 2020 - Bombay Bicycle Club - Everything Else Has Gone Wrong
+  - Playlists: None
+- 2020 - Pinegrove - Marigold
+  - Playlists: None
+- 2020 - This Is the Kit - Off Off On
+  - Playlists: None
+- 2021 - The Magic Lantern - A Reckoning Bell
+  - Playlists: None
+- 2022 - Pinegrove - 11-11
+  - Playlists: None
+- 2022 - Psychedelic Porn Crumpets - Night Gnomes
+  - Playlists: None
+- 2022 - Youth Sector - Adult Contemporary
+  - Playlists: None
+
+## Road trip
+
+- 1940 - Woody Guthrie - Dust Bowl Ballads
+  - Playlists: Road trip
+
+## All playlists
+
+- 1940 - Woody Guthrie - Dust Bowl Ballads
+  - Playlists: Road trip
+- 1956 - Ravi Shankar - Three Ragas
+  - Playlists: None
+- 1958 - Cannonball Adderley - Somethin' Else
+  - Playlists: None
+- 1958 - John Coltrane - Blue Train
+  - Playlists: None
+- 1959 - Charles Mingus - Mingus Ah Um
+  - Playlists: None
+- 1959 - Miles Davis - Kind of Blue
+  - Playlists: None
+- 1959 - The Dave Brubeck Quartet - Time Out
+  - Playlists: None
+- 1960 - Wes Montgomery - The incredible jazz guitar of wes montgomery
+  - Playlists: None
+- 1961 - John Coltrane - My favourite things
+  - Playlists: None
+- 1963 - Bob Dylan - The Freewheelin' Bob Dylan
+  - Playlists: None
+- 1963 - Charles Mingus - The Black Saint and the Sinner Lady
+  - Playlists: None
+- 1965 - Bert Jansch - Bert Jansch
+  - Playlists: None
+- 1965 - Bob Dylan - Highway 61 Revisited
+  - Playlists: None
+- 1965 - John Coltrane - A Love Supreme
+  - Playlists: None
+- 1967 - Cream - Disraeli Gears
+  - Playlists: None
+- 1967 - Leonard Cohen - Songs of Leonard Cohen
+  - Playlists: None
+- 1967 - Love - Forever Changes
+  - Playlists: None
+- 1967 - The Doors - The Doors
+  - Playlists: None
+- 1967 - The Jimi Hendrix Experience - Are you experienced
+  - Playlists: None
+- 1968 - The Incredible String Band - The Hangman's Beautiful Daughter
+  - Playlists: None
+- 1968 - The Jimi Hendrix Experience - Electric Ladyland
+  - Playlists: None
+- 1968 - Van Morrison - Astral Weeks
+  - Playlists: None
+- 1969 - Crosby, Stills & Nash - Crosby, Stills & Nash
+  - Playlists: None
+- 1969 - King Crimson - In the Court of the Crimson King
+  - Playlists: None
+- 1969 - Leonard Cohen - Songs From A Room
+  - Playlists: None
+- 1969 - Nick Drake - Five Leaves Left
+  - Playlists: None
+- 1969 - Pentangle - Basket Of Light
+  - Playlists: None
+- 1970 - Black Sabbath - Black Sabbath
+  - Playlists: None
+- 1970 - Black Sabbath - Paranoid
+  - Playlists: None
+- 1970 - Curtis Mayfield - Curtis
+  - Playlists: None
+- 1970 - James Taylor - Sweet Baby James
+  - Playlists: None
+- 1970 - Simon and Garfunkel - Bridge Over Troubled Water
+  - Playlists: None
+- 1970 - Vashti Bunyan - Just Another Diamond Day
+  - Playlists: None
+- 1971 - Black Sabbath - Master of Reality
+  - Playlists: None
+- 1971 - David Bowie - Hunky Dory
+  - Playlists: None
+- 1971 - Fabrizio De Andre - Non al denaro non all'amore nè al cielo
+  - Playlists: None
+- 1971 - Gil Scott-Heron - Pieces Of A Man
+  - Playlists: None
+- 1971 - J. J. Cale - Naturally
+  - Playlists: None
+- 1971 - James Taylor - Mud Slide Slim
+  - Playlists: None
+- 1971 - Jethro Tull - Aqualung
+  - Playlists: None
+- 1971 - John Martyn - Bless The Weather
+  - Playlists: None
+- 1971 - Joni Mitchell - Blue
+  - Playlists: None
+- 1971 - Leonard Cohen - songs of love and hate
+  - Playlists: None
+- 1971 - Nick Drake - Bryter Layter
+  - Playlists: None
+- 1971 - Paul & Linda McCartney - Ram
+  - Playlists: None
+- 1971 - Roy Harper - Stormcock
+  - Playlists: None
+- 1971 - Van Morrison - Tupelo Honey
+  - Playlists: None
+- 1971 - Yes - Fragile
+  - Playlists: None
+- 1972 - Curtis Mayfield - Super Fly
+  - Playlists: None
+- 1972 - David Bowie - The rise and fall of Ziggy Stardust and the spiders from Mars
+  - Playlists: None
+- 1972 - Deep Purple - Machine Head
+  - Playlists: None
+- 1972 - Jethro Tull - Thick as a Brick
+  - Playlists: None
+- 1972 - Nick Drake - Pink Moon
+  - Playlists: None
+- 1972 - Steely Dan - Can’t Buy A Thrill
+  - Playlists: None
+- 1972 - Yes - Close To The Edge
+  - Playlists: None
+- 1973 - Fabrizio De Andre - Storia di un inpiegato
+  - Playlists: None
+- 1973 - Herbie Hancock - Head Hunters
+  - Playlists: None
+- 1973 - James Brown - The Payback
+  - Playlists: None
+- 1973 - Magnet - The Wicker Man
+  - Playlists: None
+- 1973 - Paul McCartney & Wings - Band On The Run
+  - Playlists: None
+- 1973 - Pink Floyd - The Dark Side of the Moon
+  - Playlists: None
+- 1973 - Steely Dan - Countdown To Ecstasy
+  - Playlists: None
+- 1973 - Stevie Wonder - Innervisions
+  - Playlists: None
+- 1973 - The Isley Brothers - 3+3
+  - Playlists: None
+- 1974 - Camel - Mirage
+  - Playlists: None
+- 1974 - Harmonium - Harmonium
+  - Playlists: None
+- 1974 - King Crimson - Red
+  - Playlists: None
+- 1974 - Osamu Kitajima - Benzaiten
+  - Playlists: None
+- 1974 - Steely Dan - Pretzel Logic
+  - Playlists: None
+- 1975 - Harmonium - Si on avait besoin d'une cinquième saison
+  - Playlists: None
+- 1975 - Parliament - Mothership Connection
+  - Playlists: None
+- 1975 - Pink Floyd - Wish You Were Here
+  - Playlists: None
+- 1975 - Steely Dan - Katy Lied
+  - Playlists: None
+- 1976 - Harmonium - L'Heptade
+  - Playlists: None
+- 1976 - Rainbow - Rising
+  - Playlists: None
+- 1976 - Rush - 2112
+  - Playlists: None
+- 1976 - Shakti - A Handful Of Beauty
+  - Playlists: None
+- 1976 - Steely Dan - The Royal Scam
+  - Playlists: None
+- 1977 - Fela Kuti - Zombie
+  - Playlists: None
+- 1977 - Fleetwood Mac - Rumours
+  - Playlists: None
+- 1977 - Pink Floyd - Animals
+  - Playlists: None
+- 1977 - Shakti - Natural elements
+  - Playlists: None
+- 1977 - Steely Dan - Aja
+  - Playlists: None
+- 1978 - Dire Straits - Dire Straits
+  - Playlists: None
+- 1978 - Steve Reich - Music for 18 musicians
+  - Playlists: None
+- 1979 - Pink Floyd - The Wall
+  - Playlists: None
+- 1980 - Talking Heads - Remain in Light
+  - Playlists: None
+- 1982 - Iron Maiden - The number of the beast
+  - Playlists: None
+- 1984 - Baltar Benitez - Music of Astor Piazzolla
+  - Playlists: None
+- 1984 - Iron Maiden - Powerslave
+  - Playlists: None
+- 1984 - The Smiths - The Smiths
+  - Playlists: None
+- 1985 - Tom Waits - Rain Dogs
+  - Playlists: None
+- 1986 - Nick Drake - Time Of No Reply
+  - Playlists: None
+- 1986 - The Smiths - The Queen Is Dead
+  - Playlists: None
+- 1988 - Pixies - Surfer Rosa
+  - Playlists: None
+- 1989 - Pixies - Doolittle
+  - Playlists: None
+- 1989 - Steve Reich - Different trains, electric counterpoint
+  - Playlists: None
+- 1989 - The Necks - Sex
+  - Playlists: None
+- 1990 - Inkuyo - Land of the Incas (Music of the Andes)
+  - Playlists: None
+- 1991 - My Bloody Valentine - Loveless
+  - Playlists: None
+- 1991 - Pearl Jam - Ten
+  - Playlists: None
+- 1991 - Red Hot Chili Peppers - Blood Sugar Sex Magik
+  - Playlists: None
+- 1991 - Slint - Spiderland
+  - Playlists: None
+- 1992 - Gang Starr - Daily Operation
+  - Playlists: None
+- 1992 - Pete Rock and CL Smooth - Mecca And The Soul Brother
+  - Playlists: None
+- 1993 - Ry Cooder & V.M. Bhatt - A Meeting by the River
+  - Playlists: None
+- 1993 - Souls Of Mischief - 93 'Til Infinity
+  - Playlists: None
+- 1993 - Wu-Tang Clan - Enter the Wu-Tang (36 Chambers)
+  - Playlists: None
+- 1994 - Ali Farka Touré and Ry Cooder - Talking Timbuktu (with Ry Cooder)
+  - Playlists: None
+- 1994 - Green Day - Dookie
+  - Playlists: None
+- 1994 - Jeff Buckley - Grace
+  - Playlists: None
+- 1994 - Kemba Sussoko - La Kora Des Griots Mandingues
+  - Playlists: None
+- 1994 - Nas - Illmatic
+  - Playlists: None
+- 1994 - The Necks - Aquatic
+  - Playlists: None
+- 1994 - The Notorious B.I.G. - Ready To Die
+  - Playlists: None
+- 1994 - Woob - 1194
+  - Playlists: None
+- 1995 - Big L - Lifestylez Ov Da Poor & Dangerous
+  - Playlists: None
+- 1995 - David Russell - The Music Of Agustin Barrios Mangoré
+  - Playlists: None
+- 1995 - Elliott Smith - Elliott Smith
+  - Playlists: None
+- 1995 - GZA - Liquid Swords
+  - Playlists: None
+- 1995 - John Williams - The Great Paraguayan - Guitar Music Of Barrios
+  - Playlists: None
+- 1995 - Mobb Deep - The Infamous
+  - Playlists: None
+- 1995 - Toumani Diabate - Djelika
+  - Playlists: None
+- 1996 - Belle and Sebastian - Tigermilk
+  - Playlists: None
+- 1996 - Cardiacs - Sing to God
+  - Playlists: None
+- 1996 - Failure - Fantastic Planet
+  - Playlists: None
+- 1996 - Julian Bream - The Ultimate Guitar Collection
+  - Playlists: None
+- 1996 - Michael Tröster - El Decameron Negro
+  - Playlists: None
+- 1996 - Placebo - Come home
+  - Playlists: None
+- 1997 - David Russell - Music of Moreno Torroba
+  - Playlists: None
+- 1997 - Dispatch - Bang Bang
+  - Playlists: None
+- 1997 - Elliott Smith - Either-Or
+  - Playlists: None
+- 1997 - Modest Mouse - The Lonesome Crowded West
+  - Playlists: None
+- 1997 - Radiohead - OK Computer
+  - Playlists: None
+- 1998 - Habib Koité & Bamada - Ma Ya
+  - Playlists: None
+- 1998 - Neutral Milk Hotel - In the Aeroplane Over the Sea
+  - Playlists: None
+- 1998 - Tuatara - Trading With The Enemy
+  - Playlists: None
+- 1999 - MF DOOM - Operation Doomsday
+  - Playlists: None
+- 1999 - Mos Def - Black On Both Sides
+  - Playlists: None
+- 1999 - Red Hot Chili Peppers - Californication
+  - Playlists: None
+- 1999 - The Necks - Hanging Gardens
+  - Playlists: None
+- 2000 - Adam Holzman - Lauro - Venezuelan Waltzes For Guitar
+  - Playlists: None
+- 2000 - Luomo - Vocalcity
+  - Playlists: None
+- 2000 - Mamadou Diabate - Tunga
+  - Playlists: None
+- 2000 - Modest Mouse - The Moon & Antarctica
+  - Playlists: None
+- 2000 - Norbert Kraft - Villa-Lobos - Music For Solo Guitar (Complete)
+  - Playlists: None
+- 2001 - Daft Punk - Discovery
+  - Playlists: None
+- 2001 - Spoon - Girls Can Tell
+  - Playlists: None
+- 2001 - The shins - Oh, Inverted World
+  - Playlists: None
+- 2001 - The strokes - Is this it
+  - Playlists: None
+- 2002 - Andres Segovia - The art of Segovia
+  - Playlists: None
+- 2002 - Johnny Cash - American IV - The Man Comes Around
+  - Playlists: None
+- 2002 - The Flaming Lips - Yoshimi Battles the Pink Robots
+  - Playlists: None
+- 2003 - Blink-182 - Blink-182
+  - Playlists: None
+- 2003 - Kélétigui Diabaté - Sandiya
+  - Playlists: None
+- 2003 - Solar Fields - Blue Moon Station
+  - Playlists: None
+- 2003 - The Necks - Drive By
+  - Playlists: None
+- 2003 - The Strokes - Room on fire
+  - Playlists: None
+- 2003 - The shins - Chutes Too Narrow
+  - Playlists: None
+- 2004 - Acrade Fire - Funeral
+  - Playlists: None
+- 2004 - Green Day - American Idiot
+  - Playlists: None
+- 2004 - Iron and Wine - Our Endless Numbered Days
+  - Playlists: None
+- 2004 - Joanna Newsom - The Milk-Eyed Mender
+  - Playlists: None
+- 2004 - Kasabian - Kasabian
+  - Playlists: None
+- 2004 - MF DOOM - MM.. Food
+  - Playlists: None
+- 2004 - Madvillain - Madvillainy
+  - Playlists: None
+- 2004 - Modest Mouse - Good News For People Who Love Bad News
+  - Playlists: None
+- 2004 - Phoenix - Alphabetical
+  - Playlists: None
+- 2004 - Rodrigo y gabriela - Re-foc
+  - Playlists: None
+- 2004 - The Zutons - Who killed the zutons
+  - Playlists: None
+- 2005 - Boards Of Canada - The Campfire Headphase
+  - Playlists: None
+- 2005 - Dengue Fever - Escape From Dragon House
+  - Playlists: None
+- 2005 - Fat Freddy's Drop - Based On a True Story
+  - Playlists: None
+- 2005 - Flyleaf - Flyleaf
+  - Playlists: None
+- 2005 - Paramore - All we know is falling
+  - Playlists: None
+- 2005 - Solar Fields - Leaving Home
+  - Playlists: None
+- 2006 - Arctic Monkeys - Whatever People Say I Am, That's What I'm Not
+  - Playlists: None
+- 2006 - Bassekou Kouyaté & Ngoni Ba - Segu Blue
+  - Playlists: None
+- 2006 - Brand New - The Devil And God Are Raging Inside Me
+  - Playlists: None
+- 2006 - Corinne Bailey Rae - Corinne Bailey Rae
+  - Playlists: None
+- 2006 - Midlake - The trials of Van Occupanther
+  - Playlists: None
+- 2006 - Ratatat - Classics
+  - Playlists: None
+- 2006 - Red Hot Chili Peppers - Stadium Arcadium
+  - Playlists: None
+- 2006 - Rodrigo y gabriela - Rodrigo y gabriela
+  - Playlists: None
+- 2006 - Silversun Pickups - Carnavas
+  - Playlists: None
+- 2006 - Ugly Duckling - Bang For The Buck
+  - Playlists: None
+- 2007 - Arctic Monkeys - Favourite Worst Nightmare
+  - Playlists: None
+- 2007 - Biffy Clyro - Puzzle
+  - Playlists: None
+- 2007 - Bon Iver - For Emma, Forever Ago
+  - Playlists: None
+- 2007 - Foo Fighters - Echoes, Silence, Patience & Grace
+  - Playlists: None
+- 2007 - Iron and Wine-The Shepherd's Dog
+  - Playlists: None
+- 2007 - Kanye West - Graduation
+  - Playlists: None
+- 2007 - Paramore - Riot!
+  - Playlists: None
+- 2007 - Pigeon detectives - Wait for me
+  - Playlists: None
+- 2007 - Tinariwen - Aman Iman Water Is Life
+  - Playlists: None
+- 2008 - CALLmeKAT
+  - Playlists: None
+- 2008 - Cage the elephant - cage the elephant
+  - Playlists: None
+- 2008 - Causa Sui - Summer Sessions Vol. 1
+  - Playlists: None
+- 2008 - Coldplay - Viva la Vida or Death and All His Friends
+  - Playlists: None
+- 2008 - Infadels - Universe In Reverse
+  - Playlists: None
+- 2008 - Johnny Flynn - A Larum
+  - Playlists: None
+- 2008 - Kouyaté-Neerman - Kangaba
+  - Playlists: None
+- 2008 - Matthew Halsall - Sending My Love (Special Edition)
+  - Playlists: None
+- 2008 - Pete and the pirates - Little death
+  - Playlists: None
+- 2009 - Biffy Clyro - Only Revolutions
+  - Playlists: None
+- 2009 - Bombay Bicycle Club - I Had The Blues But I Shook Them Loose
+  - Playlists: None
+- 2009 - Causa Sui - Summer Sessions Vol. 2
+  - Playlists: None
+- 2009 - Causa Sui - Summer Sessions Vol. 3
+  - Playlists: None
+- 2009 - Florence and the Machine - Lungs
+  - Playlists: None
+- 2009 - Flyleaf - Memento Mori
+  - Playlists: None
+- 2009 - John Williams - Spanish Guitar Music
+  - Playlists: None
+- 2009 - Matthew Halsall - Colour Yes (Special Edition)
+  - Playlists: None
+- 2009 - Phoenix - Wolfgang amadeus phoenix
+  - Playlists: None
+- 2009 - Placebo - Battle for the Sun
+  - Playlists: None
+- 2009 - Rodrigo y gabriela - 11-11
+  - Playlists: None
+- 2009 - Solar Fields - Mirror's Edge
+  - Playlists: None
+- 2009 - St. Vincent - Actor
+  - Playlists: None
+- 2009 - Tapes 'n Tapes - The Loon
+  - Playlists: None
+- 2010 - Arcade Fire - The Suburbs
+  - Playlists: None
+- 2010 - Basia Bulat - Heart Of My Own
+  - Playlists: None
+- 2010 - Bombay Bicycle Club - Flaws
+  - Playlists: None
+- 2010 - Bonobo - Black Sands
+  - Playlists: None
+- 2010 - Darwin Deez - Darwin Deez
+  - Playlists: None
+- 2010 - Everything Everything - Man Alive
+  - Playlists: None
+- 2010 - Kanye West - My Beautiful Dark Twisted Fantasy
+  - Playlists: None
+- 2010 - Snarky Puppy - Tell Your Friends
+  - Playlists: None
+- 2010 - Tame Impala - Innerspeaker
+  - Playlists: None
+- 2010 - The tallest man on earth - The wild hunt
+  - Playlists: None
+- 2010 - This Is the Kit - Wriggle Out The Restless
+  - Playlists: None
+- 2010 - Two door cinema club - Tourist history
+  - Playlists: None
+- 2011 - Bombay Bicycle Club - A Different Kind of Fix
+  - Playlists: None
+- 2011 - Bon Iver - Bon Iver
+  - Playlists: None
+- 2011 - Fatoumata Diawara - Fatou
+  - Playlists: None
+- 2011 - Foo Fighters - Wasting Light
+  - Playlists: None
+- 2011 - Metronomy - The English Riviera
+  - Playlists: None
+- 2011 - Pete and the pirates - One thousand pictures
+  - Playlists: None
+- 2011 - Submotion Orchestra - Finest Hour
+  - Playlists: None
+- 2011 - Tycho - Dive
+  - Playlists: None
+- 2011 - Uncle Acid And The Deadbeats - Blood Lust
+  - Playlists: None
+- 2011 - Unknown Mortal Orchestra - Unknown Mortal Orchestra
+  - Playlists: None
+- 2011 - White Denim - D
+  - Playlists: None
+- 2012 - Alt-J - An Awesome Wave
+  - Playlists: None
+- 2012 - Dog Is Dead - All Our Favourite Stories
+  - Playlists: None
+- 2012 - Goat - World Music
+  - Playlists: None
+- 2012 - Modern Baseball - Sports
+  - Playlists: None
+- 2012 - Pinegrove - Meridian
+  - Playlists: None
+- 2012 - Pond - Beard, Wives, Denim
+  - Playlists: None
+- 2012 - Shakey Graves - Roll the Bones
+  - Playlists: None
+- 2012 - Stoned Jesus - Seven Thunders Roar
+  - Playlists: None
+- 2012 - The Staves - Dead & Born & Grown
+  - Playlists: None
+- 2012 - Thriftworks - Rainmaker
+  - Playlists: None
+- 2013 - Arctic Monkeys - AM
+  - Playlists: None
+- 2013 - Darwin Deez - Songs for Imaginative People
+  - Playlists: None
+- 2013 - Dinosaur pile-up - Nature nurture
+  - Playlists: None
+- 2013 - Fat Freddy's Drop - Blackbird
+  - Playlists: None
+- 2013 - Haim - Days Are Gone
+  - Playlists: None
+- 2013 - Midlake - Antiphon
+  - Playlists: None
+- 2013 - Phoenix - Bankrupt!
+  - Playlists: None
+- 2013 - Uncle Acid ad the Deadbeats - Mind Control
+  - Playlists: None
+- 2013 - Unknown Mortal Orchestra - II
+  - Playlists: None
+- 2014 - Bombay Bicycle Club - So Long See You Tomorrow
+  - Playlists: None
+- 2014 - Modern Baseball - You're Gonna Miss It All
+  - Playlists: None
+- 2014 - Nick Mulvey - First Mind
+  - Playlists: None
+- 2014 - Snarky Puppy - We Like It Here
+  - Playlists: None
+- 2014 - Temples - Sun Structures
+  - Playlists: None
+- 2014 - Tinariwen - Emmaar
+  - Playlists: None
+- 2014 - Tuatara - Underworld
+  - Playlists: None
+- 2015 - Everything Everything - Get To Heaven
+  - Playlists: None
+- 2015 - Snarky Puppy & Metropole Orkest - Sylva
+  - Playlists: None
+- 2015 - Stealing Sheep - Not Real
+  - Playlists: None
+- 2015 - Sufjan Stevens - Carrie & Lowell
+  - Playlists: None
+- 2015 - The Staves - If I Was
+  - Playlists: None
+- 2015 - Unknown Mortal Orchestra - Multi-Love
+  - Playlists: None
+- 2016 - Pinegrove - Cardinal
+  - Playlists: None
+- 2016 - Tycho - Epoch
+  - Playlists: None
+- 2017 - Bonobo - Migration
+  - Playlists: None
+- 2017 - Jesca Hoop - Memories Are Now
+  - Playlists: None
+- 2017 - Richard Dawson - Peasant
+  - Playlists: None
+- 2017 - This is the kit - Moonshine Freeze
+  - Playlists: None
+- 2018 - Bokanté, Jules Buckley & Metropole Orkest - What Heat
+  - Playlists: None
+- 2018 - Pinegrove - Skylight
+  - Playlists: None
+- 2018 - Pinegrove - Skylight II
+  - Playlists: None
+- 2018 - Wu Man & Wu Wei - Distant Mountains
+  - Playlists: None
+- 2019 - Psychedelic Porn Crumpets - And Now For The Whatchamacallit
+  - Playlists: None
+- 2019 - Ricardo Gallén - Leo Brouwer Guitar Sonatas
+  - Playlists: None
+- 2019 - Tim Baker - Forever Overhead
+  - Playlists: None
+- 2020 - Bombay Bicycle Club - Everything Else Has Gone Wrong
+  - Playlists: None
+- 2020 - Pinegrove - Marigold
+  - Playlists: None
+- 2020 - This Is the Kit - Off Off On
+  - Playlists: None
+- 2021 - The Magic Lantern - A Reckoning Bell
+  - Playlists: None
+- 2022 - Pinegrove - 11-11
+  - Playlists: None
+- 2022 - Psychedelic Porn Crumpets - Night Gnomes
+  - Playlists: None
+- 2022 - Youth Sector - Adult Contemporary
+  - Playlists: None
