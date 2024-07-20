@@ -36,6 +36,8 @@ def main():
     for album in album_list:
         album.print(printer)
 
+    util.save_text("\n".join(a.name for a in album_list), "albums", ".")
+
 class Album:
     def __init__(self, album_config):
         self.config = album_config
