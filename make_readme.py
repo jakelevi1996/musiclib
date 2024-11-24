@@ -2,10 +2,7 @@ from jutility import util
 
 def main():
     config = util.load_json("config.json")
-    album_list  = sorted(
-        [Album(**d) for d in config],
-        key=lambda a: a.name,
-    )
+    album_list  = sorted(Album(**d) for d in config)
     playlists = sorted(set(p for a in album_list for p in a.playlists))
     playlist_dict = {
         playlist: [
@@ -64,6 +61,9 @@ class Album:
 
     def in_playlist(self, playlist):
         return (playlist in self.playlists)
+
+    def __lt__(self, other: "Album"):
+        return self.name < other.name
 
     def __repr__(self):
         return "Album(%s)" % self.name
