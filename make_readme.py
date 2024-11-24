@@ -2,8 +2,11 @@ from jutility import util
 
 def main():
     config = util.load_json("config.json")
-    album_list  = sorted([Album(d) for d in config], key=lambda a: a.name)
-    playlists = sorted(set(p for a in album_list for p in a.get_playlists()))
+    album_list  = sorted(
+        [Album(**d) for d in config],
+        key=lambda a: a.name,
+    )
+    playlists = sorted(set(p for a in album_list for p in a.playlists))
     playlist_dict = {
         playlist: [
             album for album in album_list
@@ -39,34 +42,28 @@ def main():
     util.save_text("\n".join(a.name for a in album_list), "albums", ".")
 
 class Album:
-    def __init__(self, album_config):
-        self.config = album_config
+    def __init__(
+        self,
+        name: str,
+        playlists: list[str],
+    ):
+        assert isinstance(name, str)
+        assert isinstance(playlists, list)
+        assert len(name) > 0
+        assert len(playlists) > 0
 
-        assert self.is_valid_key("name", str)
-        assert self.is_valid_key("playlists", list)
-
-        self.name = album_config["name"]
-
-    def is_valid_key(self, key, dtype=str):
-        return (
-            (key in self.config)
-            and (self.config[key] is not None)
-            and (isinstance(self.config[key], dtype))
-            and (len(self.config[key]) > 0)
-        )
+        self.name = name
+        self.playlists = playlists
 
     def print(self, printer):
         printer("- %s" % self.name)
         printer(
             "  - Playlists: %s"
-            % ", ".join(sorted(self.config["playlists"]))
+            % ", ".join(sorted(self.playlists))
         )
 
-    def get_playlists(self):
-        return self.config["playlists"]
-
     def in_playlist(self, playlist):
-        return (playlist in self.config["playlists"])
+        return (playlist in self.playlists)
 
     def __repr__(self):
         return "Album(%s)" % self.name
