@@ -18,11 +18,11 @@ def main():
     num_albums = len(album_list)
 
     printer("\n## Contents\n")
-    for playlist in ["Contents"] + playlists + ["All playlists"]:
+    for playlist in ["Contents"] + playlists + ["All albums"]:
         link_str = playlist.lower().replace(" ", "-")
         if playlist in playlist_dict:
             playlist = "%s (%i)" % (playlist, len(playlist_dict[playlist]))
-        if playlist == "All playlists":
+        if playlist == "All albums":
             playlist = "%s (%i)" % (playlist, len(album_list))
 
         printer("- [%s](#%s)" % (playlist, link_str))
@@ -32,7 +32,7 @@ def main():
         for album in playlist_dict[playlist]:
             album.print(printer)
 
-    printer("\n## All playlists\n")
+    printer("\n## All albums\n")
     for album in album_list:
         album.print(printer)
 

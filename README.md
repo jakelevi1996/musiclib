@@ -6,7 +6,7 @@
 - [Heavy (1)](#heavy)
 - [None (42)](#none)
 - [Road trip (251)](#road-trip)
-- [All playlists (293)](#all-playlists)
+- [All albums (293)](#all-albums)
 
 ## Heavy
 
@@ -605,7 +605,7 @@
 - 2022 - Youth Sector - Adult Contemporary
   - Playlists: Road trip
 
-## All playlists
+## All albums
 
 - 1940 - Woody Guthrie - Dust Bowl Ballads
   - Playlists: Road trip
