@@ -4,6 +4,7 @@ from make_readme import Album
 
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 PLAYLIST_DIR = os.path.join(CURRENT_DIR, "playlists")
+PLAYLIST_INFO_DIR = os.path.join(CURRENT_DIR, "playlist_info")
 IGNORE_EXTS = [
     ".bmp",
     ".jpeg",
@@ -19,7 +20,7 @@ IGNORE_EXTS = [
 def main():
     config = util.load_json("config.json")
     album_list = [Album(**d) for d in config]
-    album_dict = {a.name: a for a in album_list}
+    album_names = set(a.name for a in album_list)
     playlists = set(playlist for a in album_list for playlist in a.playlists)
     playlist_dict = {
         playlist: sorted(
@@ -39,10 +40,10 @@ def main():
     album_to_dir = {
         os.path.basename(d): d
         for d in music_dirs
-        if os.path.basename(d) in album_dict
+        if os.path.basename(d) in album_names
     }
 
-    missing_albums = set(album_dict.keys()) - set(album_to_dir.keys())
+    missing_albums = album_names - set(album_to_dir.keys())
     if len(missing_albums) > 0:
         raise RuntimeError(
             "The following albums could not be found on disk: %s"
@@ -78,6 +79,19 @@ def main():
         )
         for album in album_list:
             m3u_printer(*album_to_files[album.name], sep="\n")
+
+        info_printer = util.Printer(
+            playlist,
+            PLAYLIST_INFO_DIR,
+            print_to_console=False,
+        )
+        included_album_names = set(a.name for a in album_list)
+        excluded_album_names = album_names - included_album_names
+        info_printer("Albums in playlist:")
+        info_printer(*sorted(included_album_names), sep="\n")
+        info_printer.hline()
+        info_printer("Albums NOT in playlist:")
+        info_printer(*sorted(excluded_album_names), sep="\n")
 
 if __name__ == "__main__":
     with util.Timer("main"):
