@@ -42,7 +42,7 @@ def main():
         a: sorted(
             os.path.relpath(
                 os.path.join(music_root_dir, d, f),
-                music_root_dir,
+                os.path.join(music_root_dir, "playlists"),
             )
             for root, dirs, files in os.walk(os.path.join(music_root_dir, d))
             for f in files
