@@ -58,7 +58,7 @@ def main():
             )
             for root, dirs, files in os.walk(os.path.join(music_root_dir, d))
             for f in files
-            if os.path.splitext(f)[-1] not in IGNORE_EXTS
+            if os.path.splitext(f)[-1].lower() not in IGNORE_EXTS
         )
         for a, d in album_to_dir.items()
     }
