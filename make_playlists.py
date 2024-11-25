@@ -4,6 +4,17 @@ from make_readme import Album
 
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 PLAYLIST_DIR = os.path.join(CURRENT_DIR, "playlists")
+IGNORE_EXTS = [
+    ".bmp",
+    ".jpeg",
+    ".jpg",
+    ".log",
+    ".m3u",
+    ".nfo",
+    ".pdf",
+    ".png",
+    ".txt",
+]
 
 def main():
     config = util.load_json("config.json")
@@ -46,9 +57,17 @@ def main():
             )
             for root, dirs, files in os.walk(os.path.join(music_root_dir, d))
             for f in files
+            if os.path.splitext(f)[-1] not in IGNORE_EXTS
         )
         for a, d in album_to_dir.items()
     }
+
+    file_exts = set(
+        ext
+        for f_list in album_to_files.values()
+        for f in f_list
+        for root, ext in [os.path.splitext(f)]
+    )
 
     for playlist, album_list in playlist_dict.items():
         m3u_printer = util.Printer(
