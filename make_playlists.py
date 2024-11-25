@@ -25,12 +25,11 @@ def main():
         for root, dirs, files in os.walk(music_root_dir)
         for d in dirs
     )
-    dir_to_album = {
-        d: album_dict[os.path.basename(d)].name
+    album_to_dir = {
+        os.path.basename(d): d
         for d in music_dirs
         if os.path.basename(d) in album_dict
     }
-    album_to_dir = {a: d for d, a in dir_to_album.items()}
 
     missing_albums = set(album_dict.keys()) - set(album_to_dir.keys())
     if len(missing_albums) > 0:
