@@ -7,6 +7,7 @@ PLAYLIST_DIR = os.path.join(CURRENT_DIR, "playlists")
 PLAYLIST_INFO_DIR = os.path.join(CURRENT_DIR, "playlist_info")
 IGNORE_EXTS = [
     ".bmp",
+    ".cue",
     ".jpeg",
     ".jpg",
     ".log",
