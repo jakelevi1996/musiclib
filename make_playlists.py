@@ -33,7 +33,7 @@ def main():
     music_root_dir = os.path.expanduser("~/Music")
 
     music_dirs = set(
-        os.path.relpath(os.path.join(root, d), music_root_dir)
+        os.path.join(root, d)
         for root, dirs, files in os.walk(music_root_dir)
         for d in dirs
     )
@@ -53,10 +53,10 @@ def main():
     album_to_files = {
         a: sorted(
             os.path.relpath(
-                os.path.join(music_root_dir, d, f),
+                os.path.join(root, f),
                 os.path.join(music_root_dir, "playlists"),
             )
-            for root, dirs, files in os.walk(os.path.join(music_root_dir, d))
+            for root, dirs, files in os.walk(d)
             for f in files
             if os.path.splitext(f)[-1].lower() not in IGNORE_EXTS
         )
