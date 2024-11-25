@@ -65,10 +65,9 @@ def main():
     }
 
     file_exts = set(
-        ext
+        os.path.splitext(f)[-1]
         for f_list in album_to_files.values()
         for f in f_list
-        for root, ext in [os.path.splitext(f)]
     )
 
     for playlist, album_list in playlist_dict.items():
