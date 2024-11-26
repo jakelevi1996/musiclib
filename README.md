@@ -3,36 +3,83 @@
 ## Contents
 
 - [Contents](#contents)
+- [Calm (22)](#calm)
 - [Focus (37)](#focus)
-- [Heavy (1)](#heavy)
 - [None (36)](#none)
 - [Road trip (251)](#road-trip)
 - [All albums (293)](#all-albums)
+
+## Calm
+
+- 1965 - Bert Jansch - Bert Jansch
+  - Playlists: Calm, Road trip
+- 1976 - Shakti - A Handful Of Beauty
+  - Playlists: Calm, Focus, Road trip
+- 1977 - Shakti - Natural elements
+  - Playlists: Calm, Focus, Road trip
+- 1990 - Inkuyo - Land of the Incas (Music of the Andes)
+  - Playlists: Calm, Focus, Road trip
+- 1993 - Ry Cooder & V.M. Bhatt - A Meeting by the River
+  - Playlists: Calm, Focus, Road trip
+- 1995 - Toumani Diabate - Djelika
+  - Playlists: Calm, Focus, Road trip
+- 1998 - Habib Koité & Bamada - Ma Ya
+  - Playlists: Calm, Road trip
+- 2004 - Iron and Wine - Our Endless Numbered Days
+  - Playlists: Calm, Road trip
+- 2004 - Rodrigo y gabriela - Re-foc
+  - Playlists: Calm, Focus, Road trip
+- 2006 - Corinne Bailey Rae - Corinne Bailey Rae
+  - Playlists: Calm, Road trip
+- 2007 - Iron and Wine-The Shepherd's Dog
+  - Playlists: Calm, Road trip
+- 2008 - Matthew Halsall - Sending My Love (Special Edition)
+  - Playlists: Calm, Focus, Road trip
+- 2009 - Matthew Halsall - Colour Yes (Special Edition)
+  - Playlists: Calm, Focus, Road trip
+- 2010 - Bombay Bicycle Club - Flaws
+  - Playlists: Calm, Road trip
+- 2010 - This Is the Kit - Wriggle Out The Restless
+  - Playlists: Calm, Road trip
+- 2011 - Fatoumata Diawara - Fatou
+  - Playlists: Calm, Road trip
+- 2012 - The Staves - Dead & Born & Grown
+  - Playlists: Calm, Road trip
+- 2014 - Nick Mulvey - First Mind
+  - Playlists: Calm, Road trip
+- 2015 - The Staves - If I Was
+  - Playlists: Calm, Road trip
+- 2017 - This is the kit - Moonshine Freeze
+  - Playlists: Calm, Road trip
+- 2020 - This Is the Kit - Off Off On
+  - Playlists: Calm, Road trip
+- 2021 - The Magic Lantern - A Reckoning Bell
+  - Playlists: Calm, Road trip
 
 ## Focus
 
 - 1973 - Herbie Hancock - Head Hunters
   - Playlists: Focus, Road trip
 - 1976 - Shakti - A Handful Of Beauty
-  - Playlists: Focus, Road trip
+  - Playlists: Calm, Focus, Road trip
 - 1977 - Fela Kuti - Zombie
   - Playlists: Focus, Road trip
 - 1977 - Shakti - Natural elements
-  - Playlists: Focus, Road trip
+  - Playlists: Calm, Focus, Road trip
 - 1978 - Steve Reich - Music for 18 musicians
   - Playlists: Focus, Road trip
 - 1989 - The Necks - Sex
   - Playlists: Focus
 - 1990 - Inkuyo - Land of the Incas (Music of the Andes)
-  - Playlists: Focus, Road trip
+  - Playlists: Calm, Focus, Road trip
 - 1993 - Ry Cooder & V.M. Bhatt - A Meeting by the River
-  - Playlists: Focus, Road trip
+  - Playlists: Calm, Focus, Road trip
 - 1994 - The Necks - Aquatic
   - Playlists: Focus
 - 1994 - Woob - 1194
   - Playlists: Focus
 - 1995 - Toumani Diabate - Djelika
-  - Playlists: Focus, Road trip
+  - Playlists: Calm, Focus, Road trip
 - 1998 - Tuatara - Trading With The Enemy
   - Playlists: Focus, Road trip
 - 1999 - The Necks - Hanging Gardens
@@ -44,7 +91,7 @@
 - 2003 - The Necks - Drive By
   - Playlists: Focus
 - 2004 - Rodrigo y gabriela - Re-foc
-  - Playlists: Focus, Road trip
+  - Playlists: Calm, Focus, Road trip
 - 2005 - Boards Of Canada - The Campfire Headphase
   - Playlists: Focus, Road trip
 - 2005 - Solar Fields - Leaving Home
@@ -56,13 +103,13 @@
 - 2008 - Causa Sui - Summer Sessions Vol. 1
   - Playlists: Focus, Road trip
 - 2008 - Matthew Halsall - Sending My Love (Special Edition)
-  - Playlists: Focus, Road trip
+  - Playlists: Calm, Focus, Road trip
 - 2009 - Causa Sui - Summer Sessions Vol. 2
   - Playlists: Focus, Road trip
 - 2009 - Causa Sui - Summer Sessions Vol. 3
   - Playlists: Focus, Road trip
 - 2009 - Matthew Halsall - Colour Yes (Special Edition)
-  - Playlists: Focus, Road trip
+  - Playlists: Calm, Focus, Road trip
 - 2009 - Rodrigo y gabriela - 11-11
   - Playlists: Focus, Road trip
 - 2009 - Solar Fields - Mirror's Edge
@@ -85,11 +132,6 @@
   - Playlists: Focus, Road trip
 - 2017 - Bonobo - Migration
   - Playlists: Focus, Road trip
-
-## Heavy
-
-- 2006 - Corinne Bailey Rae - Corinne Bailey Rae
-  - Playlists: Heavy, Road trip
 
 ## None
 
@@ -185,7 +227,7 @@
 - 1963 - Bob Dylan - The Freewheelin' Bob Dylan
   - Playlists: Road trip
 - 1965 - Bert Jansch - Bert Jansch
-  - Playlists: Road trip
+  - Playlists: Calm, Road trip
 - 1965 - Bob Dylan - Highway 61 Revisited
   - Playlists: Road trip
 - 1965 - John Coltrane - A Love Supreme
@@ -311,7 +353,7 @@
 - 1976 - Rush - 2112
   - Playlists: Road trip
 - 1976 - Shakti - A Handful Of Beauty
-  - Playlists: Focus, Road trip
+  - Playlists: Calm, Focus, Road trip
 - 1976 - Steely Dan - The Royal Scam
   - Playlists: Road trip
 - 1977 - Fela Kuti - Zombie
@@ -321,7 +363,7 @@
 - 1977 - Pink Floyd - Animals
   - Playlists: Road trip
 - 1977 - Shakti - Natural elements
-  - Playlists: Focus, Road trip
+  - Playlists: Calm, Focus, Road trip
 - 1977 - Steely Dan - Aja
   - Playlists: Road trip
 - 1978 - Dire Straits - Dire Straits
@@ -347,7 +389,7 @@
 - 1989 - Pixies - Doolittle
   - Playlists: Road trip
 - 1990 - Inkuyo - Land of the Incas (Music of the Andes)
-  - Playlists: Focus, Road trip
+  - Playlists: Calm, Focus, Road trip
 - 1991 - My Bloody Valentine - Loveless
   - Playlists: Road trip
 - 1991 - Pearl Jam - Ten
@@ -359,7 +401,7 @@
 - 1992 - Pete Rock and CL Smooth - Mecca And The Soul Brother
   - Playlists: Road trip
 - 1993 - Ry Cooder & V.M. Bhatt - A Meeting by the River
-  - Playlists: Focus, Road trip
+  - Playlists: Calm, Focus, Road trip
 - 1994 - Green Day - Dookie
   - Playlists: Road trip
 - 1994 - Jeff Buckley - Grace
@@ -367,7 +409,7 @@
 - 1995 - Elliott Smith - Elliott Smith
   - Playlists: Road trip
 - 1995 - Toumani Diabate - Djelika
-  - Playlists: Focus, Road trip
+  - Playlists: Calm, Focus, Road trip
 - 1996 - Belle and Sebastian - Tigermilk
   - Playlists: Road trip
 - 1996 - Cardiacs - Sing to God
@@ -385,7 +427,7 @@
 - 1997 - Radiohead - OK Computer
   - Playlists: Road trip
 - 1998 - Habib Koité & Bamada - Ma Ya
-  - Playlists: Road trip
+  - Playlists: Calm, Road trip
 - 1998 - Neutral Milk Hotel - In the Aeroplane Over the Sea
   - Playlists: Road trip
 - 1998 - Tuatara - Trading With The Enemy
@@ -425,7 +467,7 @@
 - 2004 - Green Day - American Idiot
   - Playlists: Road trip
 - 2004 - Iron and Wine - Our Endless Numbered Days
-  - Playlists: Road trip
+  - Playlists: Calm, Road trip
 - 2004 - Joanna Newsom - The Milk-Eyed Mender
   - Playlists: Road trip
 - 2004 - Kasabian - Kasabian
@@ -435,7 +477,7 @@
 - 2004 - Phoenix - Alphabetical
   - Playlists: Road trip
 - 2004 - Rodrigo y gabriela - Re-foc
-  - Playlists: Focus, Road trip
+  - Playlists: Calm, Focus, Road trip
 - 2004 - The Zutons - Who killed the zutons
   - Playlists: Road trip
 - 2005 - Boards Of Canada - The Campfire Headphase
@@ -453,7 +495,7 @@
 - 2006 - Bassekou Kouyaté & Ngoni Ba - Segu Blue
   - Playlists: Road trip
 - 2006 - Corinne Bailey Rae - Corinne Bailey Rae
-  - Playlists: Heavy, Road trip
+  - Playlists: Calm, Road trip
 - 2006 - Midlake - The trials of Van Occupanther
   - Playlists: Road trip
 - 2006 - Ratatat - Classics
@@ -475,7 +517,7 @@
 - 2007 - Foo Fighters - Echoes, Silence, Patience & Grace
   - Playlists: Road trip
 - 2007 - Iron and Wine-The Shepherd's Dog
-  - Playlists: Road trip
+  - Playlists: Calm, Road trip
 - 2007 - Kanye West - Graduation
   - Playlists: Road trip
 - 2007 - Paramore - Riot!
@@ -499,7 +541,7 @@
 - 2008 - Kouyaté-Neerman - Kangaba
   - Playlists: Road trip
 - 2008 - Matthew Halsall - Sending My Love (Special Edition)
-  - Playlists: Focus, Road trip
+  - Playlists: Calm, Focus, Road trip
 - 2008 - Pete and the pirates - Little death
   - Playlists: Road trip
 - 2009 - Biffy Clyro - Only Revolutions
@@ -513,7 +555,7 @@
 - 2009 - Florence and the Machine - Lungs
   - Playlists: Road trip
 - 2009 - Matthew Halsall - Colour Yes (Special Edition)
-  - Playlists: Focus, Road trip
+  - Playlists: Calm, Focus, Road trip
 - 2009 - Phoenix - Wolfgang amadeus phoenix
   - Playlists: Road trip
 - 2009 - Placebo - Battle for the Sun
@@ -531,7 +573,7 @@
 - 2010 - Basia Bulat - Heart Of My Own
   - Playlists: Road trip
 - 2010 - Bombay Bicycle Club - Flaws
-  - Playlists: Road trip
+  - Playlists: Calm, Road trip
 - 2010 - Bonobo - Black Sands
   - Playlists: Focus, Road trip
 - 2010 - Darwin Deez - Darwin Deez
@@ -545,7 +587,7 @@
 - 2010 - The tallest man on earth - The wild hunt
   - Playlists: Road trip
 - 2010 - This Is the Kit - Wriggle Out The Restless
-  - Playlists: Road trip
+  - Playlists: Calm, Road trip
 - 2010 - Two door cinema club - Tourist history
   - Playlists: Road trip
 - 2011 - Bombay Bicycle Club - A Different Kind of Fix
@@ -553,7 +595,7 @@
 - 2011 - Bon Iver - Bon Iver
   - Playlists: Road trip
 - 2011 - Fatoumata Diawara - Fatou
-  - Playlists: Road trip
+  - Playlists: Calm, Road trip
 - 2011 - Foo Fighters - Wasting Light
   - Playlists: Road trip
 - 2011 - Metronomy - The English Riviera
@@ -587,7 +629,7 @@
 - 2012 - Stoned Jesus - Seven Thunders Roar
   - Playlists: Road trip
 - 2012 - The Staves - Dead & Born & Grown
-  - Playlists: Road trip
+  - Playlists: Calm, Road trip
 - 2013 - Arctic Monkeys - AM
   - Playlists: Road trip
 - 2013 - Darwin Deez - Songs for Imaginative People
@@ -611,7 +653,7 @@
 - 2014 - Modern Baseball - You're Gonna Miss It All
   - Playlists: Road trip
 - 2014 - Nick Mulvey - First Mind
-  - Playlists: Road trip
+  - Playlists: Calm, Road trip
 - 2014 - Snarky Puppy - We Like It Here
   - Playlists: Focus, Road trip
 - 2014 - Temples - Sun Structures
@@ -629,7 +671,7 @@
 - 2015 - Sufjan Stevens - Carrie & Lowell
   - Playlists: Road trip
 - 2015 - The Staves - If I Was
-  - Playlists: Road trip
+  - Playlists: Calm, Road trip
 - 2015 - Unknown Mortal Orchestra - Multi-Love
   - Playlists: Road trip
 - 2016 - Pinegrove - Cardinal
@@ -643,7 +685,7 @@
 - 2017 - Richard Dawson - Peasant
   - Playlists: Road trip
 - 2017 - This is the kit - Moonshine Freeze
-  - Playlists: Road trip
+  - Playlists: Calm, Road trip
 - 2018 - Bokanté, Jules Buckley & Metropole Orkest - What Heat
   - Playlists: Road trip
 - 2018 - Pinegrove - Skylight
@@ -661,9 +703,9 @@
 - 2020 - Pinegrove - Marigold
   - Playlists: Road trip
 - 2020 - This Is the Kit - Off Off On
-  - Playlists: Road trip
+  - Playlists: Calm, Road trip
 - 2021 - The Magic Lantern - A Reckoning Bell
-  - Playlists: Road trip
+  - Playlists: Calm, Road trip
 - 2022 - Pinegrove - 11-11
   - Playlists: Road trip
 - 2022 - Psychedelic Porn Crumpets - Night Gnomes
@@ -696,7 +738,7 @@
 - 1963 - Charles Mingus - The Black Saint and the Sinner Lady
   - Playlists: None
 - 1965 - Bert Jansch - Bert Jansch
-  - Playlists: Road trip
+  - Playlists: Calm, Road trip
 - 1965 - Bob Dylan - Highway 61 Revisited
   - Playlists: Road trip
 - 1965 - John Coltrane - A Love Supreme
@@ -826,7 +868,7 @@
 - 1976 - Rush - 2112
   - Playlists: Road trip
 - 1976 - Shakti - A Handful Of Beauty
-  - Playlists: Focus, Road trip
+  - Playlists: Calm, Focus, Road trip
 - 1976 - Steely Dan - The Royal Scam
   - Playlists: Road trip
 - 1977 - Fela Kuti - Zombie
@@ -836,7 +878,7 @@
 - 1977 - Pink Floyd - Animals
   - Playlists: Road trip
 - 1977 - Shakti - Natural elements
-  - Playlists: Focus, Road trip
+  - Playlists: Calm, Focus, Road trip
 - 1977 - Steely Dan - Aja
   - Playlists: Road trip
 - 1978 - Dire Straits - Dire Straits
@@ -870,7 +912,7 @@
 - 1989 - The Necks - Sex
   - Playlists: Focus
 - 1990 - Inkuyo - Land of the Incas (Music of the Andes)
-  - Playlists: Focus, Road trip
+  - Playlists: Calm, Focus, Road trip
 - 1991 - My Bloody Valentine - Loveless
   - Playlists: Road trip
 - 1991 - Pearl Jam - Ten
@@ -884,7 +926,7 @@
 - 1992 - Pete Rock and CL Smooth - Mecca And The Soul Brother
   - Playlists: Road trip
 - 1993 - Ry Cooder & V.M. Bhatt - A Meeting by the River
-  - Playlists: Focus, Road trip
+  - Playlists: Calm, Focus, Road trip
 - 1993 - Souls Of Mischief - 93 'Til Infinity
   - Playlists: None
 - 1993 - Wu-Tang Clan - Enter the Wu-Tang (36 Chambers)
@@ -918,7 +960,7 @@
 - 1995 - Mobb Deep - The Infamous
   - Playlists: None
 - 1995 - Toumani Diabate - Djelika
-  - Playlists: Focus, Road trip
+  - Playlists: Calm, Focus, Road trip
 - 1996 - Belle and Sebastian - Tigermilk
   - Playlists: Road trip
 - 1996 - Cardiacs - Sing to God
@@ -942,7 +984,7 @@
 - 1997 - Radiohead - OK Computer
   - Playlists: Road trip
 - 1998 - Habib Koité & Bamada - Ma Ya
-  - Playlists: Road trip
+  - Playlists: Calm, Road trip
 - 1998 - Neutral Milk Hotel - In the Aeroplane Over the Sea
   - Playlists: Road trip
 - 1998 - Tuatara - Trading With The Enemy
@@ -996,7 +1038,7 @@
 - 2004 - Green Day - American Idiot
   - Playlists: Road trip
 - 2004 - Iron and Wine - Our Endless Numbered Days
-  - Playlists: Road trip
+  - Playlists: Calm, Road trip
 - 2004 - Joanna Newsom - The Milk-Eyed Mender
   - Playlists: Road trip
 - 2004 - Kasabian - Kasabian
@@ -1010,7 +1052,7 @@
 - 2004 - Phoenix - Alphabetical
   - Playlists: Road trip
 - 2004 - Rodrigo y gabriela - Re-foc
-  - Playlists: Focus, Road trip
+  - Playlists: Calm, Focus, Road trip
 - 2004 - The Zutons - Who killed the zutons
   - Playlists: Road trip
 - 2005 - Boards Of Canada - The Campfire Headphase
@@ -1032,7 +1074,7 @@
 - 2006 - Brand New - The Devil And God Are Raging Inside Me
   - Playlists: None
 - 2006 - Corinne Bailey Rae - Corinne Bailey Rae
-  - Playlists: Heavy, Road trip
+  - Playlists: Calm, Road trip
 - 2006 - Midlake - The trials of Van Occupanther
   - Playlists: Road trip
 - 2006 - Ratatat - Classics
@@ -1054,7 +1096,7 @@
 - 2007 - Foo Fighters - Echoes, Silence, Patience & Grace
   - Playlists: Road trip
 - 2007 - Iron and Wine-The Shepherd's Dog
-  - Playlists: Road trip
+  - Playlists: Calm, Road trip
 - 2007 - Kanye West - Graduation
   - Playlists: Road trip
 - 2007 - Paramore - Riot!
@@ -1078,7 +1120,7 @@
 - 2008 - Kouyaté-Neerman - Kangaba
   - Playlists: Road trip
 - 2008 - Matthew Halsall - Sending My Love (Special Edition)
-  - Playlists: Focus, Road trip
+  - Playlists: Calm, Focus, Road trip
 - 2008 - Pete and the pirates - Little death
   - Playlists: Road trip
 - 2009 - Biffy Clyro - Only Revolutions
@@ -1096,7 +1138,7 @@
 - 2009 - John Williams - Spanish Guitar Music
   - Playlists: None
 - 2009 - Matthew Halsall - Colour Yes (Special Edition)
-  - Playlists: Focus, Road trip
+  - Playlists: Calm, Focus, Road trip
 - 2009 - Phoenix - Wolfgang amadeus phoenix
   - Playlists: Road trip
 - 2009 - Placebo - Battle for the Sun
@@ -1114,7 +1156,7 @@
 - 2010 - Basia Bulat - Heart Of My Own
   - Playlists: Road trip
 - 2010 - Bombay Bicycle Club - Flaws
-  - Playlists: Road trip
+  - Playlists: Calm, Road trip
 - 2010 - Bonobo - Black Sands
   - Playlists: Focus, Road trip
 - 2010 - Darwin Deez - Darwin Deez
@@ -1130,7 +1172,7 @@
 - 2010 - The tallest man on earth - The wild hunt
   - Playlists: Road trip
 - 2010 - This Is the Kit - Wriggle Out The Restless
-  - Playlists: Road trip
+  - Playlists: Calm, Road trip
 - 2010 - Two door cinema club - Tourist history
   - Playlists: Road trip
 - 2011 - Bombay Bicycle Club - A Different Kind of Fix
@@ -1138,7 +1180,7 @@
 - 2011 - Bon Iver - Bon Iver
   - Playlists: Road trip
 - 2011 - Fatoumata Diawara - Fatou
-  - Playlists: Road trip
+  - Playlists: Calm, Road trip
 - 2011 - Foo Fighters - Wasting Light
   - Playlists: Road trip
 - 2011 - Metronomy - The English Riviera
@@ -1172,7 +1214,7 @@
 - 2012 - Stoned Jesus - Seven Thunders Roar
   - Playlists: Road trip
 - 2012 - The Staves - Dead & Born & Grown
-  - Playlists: Road trip
+  - Playlists: Calm, Road trip
 - 2012 - Thriftworks - Rainmaker
   - Playlists: Focus
 - 2013 - Arctic Monkeys - AM
@@ -1198,7 +1240,7 @@
 - 2014 - Modern Baseball - You're Gonna Miss It All
   - Playlists: Road trip
 - 2014 - Nick Mulvey - First Mind
-  - Playlists: Road trip
+  - Playlists: Calm, Road trip
 - 2014 - Snarky Puppy - We Like It Here
   - Playlists: Focus, Road trip
 - 2014 - Temples - Sun Structures
@@ -1216,7 +1258,7 @@
 - 2015 - Sufjan Stevens - Carrie & Lowell
   - Playlists: Road trip
 - 2015 - The Staves - If I Was
-  - Playlists: Road trip
+  - Playlists: Calm, Road trip
 - 2015 - Unknown Mortal Orchestra - Multi-Love
   - Playlists: Road trip
 - 2016 - Pinegrove - Cardinal
@@ -1230,7 +1272,7 @@
 - 2017 - Richard Dawson - Peasant
   - Playlists: Road trip
 - 2017 - This is the kit - Moonshine Freeze
-  - Playlists: Road trip
+  - Playlists: Calm, Road trip
 - 2018 - Bokanté, Jules Buckley & Metropole Orkest - What Heat
   - Playlists: Road trip
 - 2018 - Pinegrove - Skylight
@@ -1250,9 +1292,9 @@
 - 2020 - Pinegrove - Marigold
   - Playlists: Road trip
 - 2020 - This Is the Kit - Off Off On
-  - Playlists: Road trip
+  - Playlists: Calm, Road trip
 - 2021 - The Magic Lantern - A Reckoning Bell
-  - Playlists: Road trip
+  - Playlists: Calm, Road trip
 - 2022 - Pinegrove - 11-11
   - Playlists: Road trip
 - 2022 - Psychedelic Porn Crumpets - Night Gnomes
