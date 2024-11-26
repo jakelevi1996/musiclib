@@ -225,7 +225,7 @@
     },
     {
         "name":         "1973 - Herbie Hancock - Head Hunters",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "1973 - James Brown - The Payback",
@@ -305,7 +305,7 @@
     },
     {
         "name":         "1976 - Shakti - A Handful Of Beauty",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "1976 - Steely Dan - The Royal Scam",
@@ -313,7 +313,7 @@
     },
     {
         "name":         "1977 - Fela Kuti - Zombie",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "1977 - Fleetwood Mac - Rumours",
@@ -325,7 +325,7 @@
     },
     {
         "name":         "1977 - Shakti - Natural elements",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "1977 - Steely Dan - Aja",
@@ -337,7 +337,7 @@
     },
     {
         "name":         "1978 - Steve Reich - Music for 18 musicians",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "1979 - Pink Floyd - The Wall",
@@ -389,11 +389,11 @@
     },
     {
         "name":         "1989 - The Necks - Sex",
-        "playlists":    ["None"]
+        "playlists":    ["Focus"]
     },
     {
         "name":         "1990 - Inkuyo - Land of the Incas (Music of the Andes)",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "1991 - My Bloody Valentine - Loveless",
@@ -421,7 +421,7 @@
     },
     {
         "name":         "1993 - Ry Cooder & V.M. Bhatt - A Meeting by the River",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "1993 - Souls Of Mischief - 93 'Til Infinity",
@@ -453,7 +453,7 @@
     },
     {
         "name":         "1994 - The Necks - Aquatic",
-        "playlists":    ["None"]
+        "playlists":    ["Focus"]
     },
     {
         "name":         "1994 - The Notorious B.I.G. - Ready To Die",
@@ -461,7 +461,7 @@
     },
     {
         "name":         "1994 - Woob - 1194",
-        "playlists":    ["None"]
+        "playlists":    ["Focus"]
     },
     {
         "name":         "1995 - Big L - Lifestylez Ov Da Poor & Dangerous",
@@ -489,7 +489,7 @@
     },
     {
         "name":         "1995 - Toumani Diabate - Djelika",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "1996 - Belle and Sebastian - Tigermilk",
@@ -545,7 +545,7 @@
     },
     {
         "name":         "1998 - Tuatara - Trading With The Enemy",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "1999 - MF DOOM - Operation Doomsday",
@@ -561,7 +561,7 @@
     },
     {
         "name":         "1999 - The Necks - Hanging Gardens",
-        "playlists":    ["None"]
+        "playlists":    ["Focus"]
     },
     {
         "name":         "2000 - Adam Holzman - Lauro - Venezuelan Waltzes For Guitar",
@@ -569,7 +569,7 @@
     },
     {
         "name":         "2000 - Luomo - Vocalcity",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "2000 - Mamadou Diabate - Tunga",
@@ -621,11 +621,11 @@
     },
     {
         "name":         "2003 - Solar Fields - Blue Moon Station",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "2003 - The Necks - Drive By",
-        "playlists":    ["None"]
+        "playlists":    ["Focus"]
     },
     {
         "name":         "2003 - The Strokes - Room on fire",
@@ -673,7 +673,7 @@
     },
     {
         "name":         "2004 - Rodrigo y gabriela - Re-foc",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "2004 - The Zutons - Who killed the zutons",
@@ -681,7 +681,7 @@
     },
     {
         "name":         "2005 - Boards Of Canada - The Campfire Headphase",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "2005 - Dengue Fever - Escape From Dragon House",
@@ -701,7 +701,7 @@
     },
     {
         "name":         "2005 - Solar Fields - Leaving Home",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "2006 - Arctic Monkeys - Whatever People Say I Am, That's What I'm Not",
@@ -725,7 +725,7 @@
     },
     {
         "name":         "2006 - Ratatat - Classics",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "2006 - Red Hot Chili Peppers - Stadium Arcadium",
@@ -733,7 +733,7 @@
     },
     {
         "name":         "2006 - Rodrigo y gabriela - Rodrigo y gabriela",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "2006 - Silversun Pickups - Carnavas",
@@ -789,7 +789,7 @@
     },
     {
         "name":         "2008 - Causa Sui - Summer Sessions Vol. 1",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "2008 - Coldplay - Viva la Vida or Death and All His Friends",
@@ -809,7 +809,7 @@
     },
     {
         "name":         "2008 - Matthew Halsall - Sending My Love (Special Edition)",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "2008 - Pete and the pirates - Little death",
@@ -825,11 +825,11 @@
     },
     {
         "name":         "2009 - Causa Sui - Summer Sessions Vol. 2",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "2009 - Causa Sui - Summer Sessions Vol. 3",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "2009 - Florence and the Machine - Lungs",
@@ -845,7 +845,7 @@
     },
     {
         "name":         "2009 - Matthew Halsall - Colour Yes (Special Edition)",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "2009 - Phoenix - Wolfgang amadeus phoenix",
@@ -857,11 +857,11 @@
     },
     {
         "name":         "2009 - Rodrigo y gabriela - 11-11",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "2009 - Solar Fields - Mirror's Edge",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "2009 - St. Vincent - Actor",
@@ -885,7 +885,7 @@
     },
     {
         "name":         "2010 - Bonobo - Black Sands",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "2010 - Darwin Deez - Darwin Deez",
@@ -901,7 +901,7 @@
     },
     {
         "name":         "2010 - Snarky Puppy - Tell Your Friends",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "2010 - Tame Impala - Innerspeaker",
@@ -949,7 +949,7 @@
     },
     {
         "name":         "2011 - Tycho - Dive",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "2011 - Uncle Acid And The Deadbeats - Blood Lust",
@@ -1001,7 +1001,7 @@
     },
     {
         "name":         "2012 - Thriftworks - Rainmaker",
-        "playlists":    ["None"]
+        "playlists":    ["Focus"]
     },
     {
         "name":         "2013 - Arctic Monkeys - AM",
@@ -1053,7 +1053,7 @@
     },
     {
         "name":         "2014 - Snarky Puppy - We Like It Here",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "2014 - Temples - Sun Structures",
@@ -1065,7 +1065,7 @@
     },
     {
         "name":         "2014 - Tuatara - Underworld",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "2015 - Everything Everything - Get To Heaven",
@@ -1073,7 +1073,7 @@
     },
     {
         "name":         "2015 - Snarky Puppy & Metropole Orkest - Sylva",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "2015 - Stealing Sheep - Not Real",
@@ -1097,11 +1097,11 @@
     },
     {
         "name":         "2016 - Tycho - Epoch",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "2017 - Bonobo - Migration",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Focus"]
     },
     {
         "name":         "2017 - Jesca Hoop - Memories Are Now",

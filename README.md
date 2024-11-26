@@ -3,10 +3,88 @@
 ## Contents
 
 - [Contents](#contents)
+- [Focus (37)](#focus)
 - [Heavy (1)](#heavy)
-- [None (42)](#none)
+- [None (36)](#none)
 - [Road trip (251)](#road-trip)
 - [All albums (293)](#all-albums)
+
+## Focus
+
+- 1973 - Herbie Hancock - Head Hunters
+  - Playlists: Focus, Road trip
+- 1976 - Shakti - A Handful Of Beauty
+  - Playlists: Focus, Road trip
+- 1977 - Fela Kuti - Zombie
+  - Playlists: Focus, Road trip
+- 1977 - Shakti - Natural elements
+  - Playlists: Focus, Road trip
+- 1978 - Steve Reich - Music for 18 musicians
+  - Playlists: Focus, Road trip
+- 1989 - The Necks - Sex
+  - Playlists: Focus
+- 1990 - Inkuyo - Land of the Incas (Music of the Andes)
+  - Playlists: Focus, Road trip
+- 1993 - Ry Cooder & V.M. Bhatt - A Meeting by the River
+  - Playlists: Focus, Road trip
+- 1994 - The Necks - Aquatic
+  - Playlists: Focus
+- 1994 - Woob - 1194
+  - Playlists: Focus
+- 1995 - Toumani Diabate - Djelika
+  - Playlists: Focus, Road trip
+- 1998 - Tuatara - Trading With The Enemy
+  - Playlists: Focus, Road trip
+- 1999 - The Necks - Hanging Gardens
+  - Playlists: Focus
+- 2000 - Luomo - Vocalcity
+  - Playlists: Focus, Road trip
+- 2003 - Solar Fields - Blue Moon Station
+  - Playlists: Focus, Road trip
+- 2003 - The Necks - Drive By
+  - Playlists: Focus
+- 2004 - Rodrigo y gabriela - Re-foc
+  - Playlists: Focus, Road trip
+- 2005 - Boards Of Canada - The Campfire Headphase
+  - Playlists: Focus, Road trip
+- 2005 - Solar Fields - Leaving Home
+  - Playlists: Focus, Road trip
+- 2006 - Ratatat - Classics
+  - Playlists: Focus, Road trip
+- 2006 - Rodrigo y gabriela - Rodrigo y gabriela
+  - Playlists: Focus, Road trip
+- 2008 - Causa Sui - Summer Sessions Vol. 1
+  - Playlists: Focus, Road trip
+- 2008 - Matthew Halsall - Sending My Love (Special Edition)
+  - Playlists: Focus, Road trip
+- 2009 - Causa Sui - Summer Sessions Vol. 2
+  - Playlists: Focus, Road trip
+- 2009 - Causa Sui - Summer Sessions Vol. 3
+  - Playlists: Focus, Road trip
+- 2009 - Matthew Halsall - Colour Yes (Special Edition)
+  - Playlists: Focus, Road trip
+- 2009 - Rodrigo y gabriela - 11-11
+  - Playlists: Focus, Road trip
+- 2009 - Solar Fields - Mirror's Edge
+  - Playlists: Focus, Road trip
+- 2010 - Bonobo - Black Sands
+  - Playlists: Focus, Road trip
+- 2010 - Snarky Puppy - Tell Your Friends
+  - Playlists: Focus, Road trip
+- 2011 - Tycho - Dive
+  - Playlists: Focus, Road trip
+- 2012 - Thriftworks - Rainmaker
+  - Playlists: Focus
+- 2014 - Snarky Puppy - We Like It Here
+  - Playlists: Focus, Road trip
+- 2014 - Tuatara - Underworld
+  - Playlists: Focus, Road trip
+- 2015 - Snarky Puppy & Metropole Orkest - Sylva
+  - Playlists: Focus, Road trip
+- 2016 - Tycho - Epoch
+  - Playlists: Focus, Road trip
+- 2017 - Bonobo - Migration
+  - Playlists: Focus, Road trip
 
 ## Heavy
 
@@ -31,8 +109,6 @@
   - Playlists: None
 - 1989 - Steve Reich - Different trains, electric counterpoint
   - Playlists: None
-- 1989 - The Necks - Sex
-  - Playlists: None
 - 1991 - Slint - Spiderland
   - Playlists: None
 - 1993 - Souls Of Mischief - 93 'Til Infinity
@@ -45,11 +121,7 @@
   - Playlists: None
 - 1994 - Nas - Illmatic
   - Playlists: None
-- 1994 - The Necks - Aquatic
-  - Playlists: None
 - 1994 - The Notorious B.I.G. - Ready To Die
-  - Playlists: None
-- 1994 - Woob - 1194
   - Playlists: None
 - 1995 - Big L - Lifestylez Ov Da Poor & Dangerous
   - Playlists: None
@@ -71,15 +143,11 @@
   - Playlists: None
 - 1999 - Mos Def - Black On Both Sides
   - Playlists: None
-- 1999 - The Necks - Hanging Gardens
-  - Playlists: None
 - 2000 - Adam Holzman - Lauro - Venezuelan Waltzes For Guitar
   - Playlists: None
 - 2000 - Norbert Kraft - Villa-Lobos - Music For Solo Guitar (Complete)
   - Playlists: None
 - 2002 - Andres Segovia - The art of Segovia
-  - Playlists: None
-- 2003 - The Necks - Drive By
   - Playlists: None
 - 2004 - MF DOOM - MM.. Food
   - Playlists: None
@@ -94,8 +162,6 @@
 - 2009 - John Williams - Spanish Guitar Music
   - Playlists: None
 - 2010 - Kanye West - My Beautiful Dark Twisted Fantasy
-  - Playlists: None
-- 2012 - Thriftworks - Rainmaker
   - Playlists: None
 - 2018 - Wu Man & Wu Wei - Distant Mountains
   - Playlists: None
@@ -207,7 +273,7 @@
 - 1973 - Fabrizio De Andre - Storia di un inpiegato
   - Playlists: Road trip
 - 1973 - Herbie Hancock - Head Hunters
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 1973 - James Brown - The Payback
   - Playlists: Road trip
 - 1973 - Paul McCartney & Wings - Band On The Run
@@ -245,23 +311,23 @@
 - 1976 - Rush - 2112
   - Playlists: Road trip
 - 1976 - Shakti - A Handful Of Beauty
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 1976 - Steely Dan - The Royal Scam
   - Playlists: Road trip
 - 1977 - Fela Kuti - Zombie
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 1977 - Fleetwood Mac - Rumours
   - Playlists: Road trip
 - 1977 - Pink Floyd - Animals
   - Playlists: Road trip
 - 1977 - Shakti - Natural elements
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 1977 - Steely Dan - Aja
   - Playlists: Road trip
 - 1978 - Dire Straits - Dire Straits
   - Playlists: Road trip
 - 1978 - Steve Reich - Music for 18 musicians
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 1980 - Talking Heads - Remain in Light
   - Playlists: Road trip
 - 1982 - Iron Maiden - The number of the beast
@@ -281,7 +347,7 @@
 - 1989 - Pixies - Doolittle
   - Playlists: Road trip
 - 1990 - Inkuyo - Land of the Incas (Music of the Andes)
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 1991 - My Bloody Valentine - Loveless
   - Playlists: Road trip
 - 1991 - Pearl Jam - Ten
@@ -293,7 +359,7 @@
 - 1992 - Pete Rock and CL Smooth - Mecca And The Soul Brother
   - Playlists: Road trip
 - 1993 - Ry Cooder & V.M. Bhatt - A Meeting by the River
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 1994 - Green Day - Dookie
   - Playlists: Road trip
 - 1994 - Jeff Buckley - Grace
@@ -301,7 +367,7 @@
 - 1995 - Elliott Smith - Elliott Smith
   - Playlists: Road trip
 - 1995 - Toumani Diabate - Djelika
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 1996 - Belle and Sebastian - Tigermilk
   - Playlists: Road trip
 - 1996 - Cardiacs - Sing to God
@@ -323,11 +389,11 @@
 - 1998 - Neutral Milk Hotel - In the Aeroplane Over the Sea
   - Playlists: Road trip
 - 1998 - Tuatara - Trading With The Enemy
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 1999 - Red Hot Chili Peppers - Californication
   - Playlists: Road trip
 - 2000 - Luomo - Vocalcity
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2000 - Mamadou Diabate - Tunga
   - Playlists: Road trip
 - 2000 - Modest Mouse - The Moon & Antarctica
@@ -349,7 +415,7 @@
 - 2003 - Kélétigui Diabaté - Sandiya
   - Playlists: Road trip
 - 2003 - Solar Fields - Blue Moon Station
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2003 - The Strokes - Room on fire
   - Playlists: Road trip
 - 2003 - The shins - Chutes Too Narrow
@@ -369,11 +435,11 @@
 - 2004 - Phoenix - Alphabetical
   - Playlists: Road trip
 - 2004 - Rodrigo y gabriela - Re-foc
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2004 - The Zutons - Who killed the zutons
   - Playlists: Road trip
 - 2005 - Boards Of Canada - The Campfire Headphase
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2005 - Dengue Fever - Escape From Dragon House
   - Playlists: Road trip
 - 2005 - Fat Freddy's Drop - Based On a True Story
@@ -381,7 +447,7 @@
 - 2005 - Paramore - All we know is falling
   - Playlists: Road trip
 - 2005 - Solar Fields - Leaving Home
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2006 - Arctic Monkeys - Whatever People Say I Am, That's What I'm Not
   - Playlists: Road trip
 - 2006 - Bassekou Kouyaté & Ngoni Ba - Segu Blue
@@ -391,11 +457,11 @@
 - 2006 - Midlake - The trials of Van Occupanther
   - Playlists: Road trip
 - 2006 - Ratatat - Classics
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2006 - Red Hot Chili Peppers - Stadium Arcadium
   - Playlists: Road trip
 - 2006 - Rodrigo y gabriela - Rodrigo y gabriela
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2006 - Silversun Pickups - Carnavas
   - Playlists: Road trip
 - 2006 - Ugly Duckling - Bang For The Buck
@@ -423,7 +489,7 @@
 - 2008 - Cage the elephant - cage the elephant
   - Playlists: Road trip
 - 2008 - Causa Sui - Summer Sessions Vol. 1
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2008 - Coldplay - Viva la Vida or Death and All His Friends
   - Playlists: Road trip
 - 2008 - Infadels - Universe In Reverse
@@ -433,7 +499,7 @@
 - 2008 - Kouyaté-Neerman - Kangaba
   - Playlists: Road trip
 - 2008 - Matthew Halsall - Sending My Love (Special Edition)
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2008 - Pete and the pirates - Little death
   - Playlists: Road trip
 - 2009 - Biffy Clyro - Only Revolutions
@@ -441,21 +507,21 @@
 - 2009 - Bombay Bicycle Club - I Had The Blues But I Shook Them Loose
   - Playlists: Road trip
 - 2009 - Causa Sui - Summer Sessions Vol. 2
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2009 - Causa Sui - Summer Sessions Vol. 3
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2009 - Florence and the Machine - Lungs
   - Playlists: Road trip
 - 2009 - Matthew Halsall - Colour Yes (Special Edition)
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2009 - Phoenix - Wolfgang amadeus phoenix
   - Playlists: Road trip
 - 2009 - Placebo - Battle for the Sun
   - Playlists: Road trip
 - 2009 - Rodrigo y gabriela - 11-11
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2009 - Solar Fields - Mirror's Edge
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2009 - St. Vincent - Actor
   - Playlists: Road trip
 - 2009 - Tapes 'n Tapes - The Loon
@@ -467,13 +533,13 @@
 - 2010 - Bombay Bicycle Club - Flaws
   - Playlists: Road trip
 - 2010 - Bonobo - Black Sands
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2010 - Darwin Deez - Darwin Deez
   - Playlists: Road trip
 - 2010 - Everything Everything - Man Alive
   - Playlists: Road trip
 - 2010 - Snarky Puppy - Tell Your Friends
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2010 - Tame Impala - Innerspeaker
   - Playlists: Road trip
 - 2010 - The tallest man on earth - The wild hunt
@@ -497,7 +563,7 @@
 - 2011 - Submotion Orchestra - Finest Hour
   - Playlists: Road trip
 - 2011 - Tycho - Dive
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2011 - Uncle Acid And The Deadbeats - Blood Lust
   - Playlists: Road trip
 - 2011 - Unknown Mortal Orchestra - Unknown Mortal Orchestra
@@ -547,17 +613,17 @@
 - 2014 - Nick Mulvey - First Mind
   - Playlists: Road trip
 - 2014 - Snarky Puppy - We Like It Here
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2014 - Temples - Sun Structures
   - Playlists: Road trip
 - 2014 - Tinariwen - Emmaar
   - Playlists: Road trip
 - 2014 - Tuatara - Underworld
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2015 - Everything Everything - Get To Heaven
   - Playlists: Road trip
 - 2015 - Snarky Puppy & Metropole Orkest - Sylva
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2015 - Stealing Sheep - Not Real
   - Playlists: Road trip
 - 2015 - Sufjan Stevens - Carrie & Lowell
@@ -569,9 +635,9 @@
 - 2016 - Pinegrove - Cardinal
   - Playlists: Road trip
 - 2016 - Tycho - Epoch
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2017 - Bonobo - Migration
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2017 - Jesca Hoop - Memories Are Now
   - Playlists: Road trip
 - 2017 - Richard Dawson - Peasant
@@ -720,7 +786,7 @@
 - 1973 - Fabrizio De Andre - Storia di un inpiegato
   - Playlists: Road trip
 - 1973 - Herbie Hancock - Head Hunters
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 1973 - James Brown - The Payback
   - Playlists: Road trip
 - 1973 - Magnet - The Wicker Man
@@ -760,23 +826,23 @@
 - 1976 - Rush - 2112
   - Playlists: Road trip
 - 1976 - Shakti - A Handful Of Beauty
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 1976 - Steely Dan - The Royal Scam
   - Playlists: Road trip
 - 1977 - Fela Kuti - Zombie
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 1977 - Fleetwood Mac - Rumours
   - Playlists: Road trip
 - 1977 - Pink Floyd - Animals
   - Playlists: Road trip
 - 1977 - Shakti - Natural elements
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 1977 - Steely Dan - Aja
   - Playlists: Road trip
 - 1978 - Dire Straits - Dire Straits
   - Playlists: Road trip
 - 1978 - Steve Reich - Music for 18 musicians
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 1979 - Pink Floyd - The Wall
   - Playlists: None
 - 1980 - Talking Heads - Remain in Light
@@ -802,9 +868,9 @@
 - 1989 - Steve Reich - Different trains, electric counterpoint
   - Playlists: None
 - 1989 - The Necks - Sex
-  - Playlists: None
+  - Playlists: Focus
 - 1990 - Inkuyo - Land of the Incas (Music of the Andes)
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 1991 - My Bloody Valentine - Loveless
   - Playlists: Road trip
 - 1991 - Pearl Jam - Ten
@@ -818,7 +884,7 @@
 - 1992 - Pete Rock and CL Smooth - Mecca And The Soul Brother
   - Playlists: Road trip
 - 1993 - Ry Cooder & V.M. Bhatt - A Meeting by the River
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 1993 - Souls Of Mischief - 93 'Til Infinity
   - Playlists: None
 - 1993 - Wu-Tang Clan - Enter the Wu-Tang (36 Chambers)
@@ -834,11 +900,11 @@
 - 1994 - Nas - Illmatic
   - Playlists: None
 - 1994 - The Necks - Aquatic
-  - Playlists: None
+  - Playlists: Focus
 - 1994 - The Notorious B.I.G. - Ready To Die
   - Playlists: None
 - 1994 - Woob - 1194
-  - Playlists: None
+  - Playlists: Focus
 - 1995 - Big L - Lifestylez Ov Da Poor & Dangerous
   - Playlists: None
 - 1995 - David Russell - The Music Of Agustin Barrios Mangoré
@@ -852,7 +918,7 @@
 - 1995 - Mobb Deep - The Infamous
   - Playlists: None
 - 1995 - Toumani Diabate - Djelika
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 1996 - Belle and Sebastian - Tigermilk
   - Playlists: Road trip
 - 1996 - Cardiacs - Sing to God
@@ -880,7 +946,7 @@
 - 1998 - Neutral Milk Hotel - In the Aeroplane Over the Sea
   - Playlists: Road trip
 - 1998 - Tuatara - Trading With The Enemy
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 1999 - MF DOOM - Operation Doomsday
   - Playlists: None
 - 1999 - Mos Def - Black On Both Sides
@@ -888,11 +954,11 @@
 - 1999 - Red Hot Chili Peppers - Californication
   - Playlists: Road trip
 - 1999 - The Necks - Hanging Gardens
-  - Playlists: None
+  - Playlists: Focus
 - 2000 - Adam Holzman - Lauro - Venezuelan Waltzes For Guitar
   - Playlists: None
 - 2000 - Luomo - Vocalcity
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2000 - Mamadou Diabate - Tunga
   - Playlists: Road trip
 - 2000 - Modest Mouse - The Moon & Antarctica
@@ -918,9 +984,9 @@
 - 2003 - Kélétigui Diabaté - Sandiya
   - Playlists: Road trip
 - 2003 - Solar Fields - Blue Moon Station
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2003 - The Necks - Drive By
-  - Playlists: None
+  - Playlists: Focus
 - 2003 - The Strokes - Room on fire
   - Playlists: Road trip
 - 2003 - The shins - Chutes Too Narrow
@@ -944,11 +1010,11 @@
 - 2004 - Phoenix - Alphabetical
   - Playlists: Road trip
 - 2004 - Rodrigo y gabriela - Re-foc
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2004 - The Zutons - Who killed the zutons
   - Playlists: Road trip
 - 2005 - Boards Of Canada - The Campfire Headphase
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2005 - Dengue Fever - Escape From Dragon House
   - Playlists: Road trip
 - 2005 - Fat Freddy's Drop - Based On a True Story
@@ -958,7 +1024,7 @@
 - 2005 - Paramore - All we know is falling
   - Playlists: Road trip
 - 2005 - Solar Fields - Leaving Home
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2006 - Arctic Monkeys - Whatever People Say I Am, That's What I'm Not
   - Playlists: Road trip
 - 2006 - Bassekou Kouyaté & Ngoni Ba - Segu Blue
@@ -970,11 +1036,11 @@
 - 2006 - Midlake - The trials of Van Occupanther
   - Playlists: Road trip
 - 2006 - Ratatat - Classics
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2006 - Red Hot Chili Peppers - Stadium Arcadium
   - Playlists: Road trip
 - 2006 - Rodrigo y gabriela - Rodrigo y gabriela
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2006 - Silversun Pickups - Carnavas
   - Playlists: Road trip
 - 2006 - Ugly Duckling - Bang For The Buck
@@ -1002,7 +1068,7 @@
 - 2008 - Cage the elephant - cage the elephant
   - Playlists: Road trip
 - 2008 - Causa Sui - Summer Sessions Vol. 1
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2008 - Coldplay - Viva la Vida or Death and All His Friends
   - Playlists: Road trip
 - 2008 - Infadels - Universe In Reverse
@@ -1012,7 +1078,7 @@
 - 2008 - Kouyaté-Neerman - Kangaba
   - Playlists: Road trip
 - 2008 - Matthew Halsall - Sending My Love (Special Edition)
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2008 - Pete and the pirates - Little death
   - Playlists: Road trip
 - 2009 - Biffy Clyro - Only Revolutions
@@ -1020,9 +1086,9 @@
 - 2009 - Bombay Bicycle Club - I Had The Blues But I Shook Them Loose
   - Playlists: Road trip
 - 2009 - Causa Sui - Summer Sessions Vol. 2
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2009 - Causa Sui - Summer Sessions Vol. 3
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2009 - Florence and the Machine - Lungs
   - Playlists: Road trip
 - 2009 - Flyleaf - Memento Mori
@@ -1030,15 +1096,15 @@
 - 2009 - John Williams - Spanish Guitar Music
   - Playlists: None
 - 2009 - Matthew Halsall - Colour Yes (Special Edition)
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2009 - Phoenix - Wolfgang amadeus phoenix
   - Playlists: Road trip
 - 2009 - Placebo - Battle for the Sun
   - Playlists: Road trip
 - 2009 - Rodrigo y gabriela - 11-11
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2009 - Solar Fields - Mirror's Edge
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2009 - St. Vincent - Actor
   - Playlists: Road trip
 - 2009 - Tapes 'n Tapes - The Loon
@@ -1050,7 +1116,7 @@
 - 2010 - Bombay Bicycle Club - Flaws
   - Playlists: Road trip
 - 2010 - Bonobo - Black Sands
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2010 - Darwin Deez - Darwin Deez
   - Playlists: Road trip
 - 2010 - Everything Everything - Man Alive
@@ -1058,7 +1124,7 @@
 - 2010 - Kanye West - My Beautiful Dark Twisted Fantasy
   - Playlists: None
 - 2010 - Snarky Puppy - Tell Your Friends
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2010 - Tame Impala - Innerspeaker
   - Playlists: Road trip
 - 2010 - The tallest man on earth - The wild hunt
@@ -1082,7 +1148,7 @@
 - 2011 - Submotion Orchestra - Finest Hour
   - Playlists: Road trip
 - 2011 - Tycho - Dive
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2011 - Uncle Acid And The Deadbeats - Blood Lust
   - Playlists: Road trip
 - 2011 - Unknown Mortal Orchestra - Unknown Mortal Orchestra
@@ -1108,7 +1174,7 @@
 - 2012 - The Staves - Dead & Born & Grown
   - Playlists: Road trip
 - 2012 - Thriftworks - Rainmaker
-  - Playlists: None
+  - Playlists: Focus
 - 2013 - Arctic Monkeys - AM
   - Playlists: Road trip
 - 2013 - Darwin Deez - Songs for Imaginative People
@@ -1134,17 +1200,17 @@
 - 2014 - Nick Mulvey - First Mind
   - Playlists: Road trip
 - 2014 - Snarky Puppy - We Like It Here
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2014 - Temples - Sun Structures
   - Playlists: Road trip
 - 2014 - Tinariwen - Emmaar
   - Playlists: Road trip
 - 2014 - Tuatara - Underworld
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2015 - Everything Everything - Get To Heaven
   - Playlists: Road trip
 - 2015 - Snarky Puppy & Metropole Orkest - Sylva
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2015 - Stealing Sheep - Not Real
   - Playlists: Road trip
 - 2015 - Sufjan Stevens - Carrie & Lowell
@@ -1156,9 +1222,9 @@
 - 2016 - Pinegrove - Cardinal
   - Playlists: Road trip
 - 2016 - Tycho - Epoch
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2017 - Bonobo - Migration
-  - Playlists: Road trip
+  - Playlists: Focus, Road trip
 - 2017 - Jesca Hoop - Memories Are Now
   - Playlists: Road trip
 - 2017 - Richard Dawson - Peasant
