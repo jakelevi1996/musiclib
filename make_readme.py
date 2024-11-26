@@ -30,11 +30,11 @@ def main():
     for playlist in playlists:
         printer("\n## %s\n" % playlist)
         for album in playlist_dict[playlist]:
-            album.print(printer)
+            printer("- %s" % album.name)
 
     printer("\n## All albums\n")
     for album in album_list:
-        album.print(printer)
+        printer("- %s" % album.name)
 
     util.save_text("\n".join(a.name for a in album_list), "albums", ".")
 
@@ -51,13 +51,6 @@ class Album:
 
         self.name = name
         self.playlists = playlists
-
-    def print(self, printer):
-        printer("- %s" % self.name)
-        printer(
-            "  - Playlists: %s"
-            % ", ".join(sorted(self.playlists))
-        )
 
     def in_playlist(self, playlist):
         return (playlist in self.playlists)
