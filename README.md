@@ -4,11 +4,11 @@
 
 - [Contents](#contents)
 - [Calm (22)](#calm)
-- [Classical guitar (10)](#classical-guitar)
+- [Classical guitar (11)](#classical-guitar)
 - [Focus (37)](#focus)
 - [Hip hop (14)](#hip-hop)
 - [Jazz (15)](#jazz)
-- [None (16)](#none)
+- [None (15)](#none)
 - [Road trip (251)](#road-trip)
 - [All albums (293)](#all-albums)
 
@@ -47,6 +47,7 @@
 - 1997 - David Russell - Music of Moreno Torroba
 - 2000 - Adam Holzman - Lauro - Venezuelan Waltzes For Guitar
 - 2000 - Norbert Kraft - Villa-Lobos - Music For Solo Guitar (Complete)
+- 2002 - Andres Segovia - The art of Segovia
 - 2009 - John Williams - Spanish Guitar Music
 - 2019 - Ricardo Gallén - Leo Brouwer Guitar Sonatas
 
@@ -137,7 +138,6 @@
 - 1994 - Ali Farka Touré and Ry Cooder - Talking Timbuktu (with Ry Cooder)
 - 1994 - Kemba Sussoko - La Kora Des Griots Mandingues
 - 1996 - Placebo - Come home
-- 2002 - Andres Segovia - The art of Segovia
 - 2005 - Flyleaf - Flyleaf
 - 2006 - Brand New - The Devil And God Are Raging Inside Me
 - 2009 - Flyleaf - Memento Mori
