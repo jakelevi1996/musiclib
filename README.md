@@ -4,9 +4,10 @@
 
 - [Contents](#contents)
 - [Calm (22)](#calm)
+- [Classical guitar (10)](#classical-guitar)
 - [Focus (37)](#focus)
 - [Hip hop (14)](#hip-hop)
-- [None (25)](#none)
+- [None (18)](#none)
 - [Road trip (251)](#road-trip)
 - [All albums (293)](#all-albums)
 
@@ -34,6 +35,19 @@
 - 2017 - This is the kit - Moonshine Freeze
 - 2020 - This Is the Kit - Off Off On
 - 2021 - The Magic Lantern - A Reckoning Bell
+
+## Classical guitar
+
+- 1984 - Baltar Benitez - Music of Astor Piazzolla
+- 1995 - David Russell - The Music Of Agustin Barrios Mangoré
+- 1995 - John Williams - The Great Paraguayan - Guitar Music Of Barrios
+- 1996 - Julian Bream - The Ultimate Guitar Collection
+- 1996 - Michael Tröster - El Decameron Negro
+- 1997 - David Russell - Music of Moreno Torroba
+- 2000 - Adam Holzman - Lauro - Venezuelan Waltzes For Guitar
+- 2000 - Norbert Kraft - Villa-Lobos - Music For Solo Guitar (Complete)
+- 2009 - John Williams - Spanish Guitar Music
+- 2019 - Ricardo Gallén - Leo Brouwer Guitar Sonatas
 
 ## Focus
 
@@ -105,18 +119,11 @@
 - 1991 - Slint - Spiderland
 - 1994 - Ali Farka Touré and Ry Cooder - Talking Timbuktu (with Ry Cooder)
 - 1994 - Kemba Sussoko - La Kora Des Griots Mandingues
-- 1995 - David Russell - The Music Of Agustin Barrios Mangoré
-- 1995 - John Williams - The Great Paraguayan - Guitar Music Of Barrios
-- 1996 - Julian Bream - The Ultimate Guitar Collection
 - 1996 - Placebo - Come home
-- 1997 - David Russell - Music of Moreno Torroba
-- 2000 - Adam Holzman - Lauro - Venezuelan Waltzes For Guitar
-- 2000 - Norbert Kraft - Villa-Lobos - Music For Solo Guitar (Complete)
 - 2002 - Andres Segovia - The art of Segovia
 - 2005 - Flyleaf - Flyleaf
 - 2006 - Brand New - The Devil And God Are Raging Inside Me
 - 2009 - Flyleaf - Memento Mori
-- 2009 - John Williams - Spanish Guitar Music
 - 2010 - Kanye West - My Beautiful Dark Twisted Fantasy
 - 2018 - Wu Man & Wu Wei - Distant Mountains
 
