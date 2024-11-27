@@ -7,7 +7,8 @@
 - [Classical guitar (10)](#classical-guitar)
 - [Focus (37)](#focus)
 - [Hip hop (14)](#hip-hop)
-- [None (18)](#none)
+- [Jazz (15)](#jazz)
+- [None (16)](#none)
 - [Road trip (251)](#road-trip)
 - [All albums (293)](#all-albums)
 
@@ -106,11 +107,27 @@
 - 2004 - Madvillain - Madvillainy
 - 2007 - Kanye West - Graduation
 
+## Jazz
+
+- 1958 - Cannonball Adderley - Somethin' Else
+- 1958 - John Coltrane - Blue Train
+- 1959 - Charles Mingus - Mingus Ah Um
+- 1959 - Miles Davis - Kind of Blue
+- 1959 - The Dave Brubeck Quartet - Time Out
+- 1960 - Wes Montgomery - The incredible jazz guitar of wes montgomery
+- 1961 - John Coltrane - My favourite things
+- 1963 - Charles Mingus - The Black Saint and the Sinner Lady
+- 1965 - John Coltrane - A Love Supreme
+- 1973 - Herbie Hancock - Head Hunters
+- 2008 - Matthew Halsall - Sending My Love (Special Edition)
+- 2009 - Matthew Halsall - Colour Yes (Special Edition)
+- 2010 - Snarky Puppy - Tell Your Friends
+- 2014 - Snarky Puppy - We Like It Here
+- 2015 - Snarky Puppy & Metropole Orkest - Sylva
+
 ## None
 
 - 1956 - Ravi Shankar - Three Ragas
-- 1959 - Charles Mingus - Mingus Ah Um
-- 1963 - Charles Mingus - The Black Saint and the Sinner Lady
 - 1970 - Vashti Bunyan - Just Another Diamond Day
 - 1973 - Magnet - The Wicker Man
 - 1979 - Pink Floyd - The Wall

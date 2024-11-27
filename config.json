@@ -9,31 +9,31 @@
     },
     {
         "name":         "1958 - Cannonball Adderley - Somethin' Else",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Jazz"]
     },
     {
         "name":         "1958 - John Coltrane - Blue Train",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Jazz"]
     },
     {
         "name":         "1959 - Charles Mingus - Mingus Ah Um",
-        "playlists":    ["None"]
+        "playlists":    ["Jazz"]
     },
     {
         "name":         "1959 - Miles Davis - Kind of Blue",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Jazz"]
     },
     {
         "name":         "1959 - The Dave Brubeck Quartet - Time Out",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Jazz"]
     },
     {
         "name":         "1960 - Wes Montgomery - The incredible jazz guitar of wes montgomery",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Jazz"]
     },
     {
         "name":         "1961 - John Coltrane - My favourite things",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Jazz"]
     },
     {
         "name":         "1963 - Bob Dylan - The Freewheelin' Bob Dylan",
@@ -41,7 +41,7 @@
     },
     {
         "name":         "1963 - Charles Mingus - The Black Saint and the Sinner Lady",
-        "playlists":    ["None"]
+        "playlists":    ["Jazz"]
     },
     {
         "name":         "1965 - Bert Jansch - Bert Jansch",
@@ -53,7 +53,7 @@
     },
     {
         "name":         "1965 - John Coltrane - A Love Supreme",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Jazz"]
     },
     {
         "name":         "1967 - Cream - Disraeli Gears",
@@ -225,7 +225,7 @@
     },
     {
         "name":         "1973 - Herbie Hancock - Head Hunters",
-        "playlists":    ["Road trip", "Focus"]
+        "playlists":    ["Road trip", "Focus", "Jazz"]
     },
     {
         "name":         "1973 - James Brown - The Payback",
@@ -809,7 +809,7 @@
     },
     {
         "name":         "2008 - Matthew Halsall - Sending My Love (Special Edition)",
-        "playlists":    ["Road trip", "Focus", "Calm"]
+        "playlists":    ["Road trip", "Focus", "Calm", "Jazz"]
     },
     {
         "name":         "2008 - Pete and the pirates - Little death",
@@ -845,7 +845,7 @@
     },
     {
         "name":         "2009 - Matthew Halsall - Colour Yes (Special Edition)",
-        "playlists":    ["Road trip", "Focus", "Calm"]
+        "playlists":    ["Road trip", "Focus", "Calm", "Jazz"]
     },
     {
         "name":         "2009 - Phoenix - Wolfgang amadeus phoenix",
@@ -901,7 +901,7 @@
     },
     {
         "name":         "2010 - Snarky Puppy - Tell Your Friends",
-        "playlists":    ["Road trip", "Focus"]
+        "playlists":    ["Road trip", "Focus", "Jazz"]
     },
     {
         "name":         "2010 - Tame Impala - Innerspeaker",
@@ -1053,7 +1053,7 @@
     },
     {
         "name":         "2014 - Snarky Puppy - We Like It Here",
-        "playlists":    ["Road trip", "Focus"]
+        "playlists":    ["Road trip", "Focus", "Jazz"]
     },
     {
         "name":         "2014 - Temples - Sun Structures",
@@ -1073,7 +1073,7 @@
     },
     {
         "name":         "2015 - Snarky Puppy & Metropole Orkest - Sylva",
-        "playlists":    ["Road trip", "Focus"]
+        "playlists":    ["Road trip", "Focus", "Jazz"]
     },
     {
         "name":         "2015 - Stealing Sheep - Not Real",
