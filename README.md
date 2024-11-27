@@ -5,7 +5,8 @@
 - [Contents](#contents)
 - [Calm (22)](#calm)
 - [Focus (37)](#focus)
-- [None (36)](#none)
+- [Hip hop (14)](#hip-hop)
+- [None (25)](#none)
 - [Road trip (251)](#road-trip)
 - [All albums (293)](#all-albums)
 
@@ -74,6 +75,23 @@
 - 2016 - Tycho - Epoch
 - 2017 - Bonobo - Migration
 
+## Hip hop
+
+- 1992 - Gang Starr - Daily Operation
+- 1992 - Pete Rock and CL Smooth - Mecca And The Soul Brother
+- 1993 - Souls Of Mischief - 93 'Til Infinity
+- 1993 - Wu-Tang Clan - Enter the Wu-Tang (36 Chambers)
+- 1994 - Nas - Illmatic
+- 1994 - The Notorious B.I.G. - Ready To Die
+- 1995 - Big L - Lifestylez Ov Da Poor & Dangerous
+- 1995 - GZA - Liquid Swords
+- 1995 - Mobb Deep - The Infamous
+- 1999 - MF DOOM - Operation Doomsday
+- 1999 - Mos Def - Black On Both Sides
+- 2004 - MF DOOM - MM.. Food
+- 2004 - Madvillain - Madvillainy
+- 2007 - Kanye West - Graduation
+
 ## None
 
 - 1956 - Ravi Shankar - Three Ragas
@@ -85,27 +103,16 @@
 - 1985 - Tom Waits - Rain Dogs
 - 1989 - Steve Reich - Different trains, electric counterpoint
 - 1991 - Slint - Spiderland
-- 1993 - Souls Of Mischief - 93 'Til Infinity
-- 1993 - Wu-Tang Clan - Enter the Wu-Tang (36 Chambers)
 - 1994 - Ali Farka Touré and Ry Cooder - Talking Timbuktu (with Ry Cooder)
 - 1994 - Kemba Sussoko - La Kora Des Griots Mandingues
-- 1994 - Nas - Illmatic
-- 1994 - The Notorious B.I.G. - Ready To Die
-- 1995 - Big L - Lifestylez Ov Da Poor & Dangerous
 - 1995 - David Russell - The Music Of Agustin Barrios Mangoré
-- 1995 - GZA - Liquid Swords
 - 1995 - John Williams - The Great Paraguayan - Guitar Music Of Barrios
-- 1995 - Mobb Deep - The Infamous
 - 1996 - Julian Bream - The Ultimate Guitar Collection
 - 1996 - Placebo - Come home
 - 1997 - David Russell - Music of Moreno Torroba
-- 1999 - MF DOOM - Operation Doomsday
-- 1999 - Mos Def - Black On Both Sides
 - 2000 - Adam Holzman - Lauro - Venezuelan Waltzes For Guitar
 - 2000 - Norbert Kraft - Villa-Lobos - Music For Solo Guitar (Complete)
 - 2002 - Andres Segovia - The art of Segovia
-- 2004 - MF DOOM - MM.. Food
-- 2004 - Madvillain - Madvillainy
 - 2005 - Flyleaf - Flyleaf
 - 2006 - Brand New - The Devil And God Are Raging Inside Me
 - 2009 - Flyleaf - Memento Mori

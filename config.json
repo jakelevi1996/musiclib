@@ -413,11 +413,11 @@
     },
     {
         "name":         "1992 - Gang Starr - Daily Operation",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Hip hop"]
     },
     {
         "name":         "1992 - Pete Rock and CL Smooth - Mecca And The Soul Brother",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Hip hop"]
     },
     {
         "name":         "1993 - Ry Cooder & V.M. Bhatt - A Meeting by the River",
@@ -425,11 +425,11 @@
     },
     {
         "name":         "1993 - Souls Of Mischief - 93 'Til Infinity",
-        "playlists":    ["None"]
+        "playlists":    ["Hip hop"]
     },
     {
         "name":         "1993 - Wu-Tang Clan - Enter the Wu-Tang (36 Chambers)",
-        "playlists":    ["None"]
+        "playlists":    ["Hip hop"]
     },
     {
         "name":         "1994 - Ali Farka Touré and Ry Cooder - Talking Timbuktu (with Ry Cooder)",
@@ -449,7 +449,7 @@
     },
     {
         "name":         "1994 - Nas - Illmatic",
-        "playlists":    ["None"]
+        "playlists":    ["Hip hop"]
     },
     {
         "name":         "1994 - The Necks - Aquatic",
@@ -457,7 +457,7 @@
     },
     {
         "name":         "1994 - The Notorious B.I.G. - Ready To Die",
-        "playlists":    ["None"]
+        "playlists":    ["Hip hop"]
     },
     {
         "name":         "1994 - Woob - 1194",
@@ -465,7 +465,7 @@
     },
     {
         "name":         "1995 - Big L - Lifestylez Ov Da Poor & Dangerous",
-        "playlists":    ["None"]
+        "playlists":    ["Hip hop"]
     },
     {
         "name":         "1995 - David Russell - The Music Of Agustin Barrios Mangoré",
@@ -477,7 +477,7 @@
     },
     {
         "name":         "1995 - GZA - Liquid Swords",
-        "playlists":    ["None"]
+        "playlists":    ["Hip hop"]
     },
     {
         "name":         "1995 - John Williams - The Great Paraguayan - Guitar Music Of Barrios",
@@ -485,7 +485,7 @@
     },
     {
         "name":         "1995 - Mobb Deep - The Infamous",
-        "playlists":    ["None"]
+        "playlists":    ["Hip hop"]
     },
     {
         "name":         "1995 - Toumani Diabate - Djelika",
@@ -549,11 +549,11 @@
     },
     {
         "name":         "1999 - MF DOOM - Operation Doomsday",
-        "playlists":    ["None"]
+        "playlists":    ["Hip hop"]
     },
     {
         "name":         "1999 - Mos Def - Black On Both Sides",
-        "playlists":    ["None"]
+        "playlists":    ["Hip hop"]
     },
     {
         "name":         "1999 - Red Hot Chili Peppers - Californication",
@@ -657,11 +657,11 @@
     },
     {
         "name":         "2004 - MF DOOM - MM.. Food",
-        "playlists":    ["None"]
+        "playlists":    ["Hip hop"]
     },
     {
         "name":         "2004 - Madvillain - Madvillainy",
-        "playlists":    ["None"]
+        "playlists":    ["Hip hop"]
     },
     {
         "name":         "2004 - Modest Mouse - Good News For People Who Love Bad News",
@@ -765,7 +765,7 @@
     },
     {
         "name":         "2007 - Kanye West - Graduation",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Hip hop"]
     },
     {
         "name":         "2007 - Paramore - Riot!",
