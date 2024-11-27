@@ -10,6 +10,7 @@
 - [Jazz (15)](#jazz)
 - [None (15)](#none)
 - [Road trip (251)](#road-trip)
+- [This is the pine club (14)](#this-is-the-pine-club)
 - [All albums (293)](#all-albums)
 
 ## Calm
@@ -397,6 +398,23 @@
 - 2022 - Pinegrove - 11-11
 - 2022 - Psychedelic Porn Crumpets - Night Gnomes
 - 2022 - Youth Sector - Adult Contemporary
+
+## This is the pine club
+
+- 2009 - Bombay Bicycle Club - I Had The Blues But I Shook Them Loose
+- 2010 - Bombay Bicycle Club - Flaws
+- 2010 - This Is the Kit - Wriggle Out The Restless
+- 2011 - Bombay Bicycle Club - A Different Kind of Fix
+- 2012 - Pinegrove - Meridian
+- 2014 - Bombay Bicycle Club - So Long See You Tomorrow
+- 2016 - Pinegrove - Cardinal
+- 2017 - This is the kit - Moonshine Freeze
+- 2018 - Pinegrove - Skylight
+- 2018 - Pinegrove - Skylight II
+- 2020 - Bombay Bicycle Club - Everything Else Has Gone Wrong
+- 2020 - Pinegrove - Marigold
+- 2020 - This Is the Kit - Off Off On
+- 2022 - Pinegrove - 11-11
 
 ## All albums
 
