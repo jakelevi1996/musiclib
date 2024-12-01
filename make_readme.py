@@ -1,4 +1,5 @@
-from jutility import util
+from jutility import util, plotting
+import numpy as np
 
 def main():
     config = util.load_json("config.json")
@@ -14,6 +15,7 @@ def main():
 
     printer = util.Printer("README", ".", "md", print_to_console=False)
     printer("# musiclib")
+    printer("\n![](img/Albums_by_year.png)")
 
     num_albums = len(album_list)
 
@@ -38,6 +40,17 @@ def main():
 
     util.save_text("\n".join(a.name for a in album_list), "albums", ".")
 
+    years  = [album.get_year() for album in album_list]
+    x = np.arange(2 * (min(years) // 2), max(years) + 2, 2)
+    plotting.plot(
+        plotting.Hist(years, x),
+        xlabel="Year",
+        ylabel="Count",
+        figsize=[6, 4],
+        plot_name="Albums by year",
+        dir_name="img",
+    )
+
 class Album:
     def __init__(
         self,
@@ -54,6 +67,9 @@ class Album:
 
     def in_playlist(self, playlist):
         return (playlist in self.playlists)
+
+    def get_year(self):
+        return int(self.name[:4])
 
     def __lt__(self, other: "Album"):
         return self.name < other.name

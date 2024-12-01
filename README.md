@@ -1,5 +1,7 @@
 # musiclib
 
+![](img/Albums_by_year.png)
+
 ## Contents
 
 - [Contents](#contents)
