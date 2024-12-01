@@ -10,9 +10,10 @@
 - [Focus (37)](#focus)
 - [Hip hop (14)](#hip-hop)
 - [Jazz (15)](#jazz)
-- [None (15)](#none)
+- [None (11)](#none)
 - [Road trip (251)](#road-trip)
 - [This is the pine club (14)](#this-is-the-pine-club)
+- [World music (19)](#world-music)
 - [All albums (293)](#all-albums)
 
 ## Calm
@@ -131,21 +132,17 @@
 
 ## None
 
-- 1956 - Ravi Shankar - Three Ragas
 - 1970 - Vashti Bunyan - Just Another Diamond Day
 - 1973 - Magnet - The Wicker Man
 - 1979 - Pink Floyd - The Wall
 - 1985 - Tom Waits - Rain Dogs
 - 1989 - Steve Reich - Different trains, electric counterpoint
 - 1991 - Slint - Spiderland
-- 1994 - Ali Farka Touré and Ry Cooder - Talking Timbuktu (with Ry Cooder)
-- 1994 - Kemba Sussoko - La Kora Des Griots Mandingues
 - 1996 - Placebo - Come home
 - 2005 - Flyleaf - Flyleaf
 - 2006 - Brand New - The Devil And God Are Raging Inside Me
 - 2009 - Flyleaf - Memento Mori
 - 2010 - Kanye West - My Beautiful Dark Twisted Fantasy
-- 2018 - Wu Man & Wu Wei - Distant Mountains
 
 ## Road trip
 
@@ -417,6 +414,28 @@
 - 2020 - Pinegrove - Marigold
 - 2020 - This Is the Kit - Off Off On
 - 2022 - Pinegrove - 11-11
+
+## World music
+
+- 1956 - Ravi Shankar - Three Ragas
+- 1974 - Osamu Kitajima - Benzaiten
+- 1976 - Shakti - A Handful Of Beauty
+- 1977 - Fela Kuti - Zombie
+- 1977 - Shakti - Natural elements
+- 1990 - Inkuyo - Land of the Incas (Music of the Andes)
+- 1993 - Ry Cooder & V.M. Bhatt - A Meeting by the River
+- 1994 - Ali Farka Touré and Ry Cooder - Talking Timbuktu (with Ry Cooder)
+- 1994 - Kemba Sussoko - La Kora Des Griots Mandingues
+- 1995 - Toumani Diabate - Djelika
+- 1998 - Habib Koité & Bamada - Ma Ya
+- 2000 - Mamadou Diabate - Tunga
+- 2003 - Kélétigui Diabaté - Sandiya
+- 2006 - Bassekou Kouyaté & Ngoni Ba - Segu Blue
+- 2007 - Tinariwen - Aman Iman Water Is Life
+- 2008 - Kouyaté-Neerman - Kangaba
+- 2011 - Fatoumata Diawara - Fatou
+- 2014 - Tinariwen - Emmaar
+- 2018 - Wu Man & Wu Wei - Distant Mountains
 
 ## All albums
 
