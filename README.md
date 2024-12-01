@@ -13,7 +13,7 @@
 - [None (11)](#none)
 - [Road trip (251)](#road-trip)
 - [This is the pine club (14)](#this-is-the-pine-club)
-- [World music (19)](#world-music)
+- [World music (18)](#world-music)
 - [All albums (293)](#all-albums)
 
 ## Calm
@@ -418,7 +418,6 @@
 ## World music
 
 - 1956 - Ravi Shankar - Three Ragas
-- 1974 - Osamu Kitajima - Benzaiten
 - 1976 - Shakti - A Handful Of Beauty
 - 1977 - Fela Kuti - Zombie
 - 1977 - Shakti - Natural elements
