@@ -12,6 +12,7 @@
 - [Jazz (15)](#jazz)
 - [None (11)](#none)
 - [Road trip (251)](#road-trip)
+- [Snarky Matthew (5)](#snarky-matthew)
 - [This is the pine club (14)](#this-is-the-pine-club)
 - [World music (18)](#world-music)
 - [All albums (293)](#all-albums)
@@ -399,6 +400,14 @@
 - 2022 - Pinegrove - 11-11
 - 2022 - Psychedelic Porn Crumpets - Night Gnomes
 - 2022 - Youth Sector - Adult Contemporary
+
+## Snarky Matthew
+
+- 2008 - Matthew Halsall - Sending My Love (Special Edition)
+- 2009 - Matthew Halsall - Colour Yes (Special Edition)
+- 2010 - Snarky Puppy - Tell Your Friends
+- 2014 - Snarky Puppy - We Like It Here
+- 2015 - Snarky Puppy & Metropole Orkest - Sylva
 
 ## This is the pine club
 
