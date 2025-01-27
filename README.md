@@ -11,6 +11,7 @@
 - [Hip hop (14)](#hip-hop)
 - [Jazz (15)](#jazz)
 - [None (11)](#none)
+- [Prog (15)](#prog)
 - [Road trip (251)](#road-trip)
 - [Snarky Matthew (5)](#snarky-matthew)
 - [This is the pine club (14)](#this-is-the-pine-club)
@@ -146,6 +147,24 @@
 - 2006 - Brand New - The Devil And God Are Raging Inside Me
 - 2009 - Flyleaf - Memento Mori
 - 2010 - Kanye West - My Beautiful Dark Twisted Fantasy
+
+## Prog
+
+- 1969 - King Crimson - In the Court of the Crimson King
+- 1971 - Jethro Tull - Aqualung
+- 1971 - Yes - Fragile
+- 1972 - Jethro Tull - Thick as a Brick
+- 1972 - Yes - Close To The Edge
+- 1973 - Pink Floyd - The Dark Side of the Moon
+- 1974 - Camel - Mirage
+- 1974 - Harmonium - Harmonium
+- 1974 - King Crimson - Red
+- 1974 - Osamu Kitajima - Benzaiten
+- 1975 - Harmonium - Si on avait besoin d'une cinquième saison
+- 1975 - Pink Floyd - Wish You Were Here
+- 1976 - Harmonium - L'Heptade
+- 1976 - Rush - 2112
+- 1977 - Pink Floyd - Animals
 
 ## Road trip
 

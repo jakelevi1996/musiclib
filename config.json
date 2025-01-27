@@ -93,7 +93,7 @@
     },
     {
         "name":         "1969 - King Crimson - In the Court of the Crimson King",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Prog"]
     },
     {
         "name":         "1969 - Leonard Cohen - Songs From A Room",
@@ -157,7 +157,7 @@
     },
     {
         "name":         "1971 - Jethro Tull - Aqualung",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Prog"]
     },
     {
         "name":         "1971 - John Martyn - Bless The Weather",
@@ -189,7 +189,7 @@
     },
     {
         "name":         "1971 - Yes - Fragile",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Prog"]
     },
     {
         "name":         "1972 - Curtis Mayfield - Super Fly",
@@ -205,7 +205,7 @@
     },
     {
         "name":         "1972 - Jethro Tull - Thick as a Brick",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Prog"]
     },
     {
         "name":         "1972 - Nick Drake - Pink Moon",
@@ -217,7 +217,7 @@
     },
     {
         "name":         "1972 - Yes - Close To The Edge",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Prog"]
     },
     {
         "name":         "1973 - Fabrizio De Andre - Storia di un inpiegato",
@@ -241,7 +241,7 @@
     },
     {
         "name":         "1973 - Pink Floyd - The Dark Side of the Moon",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Prog"]
     },
     {
         "name":         "1973 - Steely Dan - Countdown To Ecstasy",
@@ -257,19 +257,19 @@
     },
     {
         "name":         "1974 - Camel - Mirage",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Prog"]
     },
     {
         "name":         "1974 - Harmonium - Harmonium",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Prog"]
     },
     {
         "name":         "1974 - King Crimson - Red",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Prog"]
     },
     {
         "name":         "1974 - Osamu Kitajima - Benzaiten",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Prog"]
     },
     {
         "name":         "1974 - Steely Dan - Pretzel Logic",
@@ -277,7 +277,7 @@
     },
     {
         "name":         "1975 - Harmonium - Si on avait besoin d'une cinquième saison",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Prog"]
     },
     {
         "name":         "1975 - Parliament - Mothership Connection",
@@ -285,7 +285,7 @@
     },
     {
         "name":         "1975 - Pink Floyd - Wish You Were Here",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Prog"]
     },
     {
         "name":         "1975 - Steely Dan - Katy Lied",
@@ -293,7 +293,7 @@
     },
     {
         "name":         "1976 - Harmonium - L'Heptade",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Prog"]
     },
     {
         "name":         "1976 - Rainbow - Rising",
@@ -301,7 +301,7 @@
     },
     {
         "name":         "1976 - Rush - 2112",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Prog"]
     },
     {
         "name":         "1976 - Shakti - A Handful Of Beauty",
@@ -321,7 +321,7 @@
     },
     {
         "name":         "1977 - Pink Floyd - Animals",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Prog"]
     },
     {
         "name":         "1977 - Shakti - Natural elements",
