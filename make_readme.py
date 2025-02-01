@@ -20,14 +20,14 @@ def main():
     num_albums = len(album_list)
 
     printer("\n## Contents\n")
-    for playlist in ["Contents"] + playlists + ["All albums"]:
+    for i, playlist in enumerate(playlists + ["All albums"], start=1):
         link_str = playlist.lower().replace(" ", "-")
         if playlist in playlist_dict:
             playlist = "%s (%i)" % (playlist, len(playlist_dict[playlist]))
         if playlist == "All albums":
             playlist = "%s (%i)" % (playlist, len(album_list))
 
-        printer("- [%s](#%s)" % (playlist, link_str))
+        printer("%i. [%s](#%s)" % (i, playlist, link_str))
 
     for playlist in playlists:
         printer("\n## %s\n" % playlist)

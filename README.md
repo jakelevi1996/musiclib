@@ -4,20 +4,19 @@
 
 ## Contents
 
-- [Contents](#contents)
-- [Calm (25)](#calm)
-- [Classical guitar (11)](#classical-guitar)
-- [Focus (37)](#focus)
-- [Folk (43)](#folk)
-- [Hip hop (14)](#hip-hop)
-- [Jazz (15)](#jazz)
-- [None (10)](#none)
-- [Prog (15)](#prog)
-- [Road trip (251)](#road-trip)
-- [Snarky Matthew (5)](#snarky-matthew)
-- [This is the pine club (14)](#this-is-the-pine-club)
-- [World music (18)](#world-music)
-- [All albums (293)](#all-albums)
+1. [Calm (25)](#calm)
+2. [Classical guitar (11)](#classical-guitar)
+3. [Focus (37)](#focus)
+4. [Folk (43)](#folk)
+5. [Hip hop (14)](#hip-hop)
+6. [Jazz (15)](#jazz)
+7. [None (10)](#none)
+8. [Prog (15)](#prog)
+9. [Road trip (251)](#road-trip)
+10. [Snarky Matthew (5)](#snarky-matthew)
+11. [This is the pine club (14)](#this-is-the-pine-club)
+12. [World music (18)](#world-music)
+13. [All albums (293)](#all-albums)
 
 ## Calm
 
