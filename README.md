@@ -8,9 +8,10 @@
 - [Calm (25)](#calm)
 - [Classical guitar (11)](#classical-guitar)
 - [Focus (37)](#focus)
+- [Folk (43)](#folk)
 - [Hip hop (14)](#hip-hop)
 - [Jazz (15)](#jazz)
-- [None (11)](#none)
+- [None (10)](#none)
 - [Prog (15)](#prog)
 - [Road trip (251)](#road-trip)
 - [Snarky Matthew (5)](#snarky-matthew)
@@ -100,6 +101,52 @@
 - 2016 - Tycho - Epoch
 - 2017 - Bonobo - Migration
 
+## Folk
+
+- 1940 - Woody Guthrie - Dust Bowl Ballads
+- 1963 - Bob Dylan - The Freewheelin' Bob Dylan
+- 1965 - Bert Jansch - Bert Jansch
+- 1965 - Bob Dylan - Highway 61 Revisited
+- 1967 - Leonard Cohen - Songs of Leonard Cohen
+- 1968 - The Incredible String Band - The Hangman's Beautiful Daughter
+- 1969 - Crosby, Stills & Nash - Crosby, Stills & Nash
+- 1969 - Leonard Cohen - Songs From A Room
+- 1969 - Nick Drake - Five Leaves Left
+- 1969 - Pentangle - Basket Of Light
+- 1970 - James Taylor - Sweet Baby James
+- 1970 - Simon and Garfunkel - Bridge Over Troubled Water
+- 1970 - Vashti Bunyan - Just Another Diamond Day
+- 1971 - James Taylor - Mud Slide Slim
+- 1971 - John Martyn - Bless The Weather
+- 1971 - Joni Mitchell - Blue
+- 1971 - Leonard Cohen - songs of love and hate
+- 1971 - Nick Drake - Bryter Layter
+- 1971 - Roy Harper - Stormcock
+- 1972 - Nick Drake - Pink Moon
+- 1974 - Harmonium - Harmonium
+- 1975 - Harmonium - Si on avait besoin d'une cinquième saison
+- 1976 - Harmonium - L'Heptade
+- 1986 - Nick Drake - Time Of No Reply
+- 1995 - Elliott Smith - Elliott Smith
+- 1997 - Elliott Smith - Either-Or
+- 2002 - Johnny Cash - American IV - The Man Comes Around
+- 2004 - Iron and Wine - Our Endless Numbered Days
+- 2004 - Joanna Newsom - The Milk-Eyed Mender
+- 2007 - Bon Iver - For Emma, Forever Ago
+- 2007 - Iron and Wine-The Shepherd's Dog
+- 2008 - Johnny Flynn - A Larum
+- 2010 - The tallest man on earth - The wild hunt
+- 2010 - This Is the Kit - Wriggle Out The Restless
+- 2011 - Bon Iver - Bon Iver
+- 2012 - Shakey Graves - Roll the Bones
+- 2012 - The Staves - Dead & Born & Grown
+- 2014 - Nick Mulvey - First Mind
+- 2015 - Sufjan Stevens - Carrie & Lowell
+- 2015 - The Staves - If I Was
+- 2017 - Richard Dawson - Peasant
+- 2017 - This is the kit - Moonshine Freeze
+- 2020 - This Is the Kit - Off Off On
+
 ## Hip hop
 
 - 1992 - Gang Starr - Daily Operation
@@ -137,7 +184,6 @@
 
 ## None
 
-- 1970 - Vashti Bunyan - Just Another Diamond Day
 - 1973 - Magnet - The Wicker Man
 - 1979 - Pink Floyd - The Wall
 - 1985 - Tom Waits - Rain Dogs

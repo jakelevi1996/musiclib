@@ -1,7 +1,7 @@
 [
     {
         "name":         "1940 - Woody Guthrie - Dust Bowl Ballads",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Folk"]
     },
     {
         "name":         "1956 - Ravi Shankar - Three Ragas",
@@ -37,7 +37,7 @@
     },
     {
         "name":         "1963 - Bob Dylan - The Freewheelin' Bob Dylan",
-        "playlists":    ["Road trip", "Calm"]
+        "playlists":    ["Road trip", "Calm", "Folk"]
     },
     {
         "name":         "1963 - Charles Mingus - The Black Saint and the Sinner Lady",
@@ -45,11 +45,11 @@
     },
     {
         "name":         "1965 - Bert Jansch - Bert Jansch",
-        "playlists":    ["Road trip", "Calm"]
+        "playlists":    ["Road trip", "Calm", "Folk"]
     },
     {
         "name":         "1965 - Bob Dylan - Highway 61 Revisited",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Folk"]
     },
     {
         "name":         "1965 - John Coltrane - A Love Supreme",
@@ -61,7 +61,7 @@
     },
     {
         "name":         "1967 - Leonard Cohen - Songs of Leonard Cohen",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Folk"]
     },
     {
         "name":         "1967 - Love - Forever Changes",
@@ -77,7 +77,7 @@
     },
     {
         "name":         "1968 - The Incredible String Band - The Hangman's Beautiful Daughter",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Folk"]
     },
     {
         "name":         "1968 - The Jimi Hendrix Experience - Electric Ladyland",
@@ -89,7 +89,7 @@
     },
     {
         "name":         "1969 - Crosby, Stills & Nash - Crosby, Stills & Nash",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Folk"]
     },
     {
         "name":         "1969 - King Crimson - In the Court of the Crimson King",
@@ -97,15 +97,15 @@
     },
     {
         "name":         "1969 - Leonard Cohen - Songs From A Room",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Folk"]
     },
     {
         "name":         "1969 - Nick Drake - Five Leaves Left",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Folk"]
     },
     {
         "name":         "1969 - Pentangle - Basket Of Light",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Folk"]
     },
     {
         "name":         "1970 - Black Sabbath - Black Sabbath",
@@ -121,15 +121,15 @@
     },
     {
         "name":         "1970 - James Taylor - Sweet Baby James",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Folk"]
     },
     {
         "name":         "1970 - Simon and Garfunkel - Bridge Over Troubled Water",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Folk"]
     },
     {
         "name":         "1970 - Vashti Bunyan - Just Another Diamond Day",
-        "playlists":    ["None"]
+        "playlists":    ["Folk"]
     },
     {
         "name":         "1971 - Black Sabbath - Master of Reality",
@@ -153,7 +153,7 @@
     },
     {
         "name":         "1971 - James Taylor - Mud Slide Slim",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Folk"]
     },
     {
         "name":         "1971 - Jethro Tull - Aqualung",
@@ -161,19 +161,19 @@
     },
     {
         "name":         "1971 - John Martyn - Bless The Weather",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Folk"]
     },
     {
         "name":         "1971 - Joni Mitchell - Blue",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Folk"]
     },
     {
         "name":         "1971 - Leonard Cohen - songs of love and hate",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Folk"]
     },
     {
         "name":         "1971 - Nick Drake - Bryter Layter",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Folk"]
     },
     {
         "name":         "1971 - Paul & Linda McCartney - Ram",
@@ -181,7 +181,7 @@
     },
     {
         "name":         "1971 - Roy Harper - Stormcock",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Folk"]
     },
     {
         "name":         "1971 - Van Morrison - Tupelo Honey",
@@ -209,7 +209,7 @@
     },
     {
         "name":         "1972 - Nick Drake - Pink Moon",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Folk"]
     },
     {
         "name":         "1972 - Steely Dan - Can’t Buy A Thrill",
@@ -261,7 +261,7 @@
     },
     {
         "name":         "1974 - Harmonium - Harmonium",
-        "playlists":    ["Road trip", "Prog"]
+        "playlists":    ["Road trip", "Prog", "Folk"]
     },
     {
         "name":         "1974 - King Crimson - Red",
@@ -277,7 +277,7 @@
     },
     {
         "name":         "1975 - Harmonium - Si on avait besoin d'une cinquième saison",
-        "playlists":    ["Road trip", "Prog"]
+        "playlists":    ["Road trip", "Prog", "Folk"]
     },
     {
         "name":         "1975 - Parliament - Mothership Connection",
@@ -293,7 +293,7 @@
     },
     {
         "name":         "1976 - Harmonium - L'Heptade",
-        "playlists":    ["Road trip", "Prog"]
+        "playlists":    ["Road trip", "Prog", "Folk"]
     },
     {
         "name":         "1976 - Rainbow - Rising",
@@ -369,7 +369,7 @@
     },
     {
         "name":         "1986 - Nick Drake - Time Of No Reply",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Folk"]
     },
     {
         "name":         "1986 - The Smiths - The Queen Is Dead",
@@ -473,7 +473,7 @@
     },
     {
         "name":         "1995 - Elliott Smith - Elliott Smith",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Folk"]
     },
     {
         "name":         "1995 - GZA - Liquid Swords",
@@ -525,7 +525,7 @@
     },
     {
         "name":         "1997 - Elliott Smith - Either-Or",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Folk"]
     },
     {
         "name":         "1997 - Modest Mouse - The Lonesome Crowded West",
@@ -605,7 +605,7 @@
     },
     {
         "name":         "2002 - Johnny Cash - American IV - The Man Comes Around",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Folk"]
     },
     {
         "name":         "2002 - The Flaming Lips - Yoshimi Battles the Pink Robots",
@@ -645,11 +645,11 @@
     },
     {
         "name":         "2004 - Iron and Wine - Our Endless Numbered Days",
-        "playlists":    ["Road trip", "Calm"]
+        "playlists":    ["Road trip", "Calm", "Folk"]
     },
     {
         "name":         "2004 - Joanna Newsom - The Milk-Eyed Mender",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Folk"]
     },
     {
         "name":         "2004 - Kasabian - Kasabian",
@@ -753,7 +753,7 @@
     },
     {
         "name":         "2007 - Bon Iver - For Emma, Forever Ago",
-        "playlists":    ["Road trip", "Calm"]
+        "playlists":    ["Road trip", "Calm", "Folk"]
     },
     {
         "name":         "2007 - Foo Fighters - Echoes, Silence, Patience & Grace",
@@ -761,7 +761,7 @@
     },
     {
         "name":         "2007 - Iron and Wine-The Shepherd's Dog",
-        "playlists":    ["Road trip", "Calm"]
+        "playlists":    ["Road trip", "Calm", "Folk"]
     },
     {
         "name":         "2007 - Kanye West - Graduation",
@@ -801,7 +801,7 @@
     },
     {
         "name":         "2008 - Johnny Flynn - A Larum",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Folk"]
     },
     {
         "name":         "2008 - Kouyaté-Neerman - Kangaba",
@@ -909,11 +909,11 @@
     },
     {
         "name":         "2010 - The tallest man on earth - The wild hunt",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Folk"]
     },
     {
         "name":         "2010 - This Is the Kit - Wriggle Out The Restless",
-        "playlists":    ["Road trip", "Calm", "This is the pine club"]
+        "playlists":    ["Road trip", "Calm", "This is the pine club", "Folk"]
     },
     {
         "name":         "2010 - Two door cinema club - Tourist history",
@@ -925,7 +925,7 @@
     },
     {
         "name":         "2011 - Bon Iver - Bon Iver",
-        "playlists":    ["Road trip", "Calm"]
+        "playlists":    ["Road trip", "Calm", "Folk"]
     },
     {
         "name":         "2011 - Fatoumata Diawara - Fatou",
@@ -989,7 +989,7 @@
     },
     {
         "name":         "2012 - Shakey Graves - Roll the Bones",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Folk"]
     },
     {
         "name":         "2012 - Stoned Jesus - Seven Thunders Roar",
@@ -997,7 +997,7 @@
     },
     {
         "name":         "2012 - The Staves - Dead & Born & Grown",
-        "playlists":    ["Road trip", "Calm"]
+        "playlists":    ["Road trip", "Calm", "Folk"]
     },
     {
         "name":         "2012 - Thriftworks - Rainmaker",
@@ -1049,7 +1049,7 @@
     },
     {
         "name":         "2014 - Nick Mulvey - First Mind",
-        "playlists":    ["Road trip", "Calm"]
+        "playlists":    ["Road trip", "Calm", "Folk"]
     },
     {
         "name":         "2014 - Snarky Puppy - We Like It Here",
@@ -1081,11 +1081,11 @@
     },
     {
         "name":         "2015 - Sufjan Stevens - Carrie & Lowell",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Folk"]
     },
     {
         "name":         "2015 - The Staves - If I Was",
-        "playlists":    ["Road trip", "Calm"]
+        "playlists":    ["Road trip", "Calm", "Folk"]
     },
     {
         "name":         "2015 - Unknown Mortal Orchestra - Multi-Love",
@@ -1109,11 +1109,11 @@
     },
     {
         "name":         "2017 - Richard Dawson - Peasant",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Folk"]
     },
     {
         "name":         "2017 - This is the kit - Moonshine Freeze",
-        "playlists":    ["Road trip", "Calm", "This is the pine club"]
+        "playlists":    ["Road trip", "Calm", "This is the pine club", "Folk"]
     },
     {
         "name":         "2018 - Bokanté, Jules Buckley & Metropole Orkest - What Heat",
@@ -1153,7 +1153,7 @@
     },
     {
         "name":         "2020 - This Is the Kit - Off Off On",
-        "playlists":    ["Road trip", "Calm", "This is the pine club"]
+        "playlists":    ["Road trip", "Calm", "This is the pine club", "Folk"]
     },
     {
         "name":         "2021 - The Magic Lantern - A Reckoning Bell",
