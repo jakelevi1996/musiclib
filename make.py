@@ -4,6 +4,7 @@ from jutility import util, plotting
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 PLAYLIST_DIR = os.path.join(CURRENT_DIR, "playlists")
 PLAYLIST_INFO_DIR = os.path.join(CURRENT_DIR, "playlist_info")
+MUSIC_ROOT_DIR = os.path.expanduser("~/Music")
 IGNORE_EXTS = [
     ".bmp",
     ".cue",
@@ -89,11 +90,9 @@ def make_playlists(
 ):
     album_names = set(a.name for a in album_list)
 
-    music_root_dir = os.path.expanduser("~/Music")
-
     music_dirs = set(
         os.path.join(root, d)
-        for root, dirs, files in os.walk(music_root_dir)
+        for root, dirs, files in os.walk(MUSIC_ROOT_DIR)
         for d in dirs
     )
     album_to_dir = {
@@ -110,17 +109,19 @@ def make_playlists(
         )
 
     album_to_files = {
-        a: sorted(
-            os.path.relpath(
-                os.path.join(root, f),
-                os.path.join(music_root_dir, "playlists"),
-            )
-            for root, dirs, files in os.walk(d)
-            for f in files
-            if os.path.splitext(f)[-1].lower() not in IGNORE_EXTS
-        )
+        a: sorted(get_files_in_dir(d))
         for a, d in album_to_dir.items()
     }
+
+    indexed_files = set(f for a in album_to_files.values() for f in a)
+    all_files = set(get_files_in_dir(MUSIC_ROOT_DIR))
+    missing_files = all_files - indexed_files
+    if len(missing_files) > 0:
+        raise RuntimeError(
+            "The following files could not be found in `config.json`:\n\n%s"
+            % "\n".join(sorted(missing_files))
+        )
+
 
     file_exts = set(
         os.path.splitext(f)[-1]
@@ -150,6 +151,21 @@ def make_playlists(
         info_printer.hline()
         info_printer("Albums NOT in playlist:")
         info_printer(*sorted(excluded_album_names), sep="\n")
+
+def get_files_in_dir(dir_name: str) -> list[str]:
+    return [
+        os.path.relpath(
+            os.path.join(root, f),
+            os.path.join(MUSIC_ROOT_DIR, "playlists"),
+        )
+        for root, dirs, files in os.walk(dir_name)
+        for f in files
+        if not is_ignored(f)
+    ]
+
+def is_ignored(full_path: str) -> bool:
+    _, ext = os.path.splitext(full_path)
+    return ext.lower() in IGNORE_EXTS
 
 class Album:
     def __init__(
