@@ -7,12 +7,24 @@ def main():
     playlists = sorted(set(p for a in album_list for p in a.playlists))
     playlist_dict = {
         playlist: [
-            album for album in album_list
-            if album.in_playlist(playlist)
+            album
+            for album in album_list
+            if  album.in_playlist(playlist)
         ]
         for playlist in playlists
     }
 
+    make_readme(album_list, playlists, playlist_dict)
+
+    make_all_album_list(album_list)
+
+    make_histogram(album_list)
+
+def make_readme(
+    album_list:     "list[Album]",
+    playlists:      "list[str]",
+    playlist_dict:  "dict[str, list[Album]]",
+):
     printer = util.Printer("README", ".", "md", print_to_console=False)
     printer("# musiclib")
     printer("\n![](img/Albums_by_year.png)")
@@ -38,8 +50,10 @@ def main():
     for album in album_list:
         printer("- %s" % album.name)
 
+def make_all_album_list(album_list: "list[Album]"):
     util.save_text("\n".join(a.name for a in album_list), "albums", ".")
 
+def make_histogram(album_list: "list[Album]"):
     years  = [album.get_year() for album in album_list]
     x = np.arange(2 * (min(years) // 2), max(years) + 2, 2)
     plotting.plot(
