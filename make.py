@@ -5,18 +5,8 @@ CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 PLAYLIST_DIR = os.path.join(CURRENT_DIR, "playlists")
 PLAYLIST_INFO_DIR = os.path.join(CURRENT_DIR, "playlist_info")
 MUSIC_ROOT_DIR = os.path.expanduser("~/Music")
-IGNORE_EXTS = [
-    ".bmp",
-    ".cue",
-    ".jpeg",
-    ".jpg",
-    ".log",
-    ".m3u",
-    ".nfo",
-    ".pdf",
-    ".png",
-    ".txt",
-]
+IGNORE_STR = "bmp cue jpe jpg log m3u nfo pdf png txt"
+IGNORE_EXTS = [("." + s) for s in IGNORE_STR.split()]
 
 def main():
     config = util.load_json("config.json")
