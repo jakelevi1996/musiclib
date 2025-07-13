@@ -1,6 +1,5 @@
 import os
 from jutility import util, plotting
-import numpy as np
 
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 PLAYLIST_DIR = os.path.join(CURRENT_DIR, "playlists")
@@ -74,9 +73,9 @@ def make_all_album_list(album_list: "list[Album]"):
 
 def make_histogram(album_list: "list[Album]"):
     years  = [album.get_year() for album in album_list]
-    x = np.arange(2 * (min(years) // 2), max(years) + 2, 2)
+    x = list(range(min(years), max(years) + 1))
     plotting.plot(
-        plotting.Hist(years, x),
+        plotting.Hist(years, x, ec=None),
         xlabel="Year",
         ylabel="Count",
         figsize=[6, 4],
