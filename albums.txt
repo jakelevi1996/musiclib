@@ -38,12 +38,14 @@
 1971 - J. J. Cale - Naturally
 1971 - James Taylor - Mud Slide Slim
 1971 - Jethro Tull - Aqualung
+1971 - John Fahey - America
 1971 - John Martyn - Bless The Weather
 1971 - Joni Mitchell - Blue
 1971 - Leonard Cohen - songs of love and hate
 1971 - Nick Drake - Bryter Layter
 1971 - Paul & Linda McCartney - Ram
 1971 - Roy Harper - Stormcock
+1971 - Steve Reich - Drumming
 1971 - Van Morrison - Tupelo Honey
 1971 - Yes - Fragile
 1972 - Curtis Mayfield - Super Fly
@@ -82,6 +84,7 @@
 1977 - Shakti - Natural elements
 1977 - Steely Dan - Aja
 1978 - Dire Straits - Dire Straits
+1978 - Robbie Basho - Visions of the Country
 1978 - Steve Reich - Music for 18 musicians
 1979 - Pink Floyd - The Wall
 1980 - Talking Heads - Remain in Light
@@ -242,6 +245,7 @@
 2012 - Alt-J - An Awesome Wave
 2012 - Dog Is Dead - All Our Favourite Stories
 2012 - Goat - World Music
+2012 - Matthew Halsall - Fletcher Moss Park
 2012 - Modern Baseball - Sports
 2012 - Pinegrove - Meridian
 2012 - Pond - Beard, Wives, Denim
@@ -278,6 +282,7 @@
 2017 - Richard Dawson - Peasant
 2017 - This is the kit - Moonshine Freeze
 2018 - Bokanté, Jules Buckley & Metropole Orkest - What Heat
+2018 - Nathan Salsburg - Third
 2018 - Pinegrove - Skylight
 2018 - Pinegrove - Skylight II
 2018 - Wu Man & Wu Wei - Distant Mountains
@@ -291,3 +296,7 @@
 2022 - Pinegrove - 11-11
 2022 - Psychedelic Porn Crumpets - Night Gnomes
 2022 - Youth Sector - Adult Contemporary
+2023 - Matthew Halsall - An Ever Changing View
+2023 - This Is The Kit - Careful Of Your Keepers
+2024 - D.C Cross - Glookies Guit
+2025 - Daniel Bachman - Where The Tide Ebbs And Flows

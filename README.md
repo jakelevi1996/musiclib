@@ -4,19 +4,21 @@
 
 ## Contents
 
-1. [Calm (25)](#calm)
+1. [Calm (26)](#calm)
 2. [Classical guitar (11)](#classical-guitar)
-3. [Focus (37)](#focus)
+3. [Focus (44)](#focus)
 4. [Folk (43)](#folk)
 5. [Hip hop (14)](#hip-hop)
-6. [Jazz (15)](#jazz)
-7. [None (10)](#none)
-8. [Prog (15)](#prog)
-9. [Road trip (251)](#road-trip)
-10. [Snarky Matthew (5)](#snarky-matthew)
-11. [This is the pine club (14)](#this-is-the-pine-club)
-12. [World music (18)](#world-music)
-13. [All albums (293)](#all-albums)
+6. [Jazz (17)](#jazz)
+7. [Minimalism (3)](#minimalism)
+8. [None (9)](#none)
+9. [Primitivism (5)](#primitivism)
+10. [Prog (15)](#prog)
+11. [Road trip (260)](#road-trip)
+12. [Snarky Matthew (7)](#snarky-matthew)
+13. [This is the pine club (14)](#this-is-the-pine-club)
+14. [World music (18)](#world-music)
+15. [All albums (302)](#all-albums)
 
 ## Calm
 
@@ -45,6 +47,7 @@
 - 2017 - This is the kit - Moonshine Freeze
 - 2020 - This Is the Kit - Off Off On
 - 2021 - The Magic Lantern - A Reckoning Bell
+- 2023 - This Is The Kit - Careful Of Your Keepers
 
 ## Classical guitar
 
@@ -62,6 +65,8 @@
 
 ## Focus
 
+- 1971 - John Fahey - America
+- 1971 - Steve Reich - Drumming
 - 1973 - Herbie Hancock - Head Hunters
 - 1976 - Shakti - A Handful Of Beauty
 - 1977 - Fela Kuti - Zombie
@@ -93,12 +98,17 @@
 - 2010 - Bonobo - Black Sands
 - 2010 - Snarky Puppy - Tell Your Friends
 - 2011 - Tycho - Dive
+- 2012 - Matthew Halsall - Fletcher Moss Park
 - 2012 - Thriftworks - Rainmaker
 - 2014 - Snarky Puppy - We Like It Here
 - 2014 - Tuatara - Underworld
 - 2015 - Snarky Puppy & Metropole Orkest - Sylva
 - 2016 - Tycho - Epoch
 - 2017 - Bonobo - Migration
+- 2018 - Nathan Salsburg - Third
+- 2023 - Matthew Halsall - An Ever Changing View
+- 2024 - D.C Cross - Glookies Guit
+- 2025 - Daniel Bachman - Where The Tide Ebbs And Flows
 
 ## Folk
 
@@ -178,21 +188,36 @@
 - 2008 - Matthew Halsall - Sending My Love (Special Edition)
 - 2009 - Matthew Halsall - Colour Yes (Special Edition)
 - 2010 - Snarky Puppy - Tell Your Friends
+- 2012 - Matthew Halsall - Fletcher Moss Park
 - 2014 - Snarky Puppy - We Like It Here
 - 2015 - Snarky Puppy & Metropole Orkest - Sylva
+- 2023 - Matthew Halsall - An Ever Changing View
+
+## Minimalism
+
+- 1971 - Steve Reich - Drumming
+- 1978 - Steve Reich - Music for 18 musicians
+- 1989 - Steve Reich - Different trains, electric counterpoint
 
 ## None
 
 - 1973 - Magnet - The Wicker Man
 - 1979 - Pink Floyd - The Wall
 - 1985 - Tom Waits - Rain Dogs
-- 1989 - Steve Reich - Different trains, electric counterpoint
 - 1991 - Slint - Spiderland
 - 1996 - Placebo - Come home
 - 2005 - Flyleaf - Flyleaf
 - 2006 - Brand New - The Devil And God Are Raging Inside Me
 - 2009 - Flyleaf - Memento Mori
 - 2010 - Kanye West - My Beautiful Dark Twisted Fantasy
+
+## Primitivism
+
+- 1971 - John Fahey - America
+- 1978 - Robbie Basho - Visions of the Country
+- 2018 - Nathan Salsburg - Third
+- 2024 - D.C Cross - Glookies Guit
+- 2025 - Daniel Bachman - Where The Tide Ebbs And Flows
 
 ## Prog
 
@@ -250,12 +275,14 @@
 - 1971 - J. J. Cale - Naturally
 - 1971 - James Taylor - Mud Slide Slim
 - 1971 - Jethro Tull - Aqualung
+- 1971 - John Fahey - America
 - 1971 - John Martyn - Bless The Weather
 - 1971 - Joni Mitchell - Blue
 - 1971 - Leonard Cohen - songs of love and hate
 - 1971 - Nick Drake - Bryter Layter
 - 1971 - Paul & Linda McCartney - Ram
 - 1971 - Roy Harper - Stormcock
+- 1971 - Steve Reich - Drumming
 - 1971 - Van Morrison - Tupelo Honey
 - 1971 - Yes - Fragile
 - 1972 - Curtis Mayfield - Super Fly
@@ -293,6 +320,7 @@
 - 1977 - Shakti - Natural elements
 - 1977 - Steely Dan - Aja
 - 1978 - Dire Straits - Dire Straits
+- 1978 - Robbie Basho - Visions of the Country
 - 1978 - Steve Reich - Music for 18 musicians
 - 1980 - Talking Heads - Remain in Light
 - 1982 - Iron Maiden - The number of the beast
@@ -418,6 +446,7 @@
 - 2012 - Alt-J - An Awesome Wave
 - 2012 - Dog Is Dead - All Our Favourite Stories
 - 2012 - Goat - World Music
+- 2012 - Matthew Halsall - Fletcher Moss Park
 - 2012 - Modern Baseball - Sports
 - 2012 - Pinegrove - Meridian
 - 2012 - Pond - Beard, Wives, Denim
@@ -453,6 +482,7 @@
 - 2017 - Richard Dawson - Peasant
 - 2017 - This is the kit - Moonshine Freeze
 - 2018 - Bokanté, Jules Buckley & Metropole Orkest - What Heat
+- 2018 - Nathan Salsburg - Third
 - 2018 - Pinegrove - Skylight
 - 2018 - Pinegrove - Skylight II
 - 2019 - Psychedelic Porn Crumpets - And Now For The Whatchamacallit
@@ -465,14 +495,20 @@
 - 2022 - Pinegrove - 11-11
 - 2022 - Psychedelic Porn Crumpets - Night Gnomes
 - 2022 - Youth Sector - Adult Contemporary
+- 2023 - Matthew Halsall - An Ever Changing View
+- 2023 - This Is The Kit - Careful Of Your Keepers
+- 2024 - D.C Cross - Glookies Guit
+- 2025 - Daniel Bachman - Where The Tide Ebbs And Flows
 
 ## Snarky Matthew
 
 - 2008 - Matthew Halsall - Sending My Love (Special Edition)
 - 2009 - Matthew Halsall - Colour Yes (Special Edition)
 - 2010 - Snarky Puppy - Tell Your Friends
+- 2012 - Matthew Halsall - Fletcher Moss Park
 - 2014 - Snarky Puppy - We Like It Here
 - 2015 - Snarky Puppy & Metropole Orkest - Sylva
+- 2023 - Matthew Halsall - An Ever Changing View
 
 ## This is the pine club
 
@@ -554,12 +590,14 @@
 - 1971 - J. J. Cale - Naturally
 - 1971 - James Taylor - Mud Slide Slim
 - 1971 - Jethro Tull - Aqualung
+- 1971 - John Fahey - America
 - 1971 - John Martyn - Bless The Weather
 - 1971 - Joni Mitchell - Blue
 - 1971 - Leonard Cohen - songs of love and hate
 - 1971 - Nick Drake - Bryter Layter
 - 1971 - Paul & Linda McCartney - Ram
 - 1971 - Roy Harper - Stormcock
+- 1971 - Steve Reich - Drumming
 - 1971 - Van Morrison - Tupelo Honey
 - 1971 - Yes - Fragile
 - 1972 - Curtis Mayfield - Super Fly
@@ -598,6 +636,7 @@
 - 1977 - Shakti - Natural elements
 - 1977 - Steely Dan - Aja
 - 1978 - Dire Straits - Dire Straits
+- 1978 - Robbie Basho - Visions of the Country
 - 1978 - Steve Reich - Music for 18 musicians
 - 1979 - Pink Floyd - The Wall
 - 1980 - Talking Heads - Remain in Light
@@ -758,6 +797,7 @@
 - 2012 - Alt-J - An Awesome Wave
 - 2012 - Dog Is Dead - All Our Favourite Stories
 - 2012 - Goat - World Music
+- 2012 - Matthew Halsall - Fletcher Moss Park
 - 2012 - Modern Baseball - Sports
 - 2012 - Pinegrove - Meridian
 - 2012 - Pond - Beard, Wives, Denim
@@ -794,6 +834,7 @@
 - 2017 - Richard Dawson - Peasant
 - 2017 - This is the kit - Moonshine Freeze
 - 2018 - Bokanté, Jules Buckley & Metropole Orkest - What Heat
+- 2018 - Nathan Salsburg - Third
 - 2018 - Pinegrove - Skylight
 - 2018 - Pinegrove - Skylight II
 - 2018 - Wu Man & Wu Wei - Distant Mountains
@@ -807,3 +848,7 @@
 - 2022 - Pinegrove - 11-11
 - 2022 - Psychedelic Porn Crumpets - Night Gnomes
 - 2022 - Youth Sector - Adult Contemporary
+- 2023 - Matthew Halsall - An Ever Changing View
+- 2023 - This Is The Kit - Careful Of Your Keepers
+- 2024 - D.C Cross - Glookies Guit
+- 2025 - Daniel Bachman - Where The Tide Ebbs And Flows
