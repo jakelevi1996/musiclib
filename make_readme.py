@@ -54,8 +54,8 @@ def main():
 class Album:
     def __init__(
         self,
-        name: str,
-        playlists: list[str],
+        name:       str,
+        playlists:  list[str],
     ):
         assert isinstance(name, str)
         assert isinstance(playlists, list)
@@ -65,10 +65,10 @@ class Album:
         self.name = name
         self.playlists = playlists
 
-    def in_playlist(self, playlist):
+    def in_playlist(self, playlist: str) -> bool:
         return (playlist in self.playlists)
 
-    def get_year(self):
+    def get_year(self) -> int:
         return int(self.name[:4])
 
     def __lt__(self, other: "Album"):
