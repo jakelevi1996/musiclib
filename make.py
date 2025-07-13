@@ -7,6 +7,7 @@ PLAYLIST_INFO_DIR = os.path.join(CURRENT_DIR, "playlist_info")
 MUSIC_ROOT_DIR = os.path.expanduser("~/Music")
 IGNORE_STR = "bmp cue jpe jpg log m3u nfo pdf png txt"
 IGNORE_EXTS = [("." + s) for s in IGNORE_STR.split()]
+IGNORE_DIRS = ["..", "Voice Recorder", "d1f"]
 
 def main():
     config = util.load_json("config.json")
@@ -105,7 +106,11 @@ def make_playlists(
 
     indexed_files = set(f for a in album_to_files.values() for f in a)
     all_files = set(get_files_in_dir(MUSIC_ROOT_DIR))
-    missing_files = all_files - indexed_files
+    missing_files = [
+        f
+        for f in (all_files - indexed_files)
+        if os.path.basename(os.path.dirname(f)) not in IGNORE_DIRS
+    ]
     if len(missing_files) > 0:
         raise RuntimeError(
             "The following files could not be found in `config.json`:\n\n%s"
