@@ -18,11 +18,12 @@
 12. [None (4)](#none)
 13. [Primitivism (5)](#primitivism)
 14. [Prog (15)](#prog)
-15. [Road trip (260)](#road-trip)
-16. [Snarky Matthew (7)](#snarky-matthew)
-17. [This is the pine club (15)](#this-is-the-pine-club)
-18. [World music (18)](#world-music)
-19. [All albums (302)](#all-albums)
+15. [Psychedelic (9)](#psychedelic)
+16. [Road trip (260)](#road-trip)
+17. [Snarky Matthew (7)](#snarky-matthew)
+18. [This is the pine club (15)](#this-is-the-pine-club)
+19. [World music (18)](#world-music)
+20. [All albums (302)](#all-albums)
 
 ## African
 
@@ -288,6 +289,18 @@
 - 1976 - Harmonium - L'Heptade
 - 1976 - Rush - 2112
 - 1977 - Pink Floyd - Animals
+
+## Psychedelic
+
+- 1967 - Love - Forever Changes
+- 1968 - The Incredible String Band - The Hangman's Beautiful Daughter
+- 2010 - Tame Impala - Innerspeaker
+- 2011 - Unknown Mortal Orchestra - Unknown Mortal Orchestra
+- 2013 - Unknown Mortal Orchestra - II
+- 2014 - Temples - Sun Structures
+- 2015 - Unknown Mortal Orchestra - Multi-Love
+- 2019 - Psychedelic Porn Crumpets - And Now For The Whatchamacallit
+- 2022 - Psychedelic Porn Crumpets - Night Gnomes
 
 ## Road trip
 

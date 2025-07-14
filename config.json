@@ -65,7 +65,7 @@
     },
     {
         "name":         "1967 - Love - Forever Changes",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Psychedelic"]
     },
     {
         "name":         "1967 - The Doors - The Doors",
@@ -77,7 +77,7 @@
     },
     {
         "name":         "1968 - The Incredible String Band - The Hangman's Beautiful Daughter",
-        "playlists":    ["Road trip", "Folk"]
+        "playlists":    ["Road trip", "Folk", "Psychedelic"]
     },
     {
         "name":         "1968 - The Jimi Hendrix Experience - Electric Ladyland",
@@ -905,7 +905,7 @@
     },
     {
         "name":         "2010 - Tame Impala - Innerspeaker",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Psychedelic"]
     },
     {
         "name":         "2010 - The tallest man on earth - The wild hunt",
@@ -957,7 +957,7 @@
     },
     {
         "name":         "2011 - Unknown Mortal Orchestra - Unknown Mortal Orchestra",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Psychedelic"]
     },
     {
         "name":         "2011 - White Denim - D",
@@ -1037,7 +1037,7 @@
     },
     {
         "name":         "2013 - Unknown Mortal Orchestra - II",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Psychedelic"]
     },
     {
         "name":         "2014 - Bombay Bicycle Club - So Long See You Tomorrow",
@@ -1057,7 +1057,7 @@
     },
     {
         "name":         "2014 - Temples - Sun Structures",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Psychedelic"]
     },
     {
         "name":         "2014 - Tinariwen - Emmaar",
@@ -1089,7 +1089,7 @@
     },
     {
         "name":         "2015 - Unknown Mortal Orchestra - Multi-Love",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Psychedelic"]
     },
     {
         "name":         "2016 - Pinegrove - Cardinal",
@@ -1133,7 +1133,7 @@
     },
     {
         "name":         "2019 - Psychedelic Porn Crumpets - And Now For The Whatchamacallit",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Psychedelic"]
     },
     {
         "name":         "2019 - Ricardo Gallén - Leo Brouwer Guitar Sonatas",
@@ -1165,7 +1165,7 @@
     },
     {
         "name":         "2022 - Psychedelic Porn Crumpets - Night Gnomes",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Psychedelic"]
     },
     {
         "name":         "2022 - Youth Sector - Adult Contemporary",
