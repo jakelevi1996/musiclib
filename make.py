@@ -36,12 +36,11 @@ def make_readme(
     playlist_dict:  "dict[str, list[Album]]",
 ):
     printer = util.Printer("README", ".", "md", print_to_console=False)
-    printer("# musiclib")
-    printer("\n![](img/Albums_by_year.png)")
+    printer(util.load_text("preamble.md"))
 
     num_albums = len(album_list)
 
-    printer("\n## Contents\n")
+    printer("## Contents\n")
     for i, playlist in enumerate(playlists + ["All albums"], start=1):
         link_str = playlist.lower().replace(" ", "-")
         if playlist in playlist_dict:
