@@ -117,7 +117,6 @@ def make_playlists(
             % "\n".join(sorted(missing_files))
         )
 
-
     file_exts = set(
         os.path.splitext(f)[-1]
         for f_list in album_to_files.values()
