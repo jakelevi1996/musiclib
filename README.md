@@ -4,22 +4,34 @@
 
 ## Contents
 
-1. [Calm (33)](#calm)
-2. [Classical guitar (11)](#classical-guitar)
-3. [Focus (44)](#focus)
-4. [Folk (43)](#folk)
-5. [Funk (8)](#funk)
-6. [Hip hop (14)](#hip-hop)
-7. [Jazz (17)](#jazz)
-8. [Minimalism (3)](#minimalism)
-9. [None (9)](#none)
-10. [Primitivism (5)](#primitivism)
-11. [Prog (15)](#prog)
-12. [Road trip (260)](#road-trip)
-13. [Snarky Matthew (7)](#snarky-matthew)
-14. [This is the pine club (15)](#this-is-the-pine-club)
-15. [World music (18)](#world-music)
-16. [All albums (302)](#all-albums)
+1. [Angst (8)](#angst)
+2. [Calm (33)](#calm)
+3. [Classical guitar (11)](#classical-guitar)
+4. [Focus (44)](#focus)
+5. [Folk (43)](#folk)
+6. [Funk (8)](#funk)
+7. [Hip hop (14)](#hip-hop)
+8. [Jazz (17)](#jazz)
+9. [Minimalism (3)](#minimalism)
+10. [None (4)](#none)
+11. [Primitivism (5)](#primitivism)
+12. [Prog (15)](#prog)
+13. [Road trip (260)](#road-trip)
+14. [Snarky Matthew (7)](#snarky-matthew)
+15. [This is the pine club (15)](#this-is-the-pine-club)
+16. [World music (18)](#world-music)
+17. [All albums (302)](#all-albums)
+
+## Angst
+
+- 1991 - Slint - Spiderland
+- 1996 - Placebo - Come home
+- 2005 - Flyleaf - Flyleaf
+- 2005 - Paramore - All we know is falling
+- 2006 - Brand New - The Devil And God Are Raging Inside Me
+- 2007 - Paramore - Riot!
+- 2009 - Flyleaf - Memento Mori
+- 2009 - Placebo - Battle for the Sun
 
 ## Calm
 
@@ -223,11 +235,6 @@
 - 1973 - Magnet - The Wicker Man
 - 1979 - Pink Floyd - The Wall
 - 1985 - Tom Waits - Rain Dogs
-- 1991 - Slint - Spiderland
-- 1996 - Placebo - Come home
-- 2005 - Flyleaf - Flyleaf
-- 2006 - Brand New - The Devil And God Are Raging Inside Me
-- 2009 - Flyleaf - Memento Mori
 - 2010 - Kanye West - My Beautiful Dark Twisted Fantasy
 
 ## Primitivism

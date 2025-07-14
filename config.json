@@ -409,7 +409,7 @@
     },
     {
         "name":         "1991 - Slint - Spiderland",
-        "playlists":    ["None"]
+        "playlists":    ["Angst"]
     },
     {
         "name":         "1992 - Gang Starr - Daily Operation",
@@ -513,7 +513,7 @@
     },
     {
         "name":         "1996 - Placebo - Come home",
-        "playlists":    ["None"]
+        "playlists":    ["Angst"]
     },
     {
         "name":         "1997 - David Russell - Music of Moreno Torroba",
@@ -693,11 +693,11 @@
     },
     {
         "name":         "2005 - Flyleaf - Flyleaf",
-        "playlists":    ["None"]
+        "playlists":    ["Angst"]
     },
     {
         "name":         "2005 - Paramore - All we know is falling",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Angst"]
     },
     {
         "name":         "2005 - Solar Fields - Leaving Home",
@@ -713,7 +713,7 @@
     },
     {
         "name":         "2006 - Brand New - The Devil And God Are Raging Inside Me",
-        "playlists":    ["None"]
+        "playlists":    ["Angst"]
     },
     {
         "name":         "2006 - Corinne Bailey Rae - Corinne Bailey Rae",
@@ -769,7 +769,7 @@
     },
     {
         "name":         "2007 - Paramore - Riot!",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Angst"]
     },
     {
         "name":         "2007 - Pigeon detectives - Wait for me",
@@ -837,7 +837,7 @@
     },
     {
         "name":         "2009 - Flyleaf - Memento Mori",
-        "playlists":    ["None"]
+        "playlists":    ["Angst"]
     },
     {
         "name":         "2009 - John Williams - Spanish Guitar Music",
@@ -853,7 +853,7 @@
     },
     {
         "name":         "2009 - Placebo - Battle for the Sun",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Angst"]
     },
     {
         "name":         "2009 - Rodrigo y gabriela - 11-11",
