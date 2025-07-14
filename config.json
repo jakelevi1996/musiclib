@@ -117,7 +117,7 @@
     },
     {
         "name":         "1970 - Curtis Mayfield - Curtis",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Funk"]
     },
     {
         "name":         "1970 - James Taylor - Sweet Baby James",
@@ -145,7 +145,7 @@
     },
     {
         "name":         "1971 - Gil Scott-Heron - Pieces Of A Man",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Funk"]
     },
     {
         "name":         "1971 - J. J. Cale - Naturally",
@@ -193,7 +193,7 @@
     },
     {
         "name":         "1972 - Curtis Mayfield - Super Fly",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Funk"]
     },
     {
         "name":         "1972 - David Bowie - The rise and fall of Ziggy Stardust and the spiders from Mars",
@@ -229,7 +229,7 @@
     },
     {
         "name":         "1973 - James Brown - The Payback",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Funk"]
     },
     {
         "name":         "1973 - Magnet - The Wicker Man",
@@ -249,11 +249,11 @@
     },
     {
         "name":         "1973 - Stevie Wonder - Innervisions",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Funk"]
     },
     {
         "name":         "1973 - The Isley Brothers - 3+3",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Funk"]
     },
     {
         "name":         "1974 - Camel - Mirage",
@@ -281,7 +281,7 @@
     },
     {
         "name":         "1975 - Parliament - Mothership Connection",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Funk"]
     },
     {
         "name":         "1975 - Pink Floyd - Wish You Were Here",
@@ -313,7 +313,7 @@
     },
     {
         "name":         "1977 - Fela Kuti - Zombie",
-        "playlists":    ["Road trip", "Focus", "World music"]
+        "playlists":    ["Road trip", "Focus", "World music", "Funk"]
     },
     {
         "name":         "1977 - Fleetwood Mac - Rumours",

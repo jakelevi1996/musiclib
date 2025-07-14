@@ -8,17 +8,18 @@
 2. [Classical guitar (11)](#classical-guitar)
 3. [Focus (44)](#focus)
 4. [Folk (43)](#folk)
-5. [Hip hop (14)](#hip-hop)
-6. [Jazz (17)](#jazz)
-7. [Minimalism (3)](#minimalism)
-8. [None (9)](#none)
-9. [Primitivism (5)](#primitivism)
-10. [Prog (15)](#prog)
-11. [Road trip (260)](#road-trip)
-12. [Snarky Matthew (7)](#snarky-matthew)
-13. [This is the pine club (15)](#this-is-the-pine-club)
-14. [World music (18)](#world-music)
-15. [All albums (302)](#all-albums)
+5. [Funk (8)](#funk)
+6. [Hip hop (14)](#hip-hop)
+7. [Jazz (17)](#jazz)
+8. [Minimalism (3)](#minimalism)
+9. [None (9)](#none)
+10. [Primitivism (5)](#primitivism)
+11. [Prog (15)](#prog)
+12. [Road trip (260)](#road-trip)
+13. [Snarky Matthew (7)](#snarky-matthew)
+14. [This is the pine club (15)](#this-is-the-pine-club)
+15. [World music (18)](#world-music)
+16. [All albums (302)](#all-albums)
 
 ## Calm
 
@@ -162,6 +163,17 @@
 - 2017 - Richard Dawson - Peasant
 - 2017 - This is the kit - Moonshine Freeze
 - 2020 - This Is the Kit - Off Off On
+
+## Funk
+
+- 1970 - Curtis Mayfield - Curtis
+- 1971 - Gil Scott-Heron - Pieces Of A Man
+- 1972 - Curtis Mayfield - Super Fly
+- 1973 - James Brown - The Payback
+- 1973 - Stevie Wonder - Innervisions
+- 1973 - The Isley Brothers - 3+3
+- 1975 - Parliament - Mothership Connection
+- 1977 - Fela Kuti - Zombie
 
 ## Hip hop
 
