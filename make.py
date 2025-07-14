@@ -117,12 +117,6 @@ def make_playlists(
             % "\n".join(sorted(missing_files))
         )
 
-    file_exts = set(
-        os.path.splitext(f)[-1]
-        for f_list in album_to_files.values()
-        for f in f_list
-    )
-
     for playlist, album_list in playlist_dict.items():
         m3u_printer = util.Printer(
             playlist,
