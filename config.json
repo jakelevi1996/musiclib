@@ -1173,7 +1173,7 @@
     },
     {
         "name":         "1971 - John Fahey - America",
-        "playlists":    ["Primitivism", "Road trip", "Focus"]
+        "playlists":    ["Primitivism", "Road trip", "Focus", "Calm"]
     },
     {
         "name":         "1971 - Steve Reich - Drumming",
@@ -1181,30 +1181,30 @@
     },
     {
         "name":         "1978 - Robbie Basho - Visions of the Country",
-        "playlists":    ["Primitivism", "Road trip"]
+        "playlists":    ["Primitivism", "Road trip", "Calm"]
     },
     {
         "name":         "2012 - Matthew Halsall - Fletcher Moss Park",
-        "playlists":    ["Jazz", "Snarky Matthew", "Road trip", "Focus"]
+        "playlists":    ["Jazz", "Snarky Matthew", "Road trip", "Focus", "Calm"]
     },
     {
         "name":         "2018 - Nathan Salsburg - Third",
-        "playlists":    ["Primitivism", "Road trip", "Focus"]
+        "playlists":    ["Primitivism", "Road trip", "Focus", "Calm"]
     },
     {
         "name":         "2023 - Matthew Halsall - An Ever Changing View",
-        "playlists":    ["Jazz", "Snarky Matthew", "Road trip", "Focus"]
+        "playlists":    ["Jazz", "Snarky Matthew", "Road trip", "Focus", "Calm"]
     },
     {
         "name":         "2023 - This Is The Kit - Careful Of Your Keepers",
-        "playlists":    ["Road trip", "Calm"]
+        "playlists":    ["Road trip", "Calm", "This is the pine club"]
     },
     {
         "name":         "2024 - D.C Cross - Glookies Guit",
-        "playlists":    ["Primitivism", "Road trip", "Focus"]
+        "playlists":    ["Primitivism", "Road trip", "Focus", "Calm"]
     },
     {
         "name":         "2025 - Daniel Bachman - Where The Tide Ebbs And Flows",
-        "playlists":    ["Primitivism", "Road trip", "Focus"]
+        "playlists":    ["Primitivism", "Road trip", "Focus", "Calm"]
     }
 ]

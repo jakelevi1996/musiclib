@@ -4,7 +4,7 @@
 
 ## Contents
 
-1. [Calm (26)](#calm)
+1. [Calm (33)](#calm)
 2. [Classical guitar (11)](#classical-guitar)
 3. [Focus (44)](#focus)
 4. [Folk (43)](#folk)
@@ -16,7 +16,7 @@
 10. [Prog (15)](#prog)
 11. [Road trip (260)](#road-trip)
 12. [Snarky Matthew (7)](#snarky-matthew)
-13. [This is the pine club (14)](#this-is-the-pine-club)
+13. [This is the pine club (15)](#this-is-the-pine-club)
 14. [World music (18)](#world-music)
 15. [All albums (302)](#all-albums)
 
@@ -24,8 +24,10 @@
 
 - 1963 - Bob Dylan - The Freewheelin' Bob Dylan
 - 1965 - Bert Jansch - Bert Jansch
+- 1971 - John Fahey - America
 - 1976 - Shakti - A Handful Of Beauty
 - 1977 - Shakti - Natural elements
+- 1978 - Robbie Basho - Visions of the Country
 - 1990 - Inkuyo - Land of the Incas (Music of the Andes)
 - 1993 - Ry Cooder & V.M. Bhatt - A Meeting by the River
 - 1995 - Toumani Diabate - Djelika
@@ -41,13 +43,18 @@
 - 2010 - This Is the Kit - Wriggle Out The Restless
 - 2011 - Bon Iver - Bon Iver
 - 2011 - Fatoumata Diawara - Fatou
+- 2012 - Matthew Halsall - Fletcher Moss Park
 - 2012 - The Staves - Dead & Born & Grown
 - 2014 - Nick Mulvey - First Mind
 - 2015 - The Staves - If I Was
 - 2017 - This is the kit - Moonshine Freeze
+- 2018 - Nathan Salsburg - Third
 - 2020 - This Is the Kit - Off Off On
 - 2021 - The Magic Lantern - A Reckoning Bell
+- 2023 - Matthew Halsall - An Ever Changing View
 - 2023 - This Is The Kit - Careful Of Your Keepers
+- 2024 - D.C Cross - Glookies Guit
+- 2025 - Daniel Bachman - Where The Tide Ebbs And Flows
 
 ## Classical guitar
 
@@ -526,6 +533,7 @@
 - 2020 - Pinegrove - Marigold
 - 2020 - This Is the Kit - Off Off On
 - 2022 - Pinegrove - 11-11
+- 2023 - This Is The Kit - Careful Of Your Keepers
 
 ## World music
 
