@@ -4,24 +4,38 @@
 
 ## Contents
 
-1. [Angst (10)](#angst)
-2. [Calm (33)](#calm)
-3. [Classical guitar (11)](#classical-guitar)
-4. [Focus (44)](#focus)
-5. [Folk (43)](#folk)
-6. [Funk (8)](#funk)
-7. [Heavy (6)](#heavy)
-8. [Hip hop (14)](#hip-hop)
-9. [Jazz (17)](#jazz)
-10. [Minimalism (3)](#minimalism)
-11. [None (4)](#none)
-12. [Primitivism (5)](#primitivism)
-13. [Prog (15)](#prog)
-14. [Road trip (260)](#road-trip)
-15. [Snarky Matthew (7)](#snarky-matthew)
-16. [This is the pine club (15)](#this-is-the-pine-club)
-17. [World music (18)](#world-music)
-18. [All albums (302)](#all-albums)
+1. [African (10)](#african)
+2. [Angst (10)](#angst)
+3. [Calm (33)](#calm)
+4. [Classical guitar (11)](#classical-guitar)
+5. [Focus (44)](#focus)
+6. [Folk (43)](#folk)
+7. [Funk (8)](#funk)
+8. [Heavy (6)](#heavy)
+9. [Hip hop (14)](#hip-hop)
+10. [Jazz (17)](#jazz)
+11. [Minimalism (3)](#minimalism)
+12. [None (4)](#none)
+13. [Primitivism (5)](#primitivism)
+14. [Prog (15)](#prog)
+15. [Road trip (260)](#road-trip)
+16. [Snarky Matthew (7)](#snarky-matthew)
+17. [This is the pine club (15)](#this-is-the-pine-club)
+18. [World music (18)](#world-music)
+19. [All albums (302)](#all-albums)
+
+## African
+
+- 1977 - Fela Kuti - Zombie
+- 1994 - Ali Farka Touré and Ry Cooder - Talking Timbuktu (with Ry Cooder)
+- 1994 - Kemba Sussoko - La Kora Des Griots Mandingues
+- 1995 - Toumani Diabate - Djelika
+- 1998 - Habib Koité & Bamada - Ma Ya
+- 2000 - Mamadou Diabate - Tunga
+- 2003 - Kélétigui Diabaté - Sandiya
+- 2006 - Bassekou Kouyaté & Ngoni Ba - Segu Blue
+- 2008 - Kouyaté-Neerman - Kangaba
+- 2011 - Fatoumata Diawara - Fatou
 
 ## Angst
 

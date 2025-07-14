@@ -313,7 +313,7 @@
     },
     {
         "name":         "1977 - Fela Kuti - Zombie",
-        "playlists":    ["Road trip", "Focus", "World music", "Funk"]
+        "playlists":    ["Road trip", "Focus", "World music", "African", "Funk"]
     },
     {
         "name":         "1977 - Fleetwood Mac - Rumours",
@@ -433,7 +433,7 @@
     },
     {
         "name":         "1994 - Ali Farka Touré and Ry Cooder - Talking Timbuktu (with Ry Cooder)",
-        "playlists":    ["World music"]
+        "playlists":    ["World music", "African"]
     },
     {
         "name":         "1994 - Green Day - Dookie",
@@ -445,7 +445,7 @@
     },
     {
         "name":         "1994 - Kemba Sussoko - La Kora Des Griots Mandingues",
-        "playlists":    ["World music"]
+        "playlists":    ["World music", "African"]
     },
     {
         "name":         "1994 - Nas - Illmatic",
@@ -489,7 +489,7 @@
     },
     {
         "name":         "1995 - Toumani Diabate - Djelika",
-        "playlists":    ["Road trip", "Focus", "Calm", "World music"]
+        "playlists":    ["Road trip", "Focus", "Calm", "World music", "African"]
     },
     {
         "name":         "1996 - Belle and Sebastian - Tigermilk",
@@ -537,7 +537,7 @@
     },
     {
         "name":         "1998 - Habib Koité & Bamada - Ma Ya",
-        "playlists":    ["Road trip", "Calm", "World music"]
+        "playlists":    ["Road trip", "Calm", "World music", "African"]
     },
     {
         "name":         "1998 - Neutral Milk Hotel - In the Aeroplane Over the Sea",
@@ -573,7 +573,7 @@
     },
     {
         "name":         "2000 - Mamadou Diabate - Tunga",
-        "playlists":    ["Road trip", "World music"]
+        "playlists":    ["Road trip", "World music", "African"]
     },
     {
         "name":         "2000 - Modest Mouse - The Moon & Antarctica",
@@ -617,7 +617,7 @@
     },
     {
         "name":         "2003 - Kélétigui Diabaté - Sandiya",
-        "playlists":    ["Road trip", "World music"]
+        "playlists":    ["Road trip", "World music", "African"]
     },
     {
         "name":         "2003 - Solar Fields - Blue Moon Station",
@@ -709,7 +709,7 @@
     },
     {
         "name":         "2006 - Bassekou Kouyaté & Ngoni Ba - Segu Blue",
-        "playlists":    ["Road trip", "World music"]
+        "playlists":    ["Road trip", "World music", "African"]
     },
     {
         "name":         "2006 - Brand New - The Devil And God Are Raging Inside Me",
@@ -805,7 +805,7 @@
     },
     {
         "name":         "2008 - Kouyaté-Neerman - Kangaba",
-        "playlists":    ["Road trip", "World music"]
+        "playlists":    ["Road trip", "World music", "African"]
     },
     {
         "name":         "2008 - Matthew Halsall - Sending My Love (Special Edition)",
@@ -929,7 +929,7 @@
     },
     {
         "name":         "2011 - Fatoumata Diawara - Fatou",
-        "playlists":    ["Road trip", "Calm", "World music"]
+        "playlists":    ["Road trip", "Calm", "World music", "African"]
     },
     {
         "name":         "2011 - Foo Fighters - Wasting Light",
