@@ -109,11 +109,11 @@
     },
     {
         "name":         "1970 - Black Sabbath - Black Sabbath",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Heavy"]
     },
     {
         "name":         "1970 - Black Sabbath - Paranoid",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Heavy"]
     },
     {
         "name":         "1970 - Curtis Mayfield - Curtis",
@@ -133,7 +133,7 @@
     },
     {
         "name":         "1971 - Black Sabbath - Master of Reality",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Heavy"]
     },
     {
         "name":         "1971 - David Bowie - Hunky Dory",
@@ -349,7 +349,7 @@
     },
     {
         "name":         "1982 - Iron Maiden - The number of the beast",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Heavy"]
     },
     {
         "name":         "1984 - Baltar Benitez - Music of Astor Piazzolla",
@@ -357,7 +357,7 @@
     },
     {
         "name":         "1984 - Iron Maiden - Powerslave",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Heavy"]
     },
     {
         "name":         "1984 - The Smiths - The Smiths",
@@ -953,7 +953,7 @@
     },
     {
         "name":         "2011 - Uncle Acid And The Deadbeats - Blood Lust",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Angst"]
     },
     {
         "name":         "2011 - Unknown Mortal Orchestra - Unknown Mortal Orchestra",
@@ -993,7 +993,7 @@
     },
     {
         "name":         "2012 - Stoned Jesus - Seven Thunders Roar",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Heavy"]
     },
     {
         "name":         "2012 - The Staves - Dead & Born & Grown",
@@ -1033,7 +1033,7 @@
     },
     {
         "name":         "2013 - Uncle Acid ad the Deadbeats - Mind Control",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Angst"]
     },
     {
         "name":         "2013 - Unknown Mortal Orchestra - II",

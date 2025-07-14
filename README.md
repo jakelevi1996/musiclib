@@ -4,23 +4,24 @@
 
 ## Contents
 
-1. [Angst (8)](#angst)
+1. [Angst (10)](#angst)
 2. [Calm (33)](#calm)
 3. [Classical guitar (11)](#classical-guitar)
 4. [Focus (44)](#focus)
 5. [Folk (43)](#folk)
 6. [Funk (8)](#funk)
-7. [Hip hop (14)](#hip-hop)
-8. [Jazz (17)](#jazz)
-9. [Minimalism (3)](#minimalism)
-10. [None (4)](#none)
-11. [Primitivism (5)](#primitivism)
-12. [Prog (15)](#prog)
-13. [Road trip (260)](#road-trip)
-14. [Snarky Matthew (7)](#snarky-matthew)
-15. [This is the pine club (15)](#this-is-the-pine-club)
-16. [World music (18)](#world-music)
-17. [All albums (302)](#all-albums)
+7. [Heavy (6)](#heavy)
+8. [Hip hop (14)](#hip-hop)
+9. [Jazz (17)](#jazz)
+10. [Minimalism (3)](#minimalism)
+11. [None (4)](#none)
+12. [Primitivism (5)](#primitivism)
+13. [Prog (15)](#prog)
+14. [Road trip (260)](#road-trip)
+15. [Snarky Matthew (7)](#snarky-matthew)
+16. [This is the pine club (15)](#this-is-the-pine-club)
+17. [World music (18)](#world-music)
+18. [All albums (302)](#all-albums)
 
 ## Angst
 
@@ -32,6 +33,8 @@
 - 2007 - Paramore - Riot!
 - 2009 - Flyleaf - Memento Mori
 - 2009 - Placebo - Battle for the Sun
+- 2011 - Uncle Acid And The Deadbeats - Blood Lust
+- 2013 - Uncle Acid ad the Deadbeats - Mind Control
 
 ## Calm
 
@@ -186,6 +189,15 @@
 - 1973 - The Isley Brothers - 3+3
 - 1975 - Parliament - Mothership Connection
 - 1977 - Fela Kuti - Zombie
+
+## Heavy
+
+- 1970 - Black Sabbath - Black Sabbath
+- 1970 - Black Sabbath - Paranoid
+- 1971 - Black Sabbath - Master of Reality
+- 1982 - Iron Maiden - The number of the beast
+- 1984 - Iron Maiden - Powerslave
+- 2012 - Stoned Jesus - Seven Thunders Roar
 
 ## Hip hop
 
