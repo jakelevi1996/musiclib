@@ -114,6 +114,7 @@
 1994 - Jeff Buckley - Grace
 1994 - Kemba Sussoko - La Kora Des Griots Mandingues
 1994 - Nas - Illmatic
+1994 - Steve Reich - Tehillim, Three Movements
 1994 - The Necks - Aquatic
 1994 - The Notorious B.I.G. - Ready To Die
 1994 - Woob - 1194
@@ -134,6 +135,7 @@
 1997 - Dispatch - Bang Bang
 1997 - Elliott Smith - Either-Or
 1997 - Modest Mouse - The Lonesome Crowded West
+1997 - Moodymann - SILENTINTRODUCTION
 1997 - Radiohead - OK Computer
 1998 - Habib Koité & Bamada - Ma Ya
 1998 - Neutral Milk Hotel - In the Aeroplane Over the Sea
@@ -146,6 +148,7 @@
 2000 - Luomo - Vocalcity
 2000 - Mamadou Diabate - Tunga
 2000 - Modest Mouse - The Moon & Antarctica
+2000 - Moodymann - Forevernevermore
 2000 - Norbert Kraft - Villa-Lobos - Music For Solo Guitar (Complete)
 2001 - Daft Punk - Discovery
 2001 - Spoon - Girls Can Tell
@@ -175,6 +178,7 @@
 2005 - Dengue Fever - Escape From Dragon House
 2005 - Fat Freddy's Drop - Based On a True Story
 2005 - Flyleaf - Flyleaf
+2005 - Omar S - Just Ask the Lonely
 2005 - Paramore - All we know is falling
 2005 - Solar Fields - Leaving Home
 2006 - Arctic Monkeys - Whatever People Say I Am, That's What I'm Not
@@ -190,11 +194,13 @@
 2007 - Arctic Monkeys - Favourite Worst Nightmare
 2007 - Biffy Clyro - Puzzle
 2007 - Bon Iver - For Emma, Forever Ago
+2007 - Efdemin - Efdemin
 2007 - Foo Fighters - Echoes, Silence, Patience & Grace
 2007 - Iron and Wine-The Shepherd's Dog
 2007 - Kanye West - Graduation
 2007 - Paramore - Riot!
 2007 - Pigeon detectives - Wait for me
+2007 - The Field - From Here We Go Sublime
 2007 - Tinariwen - Aman Iman Water Is Life
 2008 - CALLmeKAT
 2008 - Cage the elephant - cage the elephant
@@ -224,6 +230,7 @@
 2010 - Bombay Bicycle Club - Flaws
 2010 - Bonobo - Black Sands
 2010 - Darwin Deez - Darwin Deez
+2010 - Efdemin - Chicago
 2010 - Everything Everything - Man Alive
 2010 - Kanye West - My Beautiful Dark Twisted Fantasy
 2010 - Snarky Puppy - Tell Your Friends
@@ -297,6 +304,9 @@
 2022 - Psychedelic Porn Crumpets - Night Gnomes
 2022 - Youth Sector - Adult Contemporary
 2023 - Matthew Halsall - An Ever Changing View
+2023 - Soos - Mundo Cute
 2023 - This Is The Kit - Careful Of Your Keepers
 2024 - D.C Cross - Glookies Guit
+2024 - Larry Folger - Comrades
+2025 - Anthony Naples - Scanners
 2025 - Daniel Bachman - Where The Tide Ebbs And Flows

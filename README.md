@@ -21,22 +21,23 @@
 2. [Angst (10)](#angst)
 3. [Calm (33)](#calm)
 4. [Classical guitar (11)](#classical-guitar)
-5. [Focus (44)](#focus)
+5. [Focus (54)](#focus)
 6. [Folk (43)](#folk)
 7. [Funk (8)](#funk)
 8. [Heavy (6)](#heavy)
 9. [Hip hop (14)](#hip-hop)
-10. [Jazz (17)](#jazz)
-11. [Minimalism (3)](#minimalism)
-12. [None (4)](#none)
-13. [Primitivism (5)](#primitivism)
-14. [Prog (15)](#prog)
-15. [Psychedelic (9)](#psychedelic)
-16. [Road trip (260)](#road-trip)
-17. [Snarky Matthew (7)](#snarky-matthew)
-18. [This is the pine club (15)](#this-is-the-pine-club)
-19. [World music (18)](#world-music)
-20. [All albums (302)](#all-albums)
+10. [House (10)](#house)
+11. [Jazz (17)](#jazz)
+12. [Minimalism (4)](#minimalism)
+13. [None (4)](#none)
+14. [Primitivism (5)](#primitivism)
+15. [Prog (15)](#prog)
+16. [Psychedelic (9)](#psychedelic)
+17. [Road trip (270)](#road-trip)
+18. [Snarky Matthew (7)](#snarky-matthew)
+19. [This is the pine club (15)](#this-is-the-pine-club)
+20. [World music (18)](#world-music)
+21. [All albums (312)](#all-albums)
 
 ## African
 
@@ -126,19 +127,25 @@
 - 1989 - The Necks - Sex
 - 1990 - Inkuyo - Land of the Incas (Music of the Andes)
 - 1993 - Ry Cooder & V.M. Bhatt - A Meeting by the River
+- 1994 - Steve Reich - Tehillim, Three Movements
 - 1994 - The Necks - Aquatic
 - 1994 - Woob - 1194
 - 1995 - Toumani Diabate - Djelika
+- 1997 - Moodymann - SILENTINTRODUCTION
 - 1998 - Tuatara - Trading With The Enemy
 - 1999 - The Necks - Hanging Gardens
 - 2000 - Luomo - Vocalcity
+- 2000 - Moodymann - Forevernevermore
 - 2003 - Solar Fields - Blue Moon Station
 - 2003 - The Necks - Drive By
 - 2004 - Rodrigo y gabriela - Re-foc
 - 2005 - Boards Of Canada - The Campfire Headphase
+- 2005 - Omar S - Just Ask the Lonely
 - 2005 - Solar Fields - Leaving Home
 - 2006 - Ratatat - Classics
 - 2006 - Rodrigo y gabriela - Rodrigo y gabriela
+- 2007 - Efdemin - Efdemin
+- 2007 - The Field - From Here We Go Sublime
 - 2008 - Causa Sui - Summer Sessions Vol. 1
 - 2008 - Matthew Halsall - Sending My Love (Special Edition)
 - 2009 - Causa Sui - Summer Sessions Vol. 2
@@ -147,6 +154,7 @@
 - 2009 - Rodrigo y gabriela - 11-11
 - 2009 - Solar Fields - Mirror's Edge
 - 2010 - Bonobo - Black Sands
+- 2010 - Efdemin - Chicago
 - 2010 - Snarky Puppy - Tell Your Friends
 - 2011 - Tycho - Dive
 - 2012 - Matthew Halsall - Fletcher Moss Park
@@ -158,7 +166,10 @@
 - 2017 - Bonobo - Migration
 - 2018 - Nathan Salsburg - Third
 - 2023 - Matthew Halsall - An Ever Changing View
+- 2023 - Soos - Mundo Cute
 - 2024 - D.C Cross - Glookies Guit
+- 2024 - Larry Folger - Comrades
+- 2025 - Anthony Naples - Scanners
 - 2025 - Daniel Bachman - Where The Tide Ebbs And Flows
 
 ## Folk
@@ -244,6 +255,19 @@
 - 2004 - Madvillain - Madvillainy
 - 2007 - Kanye West - Graduation
 
+## House
+
+- 1997 - Moodymann - SILENTINTRODUCTION
+- 2000 - Luomo - Vocalcity
+- 2000 - Moodymann - Forevernevermore
+- 2005 - Omar S - Just Ask the Lonely
+- 2007 - Efdemin - Efdemin
+- 2007 - The Field - From Here We Go Sublime
+- 2010 - Efdemin - Chicago
+- 2023 - Soos - Mundo Cute
+- 2024 - Larry Folger - Comrades
+- 2025 - Anthony Naples - Scanners
+
 ## Jazz
 
 - 1958 - Cannonball Adderley - Somethin' Else
@@ -269,6 +293,7 @@
 - 1971 - Steve Reich - Drumming
 - 1978 - Steve Reich - Music for 18 musicians
 - 1989 - Steve Reich - Different trains, electric counterpoint
+- 1994 - Steve Reich - Tehillim, Three Movements
 
 ## None
 
@@ -418,6 +443,7 @@
 - 1993 - Ry Cooder & V.M. Bhatt - A Meeting by the River
 - 1994 - Green Day - Dookie
 - 1994 - Jeff Buckley - Grace
+- 1994 - Steve Reich - Tehillim, Three Movements
 - 1995 - Elliott Smith - Elliott Smith
 - 1995 - Toumani Diabate - Djelika
 - 1996 - Belle and Sebastian - Tigermilk
@@ -427,6 +453,7 @@
 - 1997 - Dispatch - Bang Bang
 - 1997 - Elliott Smith - Either-Or
 - 1997 - Modest Mouse - The Lonesome Crowded West
+- 1997 - Moodymann - SILENTINTRODUCTION
 - 1997 - Radiohead - OK Computer
 - 1998 - Habib Koité & Bamada - Ma Ya
 - 1998 - Neutral Milk Hotel - In the Aeroplane Over the Sea
@@ -435,6 +462,7 @@
 - 2000 - Luomo - Vocalcity
 - 2000 - Mamadou Diabate - Tunga
 - 2000 - Modest Mouse - The Moon & Antarctica
+- 2000 - Moodymann - Forevernevermore
 - 2001 - Daft Punk - Discovery
 - 2001 - Spoon - Girls Can Tell
 - 2001 - The shins - Oh, Inverted World
@@ -458,6 +486,7 @@
 - 2005 - Boards Of Canada - The Campfire Headphase
 - 2005 - Dengue Fever - Escape From Dragon House
 - 2005 - Fat Freddy's Drop - Based On a True Story
+- 2005 - Omar S - Just Ask the Lonely
 - 2005 - Paramore - All we know is falling
 - 2005 - Solar Fields - Leaving Home
 - 2006 - Arctic Monkeys - Whatever People Say I Am, That's What I'm Not
@@ -472,11 +501,13 @@
 - 2007 - Arctic Monkeys - Favourite Worst Nightmare
 - 2007 - Biffy Clyro - Puzzle
 - 2007 - Bon Iver - For Emma, Forever Ago
+- 2007 - Efdemin - Efdemin
 - 2007 - Foo Fighters - Echoes, Silence, Patience & Grace
 - 2007 - Iron and Wine-The Shepherd's Dog
 - 2007 - Kanye West - Graduation
 - 2007 - Paramore - Riot!
 - 2007 - Pigeon detectives - Wait for me
+- 2007 - The Field - From Here We Go Sublime
 - 2007 - Tinariwen - Aman Iman Water Is Life
 - 2008 - CALLmeKAT
 - 2008 - Cage the elephant - cage the elephant
@@ -504,6 +535,7 @@
 - 2010 - Bombay Bicycle Club - Flaws
 - 2010 - Bonobo - Black Sands
 - 2010 - Darwin Deez - Darwin Deez
+- 2010 - Efdemin - Chicago
 - 2010 - Everything Everything - Man Alive
 - 2010 - Snarky Puppy - Tell Your Friends
 - 2010 - Tame Impala - Innerspeaker
@@ -574,8 +606,11 @@
 - 2022 - Psychedelic Porn Crumpets - Night Gnomes
 - 2022 - Youth Sector - Adult Contemporary
 - 2023 - Matthew Halsall - An Ever Changing View
+- 2023 - Soos - Mundo Cute
 - 2023 - This Is The Kit - Careful Of Your Keepers
 - 2024 - D.C Cross - Glookies Guit
+- 2024 - Larry Folger - Comrades
+- 2025 - Anthony Naples - Scanners
 - 2025 - Daniel Bachman - Where The Tide Ebbs And Flows
 
 ## Snarky Matthew
@@ -745,6 +780,7 @@
 - 1994 - Jeff Buckley - Grace
 - 1994 - Kemba Sussoko - La Kora Des Griots Mandingues
 - 1994 - Nas - Illmatic
+- 1994 - Steve Reich - Tehillim, Three Movements
 - 1994 - The Necks - Aquatic
 - 1994 - The Notorious B.I.G. - Ready To Die
 - 1994 - Woob - 1194
@@ -765,6 +801,7 @@
 - 1997 - Dispatch - Bang Bang
 - 1997 - Elliott Smith - Either-Or
 - 1997 - Modest Mouse - The Lonesome Crowded West
+- 1997 - Moodymann - SILENTINTRODUCTION
 - 1997 - Radiohead - OK Computer
 - 1998 - Habib Koité & Bamada - Ma Ya
 - 1998 - Neutral Milk Hotel - In the Aeroplane Over the Sea
@@ -777,6 +814,7 @@
 - 2000 - Luomo - Vocalcity
 - 2000 - Mamadou Diabate - Tunga
 - 2000 - Modest Mouse - The Moon & Antarctica
+- 2000 - Moodymann - Forevernevermore
 - 2000 - Norbert Kraft - Villa-Lobos - Music For Solo Guitar (Complete)
 - 2001 - Daft Punk - Discovery
 - 2001 - Spoon - Girls Can Tell
@@ -806,6 +844,7 @@
 - 2005 - Dengue Fever - Escape From Dragon House
 - 2005 - Fat Freddy's Drop - Based On a True Story
 - 2005 - Flyleaf - Flyleaf
+- 2005 - Omar S - Just Ask the Lonely
 - 2005 - Paramore - All we know is falling
 - 2005 - Solar Fields - Leaving Home
 - 2006 - Arctic Monkeys - Whatever People Say I Am, That's What I'm Not
@@ -821,11 +860,13 @@
 - 2007 - Arctic Monkeys - Favourite Worst Nightmare
 - 2007 - Biffy Clyro - Puzzle
 - 2007 - Bon Iver - For Emma, Forever Ago
+- 2007 - Efdemin - Efdemin
 - 2007 - Foo Fighters - Echoes, Silence, Patience & Grace
 - 2007 - Iron and Wine-The Shepherd's Dog
 - 2007 - Kanye West - Graduation
 - 2007 - Paramore - Riot!
 - 2007 - Pigeon detectives - Wait for me
+- 2007 - The Field - From Here We Go Sublime
 - 2007 - Tinariwen - Aman Iman Water Is Life
 - 2008 - CALLmeKAT
 - 2008 - Cage the elephant - cage the elephant
@@ -855,6 +896,7 @@
 - 2010 - Bombay Bicycle Club - Flaws
 - 2010 - Bonobo - Black Sands
 - 2010 - Darwin Deez - Darwin Deez
+- 2010 - Efdemin - Chicago
 - 2010 - Everything Everything - Man Alive
 - 2010 - Kanye West - My Beautiful Dark Twisted Fantasy
 - 2010 - Snarky Puppy - Tell Your Friends
@@ -928,6 +970,9 @@
 - 2022 - Psychedelic Porn Crumpets - Night Gnomes
 - 2022 - Youth Sector - Adult Contemporary
 - 2023 - Matthew Halsall - An Ever Changing View
+- 2023 - Soos - Mundo Cute
 - 2023 - This Is The Kit - Careful Of Your Keepers
 - 2024 - D.C Cross - Glookies Guit
+- 2024 - Larry Folger - Comrades
+- 2025 - Anthony Naples - Scanners
 - 2025 - Daniel Bachman - Where The Tide Ebbs And Flows

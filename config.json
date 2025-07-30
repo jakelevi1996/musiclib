@@ -569,7 +569,7 @@
     },
     {
         "name":         "2000 - Luomo - Vocalcity",
-        "playlists":    ["Road trip", "Focus"]
+        "playlists":    ["Road trip", "Focus", "House"]
     },
     {
         "name":         "2000 - Mamadou Diabate - Tunga",
@@ -1206,5 +1206,45 @@
     {
         "name":         "2025 - Daniel Bachman - Where The Tide Ebbs And Flows",
         "playlists":    ["Primitivism", "Road trip", "Focus", "Calm"]
+    },
+    {
+        "name":         "2023 - Soos - Mundo Cute",
+        "playlists":    ["Road trip", "Focus", "House"]
+    },
+    {
+        "name":         "1994 - Steve Reich - Tehillim, Three Movements",
+        "playlists":    ["Minimalism", "Road trip", "Focus"]
+    },
+    {
+        "name":         "1997 - Moodymann - SILENTINTRODUCTION",
+        "playlists":    ["Road trip", "Focus", "House"]
+    },
+    {
+        "name":         "2000 - Moodymann - Forevernevermore",
+        "playlists":    ["Road trip", "Focus", "House"]
+    },
+    {
+        "name":         "2005 - Omar S - Just Ask the Lonely",
+        "playlists":    ["Road trip", "Focus", "House"]
+    },
+    {
+        "name":         "2007 - Efdemin - Efdemin",
+        "playlists":    ["Road trip", "Focus", "House"]
+    },
+    {
+        "name":         "2007 - The Field - From Here We Go Sublime",
+        "playlists":    ["Road trip", "Focus", "House"]
+    },
+    {
+        "name":         "2010 - Efdemin - Chicago",
+        "playlists":    ["Road trip", "Focus", "House"]
+    },
+    {
+        "name":         "2024 - Larry Folger - Comrades",
+        "playlists":    ["Road trip", "Focus", "House"]
+    },
+    {
+        "name":         "2025 - Anthony Naples - Scanners",
+        "playlists":    ["Road trip", "Focus", "House"]
     }
 ]
