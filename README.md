@@ -33,7 +33,7 @@
 14. [Primitivism (5)](#primitivism)
 15. [Prog (15)](#prog)
 16. [Psychedelic (9)](#psychedelic)
-17. [Road trip (270)](#road-trip)
+17. [Road trip (267)](#road-trip)
 18. [Snarky Matthew (7)](#snarky-matthew)
 19. [This is the pine club (15)](#this-is-the-pine-club)
 20. [World music (18)](#world-music)
@@ -385,7 +385,6 @@
 - 1971 - Nick Drake - Bryter Layter
 - 1971 - Paul & Linda McCartney - Ram
 - 1971 - Roy Harper - Stormcock
-- 1971 - Steve Reich - Drumming
 - 1971 - Van Morrison - Tupelo Honey
 - 1971 - Yes - Fragile
 - 1972 - Curtis Mayfield - Super Fly
@@ -424,7 +423,6 @@
 - 1977 - Steely Dan - Aja
 - 1978 - Dire Straits - Dire Straits
 - 1978 - Robbie Basho - Visions of the Country
-- 1978 - Steve Reich - Music for 18 musicians
 - 1980 - Talking Heads - Remain in Light
 - 1982 - Iron Maiden - The number of the beast
 - 1984 - Baltar Benitez - Music of Astor Piazzolla
@@ -443,7 +441,6 @@
 - 1993 - Ry Cooder & V.M. Bhatt - A Meeting by the River
 - 1994 - Green Day - Dookie
 - 1994 - Jeff Buckley - Grace
-- 1994 - Steve Reich - Tehillim, Three Movements
 - 1995 - Elliott Smith - Elliott Smith
 - 1995 - Toumani Diabate - Djelika
 - 1996 - Belle and Sebastian - Tigermilk
