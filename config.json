@@ -1,7 +1,7 @@
 [
     {
         "name":         "1940 - Woody Guthrie - Dust Bowl Ballads",
-        "playlists":    ["Road trip", "Folk"]
+        "playlists":    ["Road trip", "Folk", "Climb"]
     },
     {
         "name":         "1956 - Ravi Shankar - Three Ragas",
@@ -157,7 +157,7 @@
     },
     {
         "name":         "1971 - Jethro Tull - Aqualung",
-        "playlists":    ["Road trip", "Prog"]
+        "playlists":    ["Road trip", "Prog", "Climb"]
     },
     {
         "name":         "1971 - John Martyn - Bless The Weather",
@@ -229,7 +229,7 @@
     },
     {
         "name":         "1973 - James Brown - The Payback",
-        "playlists":    ["Road trip", "Funk"]
+        "playlists":    ["Road trip", "Funk", "Climb"]
     },
     {
         "name":         "1973 - Magnet - The Wicker Man",
@@ -241,7 +241,7 @@
     },
     {
         "name":         "1973 - Pink Floyd - The Dark Side of the Moon",
-        "playlists":    ["Road trip", "Prog"]
+        "playlists":    ["Road trip", "Prog", "Climb"]
     },
     {
         "name":         "1973 - Steely Dan - Countdown To Ecstasy",
@@ -285,7 +285,7 @@
     },
     {
         "name":         "1975 - Pink Floyd - Wish You Were Here",
-        "playlists":    ["Road trip", "Prog"]
+        "playlists":    ["Road trip", "Prog", "Climb"]
     },
     {
         "name":         "1975 - Steely Dan - Katy Lied",
@@ -305,7 +305,7 @@
     },
     {
         "name":         "1976 - Shakti - A Handful Of Beauty",
-        "playlists":    ["Road trip", "Focus", "Calm", "World music"]
+        "playlists":    ["Road trip", "Focus", "Calm", "World music", "Climb"]
     },
     {
         "name":         "1976 - Steely Dan - The Royal Scam",
@@ -313,7 +313,7 @@
     },
     {
         "name":         "1977 - Fela Kuti - Zombie",
-        "playlists":    ["Road trip", "Focus", "World music", "African", "Funk"]
+        "playlists":    ["Road trip", "Focus", "World music", "African", "Funk", "Climb"]
     },
     {
         "name":         "1977 - Fleetwood Mac - Rumours",
@@ -321,15 +321,15 @@
     },
     {
         "name":         "1977 - Pink Floyd - Animals",
-        "playlists":    ["Road trip", "Prog"]
+        "playlists":    ["Road trip", "Prog", "Climb"]
     },
     {
         "name":         "1977 - Shakti - Natural elements",
-        "playlists":    ["Road trip", "Focus", "Calm", "World music"]
+        "playlists":    ["Road trip", "Focus", "Calm", "World music", "Climb"]
     },
     {
         "name":         "1977 - Steely Dan - Aja",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Climb"]
     },
     {
         "name":         "1978 - Dire Straits - Dire Straits",
@@ -441,7 +441,7 @@
     },
     {
         "name":         "1994 - Jeff Buckley - Grace",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Climb"]
     },
     {
         "name":         "1994 - Kemba Sussoko - La Kora Des Griots Mandingues",
@@ -489,7 +489,7 @@
     },
     {
         "name":         "1995 - Toumani Diabate - Djelika",
-        "playlists":    ["Road trip", "Focus", "Calm", "World music", "African"]
+        "playlists":    ["Road trip", "Focus", "Calm", "World music", "African", "Climb"]
     },
     {
         "name":         "1996 - Belle and Sebastian - Tigermilk",
@@ -521,7 +521,7 @@
     },
     {
         "name":         "1997 - Dispatch - Bang Bang",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Climb"]
     },
     {
         "name":         "1997 - Elliott Smith - Either-Or",
@@ -537,7 +537,7 @@
     },
     {
         "name":         "1998 - Habib Koité & Bamada - Ma Ya",
-        "playlists":    ["Road trip", "Calm", "World music", "African"]
+        "playlists":    ["Road trip", "Calm", "World music", "African", "Climb"]
     },
     {
         "name":         "1998 - Neutral Milk Hotel - In the Aeroplane Over the Sea",
@@ -569,7 +569,7 @@
     },
     {
         "name":         "2000 - Luomo - Vocalcity",
-        "playlists":    ["Road trip", "Focus", "House"]
+        "playlists":    ["Road trip", "Focus", "House", "Climb"]
     },
     {
         "name":         "2000 - Mamadou Diabate - Tunga",
@@ -577,7 +577,7 @@
     },
     {
         "name":         "2000 - Modest Mouse - The Moon & Antarctica",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Climb"]
     },
     {
         "name":         "2000 - Norbert Kraft - Villa-Lobos - Music For Solo Guitar (Complete)",
@@ -585,7 +585,7 @@
     },
     {
         "name":         "2001 - Daft Punk - Discovery",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Climb"]
     },
     {
         "name":         "2001 - Spoon - Girls Can Tell",
@@ -677,7 +677,7 @@
     },
     {
         "name":         "2004 - The Zutons - Who killed the zutons",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Climb"]
     },
     {
         "name":         "2005 - Boards Of Canada - The Campfire Headphase",
@@ -689,7 +689,7 @@
     },
     {
         "name":         "2005 - Fat Freddy's Drop - Based On a True Story",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Climb"]
     },
     {
         "name":         "2005 - Flyleaf - Flyleaf",
@@ -721,7 +721,7 @@
     },
     {
         "name":         "2006 - Midlake - The trials of Van Occupanther",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Climb"]
     },
     {
         "name":         "2006 - Ratatat - Classics",
@@ -737,7 +737,7 @@
     },
     {
         "name":         "2006 - Silversun Pickups - Carnavas",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Climb"]
     },
     {
         "name":         "2006 - Ugly Duckling - Bang For The Buck",
@@ -757,7 +757,7 @@
     },
     {
         "name":         "2007 - Foo Fighters - Echoes, Silence, Patience & Grace",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Climb"]
     },
     {
         "name":         "2007 - Iron and Wine-The Shepherd's Dog",
@@ -785,7 +785,7 @@
     },
     {
         "name":         "2008 - Cage the elephant - cage the elephant",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Climb"]
     },
     {
         "name":         "2008 - Causa Sui - Summer Sessions Vol. 1",
@@ -821,7 +821,7 @@
     },
     {
         "name":         "2009 - Bombay Bicycle Club - I Had The Blues But I Shook Them Loose",
-        "playlists":    ["Road trip", "This is the pine club"]
+        "playlists":    ["Road trip", "This is the pine club", "Climb"]
     },
     {
         "name":         "2009 - Causa Sui - Summer Sessions Vol. 2",
@@ -849,7 +849,7 @@
     },
     {
         "name":         "2009 - Phoenix - Wolfgang amadeus phoenix",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Climb"]
     },
     {
         "name":         "2009 - Placebo - Battle for the Sun",
@@ -869,7 +869,7 @@
     },
     {
         "name":         "2009 - Tapes 'n Tapes - The Loon",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Climb"]
     },
     {
         "name":         "2010 - Arcade Fire - The Suburbs",
@@ -885,7 +885,7 @@
     },
     {
         "name":         "2010 - Bonobo - Black Sands",
-        "playlists":    ["Road trip", "Focus"]
+        "playlists":    ["Road trip", "Focus", "Climb"]
     },
     {
         "name":         "2010 - Darwin Deez - Darwin Deez",
@@ -913,7 +913,7 @@
     },
     {
         "name":         "2010 - This Is the Kit - Wriggle Out The Restless",
-        "playlists":    ["Road trip", "Calm", "This is the pine club", "Folk"]
+        "playlists":    ["Road trip", "Calm", "This is the pine club", "Folk", "Climb"]
     },
     {
         "name":         "2010 - Two door cinema club - Tourist history",
@@ -921,7 +921,7 @@
     },
     {
         "name":         "2011 - Bombay Bicycle Club - A Different Kind of Fix",
-        "playlists":    ["Road trip", "This is the pine club"]
+        "playlists":    ["Road trip", "This is the pine club", "Climb"]
     },
     {
         "name":         "2011 - Bon Iver - Bon Iver",
@@ -929,11 +929,11 @@
     },
     {
         "name":         "2011 - Fatoumata Diawara - Fatou",
-        "playlists":    ["Road trip", "Calm", "World music", "African"]
+        "playlists":    ["Road trip", "Calm", "World music", "African", "Climb"]
     },
     {
         "name":         "2011 - Foo Fighters - Wasting Light",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Climb"]
     },
     {
         "name":         "2011 - Metronomy - The English Riviera",
@@ -981,7 +981,7 @@
     },
     {
         "name":         "2012 - Pinegrove - Meridian",
-        "playlists":    ["Road trip", "This is the pine club"]
+        "playlists":    ["Road trip", "This is the pine club", "Climb"]
     },
     {
         "name":         "2012 - Pond - Beard, Wives, Denim",
@@ -1005,7 +1005,7 @@
     },
     {
         "name":         "2013 - Arctic Monkeys - AM",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Climb"]
     },
     {
         "name":         "2013 - Darwin Deez - Songs for Imaginative People",
@@ -1017,7 +1017,7 @@
     },
     {
         "name":         "2013 - Fat Freddy's Drop - Blackbird",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Climb"]
     },
     {
         "name":         "2013 - Haim - Days Are Gone",
@@ -1093,7 +1093,7 @@
     },
     {
         "name":         "2016 - Pinegrove - Cardinal",
-        "playlists":    ["Road trip", "This is the pine club"]
+        "playlists":    ["Road trip", "This is the pine club", "Climb"]
     },
     {
         "name":         "2016 - Tycho - Epoch",
@@ -1101,7 +1101,7 @@
     },
     {
         "name":         "2017 - Bonobo - Migration",
-        "playlists":    ["Road trip", "Focus"]
+        "playlists":    ["Road trip", "Focus", "Climb"]
     },
     {
         "name":         "2017 - Jesca Hoop - Memories Are Now",
@@ -1113,7 +1113,7 @@
     },
     {
         "name":         "2017 - This is the kit - Moonshine Freeze",
-        "playlists":    ["Road trip", "Calm", "This is the pine club", "Folk"]
+        "playlists":    ["Road trip", "Calm", "This is the pine club", "Folk", "Climb"]
     },
     {
         "name":         "2018 - Bokanté, Jules Buckley & Metropole Orkest - What Heat",
@@ -1133,7 +1133,7 @@
     },
     {
         "name":         "2019 - Psychedelic Porn Crumpets - And Now For The Whatchamacallit",
-        "playlists":    ["Road trip", "Psychedelic"]
+        "playlists":    ["Road trip", "Psychedelic", "Climb"]
     },
     {
         "name":         "2019 - Ricardo Gallén - Leo Brouwer Guitar Sonatas",
@@ -1153,7 +1153,7 @@
     },
     {
         "name":         "2020 - This Is the Kit - Off Off On",
-        "playlists":    ["Road trip", "Calm", "This is the pine club", "Folk"]
+        "playlists":    ["Road trip", "Calm", "This is the pine club", "Folk", "Climb"]
     },
     {
         "name":         "2021 - The Magic Lantern - A Reckoning Bell",
@@ -1165,7 +1165,7 @@
     },
     {
         "name":         "2022 - Psychedelic Porn Crumpets - Night Gnomes",
-        "playlists":    ["Road trip", "Psychedelic"]
+        "playlists":    ["Road trip", "Psychedelic", "Climb"]
     },
     {
         "name":         "2022 - Youth Sector - Adult Contemporary",
@@ -1185,19 +1185,19 @@
     },
     {
         "name":         "2012 - Matthew Halsall - Fletcher Moss Park",
-        "playlists":    ["Jazz", "Snarky Matthew", "Road trip", "Focus", "Calm"]
+        "playlists":    ["Jazz", "Snarky Matthew", "Road trip", "Focus", "Calm", "Climb"]
     },
     {
         "name":         "2018 - Nathan Salsburg - Third",
-        "playlists":    ["Primitivism", "Road trip", "Focus", "Calm"]
+        "playlists":    ["Primitivism", "Road trip", "Focus", "Calm", "Climb"]
     },
     {
         "name":         "2023 - Matthew Halsall - An Ever Changing View",
-        "playlists":    ["Jazz", "Snarky Matthew", "Road trip", "Focus", "Calm"]
+        "playlists":    ["Jazz", "Snarky Matthew", "Road trip", "Focus", "Calm", "Climb"]
     },
     {
         "name":         "2023 - This Is The Kit - Careful Of Your Keepers",
-        "playlists":    ["Road trip", "Calm", "This is the pine club"]
+        "playlists":    ["Road trip", "Calm", "This is the pine club", "Climb"]
     },
     {
         "name":         "2024 - D.C Cross - Glookies Guit",

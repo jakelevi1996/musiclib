@@ -21,7 +21,7 @@
 2. [Angst (10)](#angst)
 3. [Calm (33)](#calm)
 4. [Classical guitar (11)](#classical-guitar)
-5. [Climb (6)](#climb)
+5. [Climb (50)](#climb)
 6. [Focus (54)](#focus)
 7. [Folk (43)](#folk)
 8. [Funk (8)](#funk)
@@ -121,12 +121,56 @@
 
 ## Climb
 
+- 1940 - Woody Guthrie - Dust Bowl Ballads
+- 1971 - Jethro Tull - Aqualung
+- 1973 - James Brown - The Payback
+- 1973 - Pink Floyd - The Dark Side of the Moon
+- 1975 - Pink Floyd - Wish You Were Here
+- 1976 - Shakti - A Handful Of Beauty
+- 1977 - Fela Kuti - Zombie
+- 1977 - Pink Floyd - Animals
+- 1977 - Shakti - Natural elements
+- 1977 - Steely Dan - Aja
+- 1994 - Jeff Buckley - Grace
+- 1995 - Toumani Diabate - Djelika
 - 1996 - Guem - Le Serpent
+- 1997 - Dispatch - Bang Bang
+- 1998 - Habib Koité & Bamada - Ma Ya
 - 1998 - Rokia Traore - Mouneissa
+- 2000 - Luomo - Vocalcity
+- 2000 - Modest Mouse - The Moon & Antarctica
 - 2000 - Rokia Traore - Wanita
+- 2001 - Daft Punk - Discovery
 - 2003 - Lawrence - The Absence Of Blight
+- 2004 - The Zutons - Who killed the zutons
+- 2005 - Fat Freddy's Drop - Based On a True Story
+- 2006 - Midlake - The trials of Van Occupanther
+- 2006 - Silversun Pickups - Carnavas
+- 2007 - Foo Fighters - Echoes, Silence, Patience & Grace
+- 2008 - Cage the elephant - cage the elephant
+- 2009 - Bombay Bicycle Club - I Had The Blues But I Shook Them Loose
+- 2009 - Phoenix - Wolfgang amadeus phoenix
+- 2009 - Tapes 'n Tapes - The Loon
+- 2010 - Bonobo - Black Sands
+- 2010 - This Is the Kit - Wriggle Out The Restless
+- 2011 - Bombay Bicycle Club - A Different Kind of Fix
+- 2011 - Fatoumata Diawara - Fatou
+- 2011 - Foo Fighters - Wasting Light
+- 2012 - Matthew Halsall - Fletcher Moss Park
+- 2012 - Pinegrove - Meridian
+- 2013 - Arctic Monkeys - AM
+- 2013 - Fat Freddy's Drop - Blackbird
 - 2015 - Patrick Holland - I Want To Believe
+- 2016 - Pinegrove - Cardinal
 - 2016 - Stimming - Alpe Lusia
+- 2017 - Bonobo - Migration
+- 2017 - This is the kit - Moonshine Freeze
+- 2018 - Nathan Salsburg - Third
+- 2019 - Psychedelic Porn Crumpets - And Now For The Whatchamacallit
+- 2020 - This Is the Kit - Off Off On
+- 2022 - Psychedelic Porn Crumpets - Night Gnomes
+- 2023 - Matthew Halsall - An Ever Changing View
+- 2023 - This Is The Kit - Careful Of Your Keepers
 
 ## Focus
 
