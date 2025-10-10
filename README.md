@@ -17,27 +17,28 @@
 
 ## Contents
 
-1. [African (10)](#african)
+1. [African (13)](#african)
 2. [Angst (10)](#angst)
 3. [Calm (33)](#calm)
 4. [Classical guitar (11)](#classical-guitar)
-5. [Focus (54)](#focus)
-6. [Folk (43)](#folk)
-7. [Funk (8)](#funk)
-8. [Heavy (6)](#heavy)
-9. [Hip hop (14)](#hip-hop)
-10. [House (10)](#house)
-11. [Jazz (17)](#jazz)
-12. [Minimalism (4)](#minimalism)
-13. [None (4)](#none)
-14. [Primitivism (5)](#primitivism)
-15. [Prog (15)](#prog)
-16. [Psychedelic (9)](#psychedelic)
-17. [Road trip (267)](#road-trip)
-18. [Snarky Matthew (7)](#snarky-matthew)
-19. [This is the pine club (15)](#this-is-the-pine-club)
-20. [World music (18)](#world-music)
-21. [All albums (312)](#all-albums)
+5. [Climb (6)](#climb)
+6. [Focus (54)](#focus)
+7. [Folk (43)](#folk)
+8. [Funk (8)](#funk)
+9. [Heavy (6)](#heavy)
+10. [Hip hop (14)](#hip-hop)
+11. [House (13)](#house)
+12. [Jazz (17)](#jazz)
+13. [Minimalism (4)](#minimalism)
+14. [None (4)](#none)
+15. [Primitivism (5)](#primitivism)
+16. [Prog (15)](#prog)
+17. [Psychedelic (9)](#psychedelic)
+18. [Road trip (273)](#road-trip)
+19. [Snarky Matthew (7)](#snarky-matthew)
+20. [This is the pine club (15)](#this-is-the-pine-club)
+21. [World music (21)](#world-music)
+22. [All albums (318)](#all-albums)
 
 ## African
 
@@ -45,8 +46,11 @@
 - 1994 - Ali Farka Touré and Ry Cooder - Talking Timbuktu (with Ry Cooder)
 - 1994 - Kemba Sussoko - La Kora Des Griots Mandingues
 - 1995 - Toumani Diabate - Djelika
+- 1996 - Guem - Le Serpent
 - 1998 - Habib Koité & Bamada - Ma Ya
+- 1998 - Rokia Traore - Mouneissa
 - 2000 - Mamadou Diabate - Tunga
+- 2000 - Rokia Traore - Wanita
 - 2003 - Kélétigui Diabaté - Sandiya
 - 2006 - Bassekou Kouyaté & Ngoni Ba - Segu Blue
 - 2008 - Kouyaté-Neerman - Kangaba
@@ -114,6 +118,15 @@
 - 2002 - Andres Segovia - The art of Segovia
 - 2009 - John Williams - Spanish Guitar Music
 - 2019 - Ricardo Gallén - Leo Brouwer Guitar Sonatas
+
+## Climb
+
+- 1996 - Guem - Le Serpent
+- 1998 - Rokia Traore - Mouneissa
+- 2000 - Rokia Traore - Wanita
+- 2003 - Lawrence - The Absence Of Blight
+- 2015 - Patrick Holland - I Want To Believe
+- 2016 - Stimming - Alpe Lusia
 
 ## Focus
 
@@ -260,10 +273,13 @@
 - 1997 - Moodymann - SILENTINTRODUCTION
 - 2000 - Luomo - Vocalcity
 - 2000 - Moodymann - Forevernevermore
+- 2003 - Lawrence - The Absence Of Blight
 - 2005 - Omar S - Just Ask the Lonely
 - 2007 - Efdemin - Efdemin
 - 2007 - The Field - From Here We Go Sublime
 - 2010 - Efdemin - Chicago
+- 2015 - Patrick Holland - I Want To Believe
+- 2016 - Stimming - Alpe Lusia
 - 2023 - Soos - Mundo Cute
 - 2024 - Larry Folger - Comrades
 - 2025 - Anthony Naples - Scanners
@@ -446,6 +462,7 @@
 - 1996 - Belle and Sebastian - Tigermilk
 - 1996 - Cardiacs - Sing to God
 - 1996 - Failure - Fantastic Planet
+- 1996 - Guem - Le Serpent
 - 1996 - Michael Tröster - El Decameron Negro
 - 1997 - Dispatch - Bang Bang
 - 1997 - Elliott Smith - Either-Or
@@ -454,12 +471,14 @@
 - 1997 - Radiohead - OK Computer
 - 1998 - Habib Koité & Bamada - Ma Ya
 - 1998 - Neutral Milk Hotel - In the Aeroplane Over the Sea
+- 1998 - Rokia Traore - Mouneissa
 - 1998 - Tuatara - Trading With The Enemy
 - 1999 - Red Hot Chili Peppers - Californication
 - 2000 - Luomo - Vocalcity
 - 2000 - Mamadou Diabate - Tunga
 - 2000 - Modest Mouse - The Moon & Antarctica
 - 2000 - Moodymann - Forevernevermore
+- 2000 - Rokia Traore - Wanita
 - 2001 - Daft Punk - Discovery
 - 2001 - Spoon - Girls Can Tell
 - 2001 - The shins - Oh, Inverted World
@@ -468,6 +487,7 @@
 - 2002 - The Flaming Lips - Yoshimi Battles the Pink Robots
 - 2003 - Blink-182 - Blink-182
 - 2003 - Kélétigui Diabaté - Sandiya
+- 2003 - Lawrence - The Absence Of Blight
 - 2003 - Solar Fields - Blue Moon Station
 - 2003 - The Strokes - Room on fire
 - 2003 - The shins - Chutes Too Narrow
@@ -577,12 +597,14 @@
 - 2014 - Tinariwen - Emmaar
 - 2014 - Tuatara - Underworld
 - 2015 - Everything Everything - Get To Heaven
+- 2015 - Patrick Holland - I Want To Believe
 - 2015 - Snarky Puppy & Metropole Orkest - Sylva
 - 2015 - Stealing Sheep - Not Real
 - 2015 - Sufjan Stevens - Carrie & Lowell
 - 2015 - The Staves - If I Was
 - 2015 - Unknown Mortal Orchestra - Multi-Love
 - 2016 - Pinegrove - Cardinal
+- 2016 - Stimming - Alpe Lusia
 - 2016 - Tycho - Epoch
 - 2017 - Bonobo - Migration
 - 2017 - Jesca Hoop - Memories Are Now
@@ -649,8 +671,11 @@
 - 1994 - Ali Farka Touré and Ry Cooder - Talking Timbuktu (with Ry Cooder)
 - 1994 - Kemba Sussoko - La Kora Des Griots Mandingues
 - 1995 - Toumani Diabate - Djelika
+- 1996 - Guem - Le Serpent
 - 1998 - Habib Koité & Bamada - Ma Ya
+- 1998 - Rokia Traore - Mouneissa
 - 2000 - Mamadou Diabate - Tunga
+- 2000 - Rokia Traore - Wanita
 - 2003 - Kélétigui Diabaté - Sandiya
 - 2006 - Bassekou Kouyaté & Ngoni Ba - Segu Blue
 - 2007 - Tinariwen - Aman Iman Water Is Life
@@ -791,6 +816,7 @@
 - 1996 - Belle and Sebastian - Tigermilk
 - 1996 - Cardiacs - Sing to God
 - 1996 - Failure - Fantastic Planet
+- 1996 - Guem - Le Serpent
 - 1996 - Julian Bream - The Ultimate Guitar Collection
 - 1996 - Michael Tröster - El Decameron Negro
 - 1996 - Placebo - Come home
@@ -802,6 +828,7 @@
 - 1997 - Radiohead - OK Computer
 - 1998 - Habib Koité & Bamada - Ma Ya
 - 1998 - Neutral Milk Hotel - In the Aeroplane Over the Sea
+- 1998 - Rokia Traore - Mouneissa
 - 1998 - Tuatara - Trading With The Enemy
 - 1999 - MF DOOM - Operation Doomsday
 - 1999 - Mos Def - Black On Both Sides
@@ -813,6 +840,7 @@
 - 2000 - Modest Mouse - The Moon & Antarctica
 - 2000 - Moodymann - Forevernevermore
 - 2000 - Norbert Kraft - Villa-Lobos - Music For Solo Guitar (Complete)
+- 2000 - Rokia Traore - Wanita
 - 2001 - Daft Punk - Discovery
 - 2001 - Spoon - Girls Can Tell
 - 2001 - The shins - Oh, Inverted World
@@ -822,6 +850,7 @@
 - 2002 - The Flaming Lips - Yoshimi Battles the Pink Robots
 - 2003 - Blink-182 - Blink-182
 - 2003 - Kélétigui Diabaté - Sandiya
+- 2003 - Lawrence - The Absence Of Blight
 - 2003 - Solar Fields - Blue Moon Station
 - 2003 - The Necks - Drive By
 - 2003 - The Strokes - Room on fire
@@ -940,12 +969,14 @@
 - 2014 - Tinariwen - Emmaar
 - 2014 - Tuatara - Underworld
 - 2015 - Everything Everything - Get To Heaven
+- 2015 - Patrick Holland - I Want To Believe
 - 2015 - Snarky Puppy & Metropole Orkest - Sylva
 - 2015 - Stealing Sheep - Not Real
 - 2015 - Sufjan Stevens - Carrie & Lowell
 - 2015 - The Staves - If I Was
 - 2015 - Unknown Mortal Orchestra - Multi-Love
 - 2016 - Pinegrove - Cardinal
+- 2016 - Stimming - Alpe Lusia
 - 2016 - Tycho - Epoch
 - 2017 - Bonobo - Migration
 - 2017 - Jesca Hoop - Memories Are Now

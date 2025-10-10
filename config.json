@@ -1246,5 +1246,29 @@
     {
         "name":         "2025 - Anthony Naples - Scanners",
         "playlists":    ["Road trip", "Focus", "House"]
+    },
+    {
+        "name":         "1996 - Guem - Le Serpent",
+        "playlists":    ["Road trip", "Climb", "World music", "African"]
+    },
+    {
+        "name":         "1998 - Rokia Traore - Mouneissa",
+        "playlists":    ["Road trip", "Climb", "World music", "African"]
+    },
+    {
+        "name":         "2000 - Rokia Traore - Wanita",
+        "playlists":    ["Road trip", "Climb", "World music", "African"]
+    },
+    {
+        "name":         "2003 - Lawrence - The Absence Of Blight",
+        "playlists":    ["Road trip", "Climb", "House"]
+    },
+    {
+        "name":         "2015 - Patrick Holland - I Want To Believe",
+        "playlists":    ["Road trip", "Climb", "House"]
+    },
+    {
+        "name":         "2016 - Stimming - Alpe Lusia",
+        "playlists":    ["Road trip", "Climb", "House"]
     }
 ]
