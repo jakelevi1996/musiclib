@@ -21,7 +21,7 @@
 2. [Angst (10)](#angst)
 3. [Calm (33)](#calm)
 4. [Classical guitar (11)](#classical-guitar)
-5. [Climb (50)](#climb)
+5. [Climb (49)](#climb)
 6. [Focus (54)](#focus)
 7. [Folk (43)](#folk)
 8. [Funk (8)](#funk)
@@ -141,7 +141,6 @@
 - 2000 - Modest Mouse - The Moon & Antarctica
 - 2000 - Rokia Traore - Wanita
 - 2001 - Daft Punk - Discovery
-- 2003 - Lawrence - The Absence Of Blight
 - 2004 - The Zutons - Who killed the zutons
 - 2005 - Fat Freddy's Drop - Based On a True Story
 - 2006 - Midlake - The trials of Van Occupanther
