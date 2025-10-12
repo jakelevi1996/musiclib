@@ -34,7 +34,7 @@
 15. [Primitivism (5)](#primitivism)
 16. [Prog (15)](#prog)
 17. [Psychedelic (9)](#psychedelic)
-18. [Road trip (273)](#road-trip)
+18. [Road trip (272)](#road-trip)
 19. [Snarky Matthew (7)](#snarky-matthew)
 20. [This is the pine club (15)](#this-is-the-pine-club)
 21. [World music (21)](#world-music)
@@ -567,7 +567,6 @@
 - 2007 - Kanye West - Graduation
 - 2007 - Paramore - Riot!
 - 2007 - Pigeon detectives - Wait for me
-- 2007 - The Field - From Here We Go Sublime
 - 2007 - Tinariwen - Aman Iman Water Is Life
 - 2008 - CALLmeKAT
 - 2008 - Cage the elephant - cage the elephant
