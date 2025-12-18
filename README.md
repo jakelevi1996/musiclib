@@ -36,9 +36,10 @@
 17. [Psychedelic (9)](#psychedelic)
 18. [Road trip (272)](#road-trip)
 19. [Snarky Matthew (7)](#snarky-matthew)
-20. [This is the pine club (15)](#this-is-the-pine-club)
-21. [World music (21)](#world-music)
-22. [All albums (318)](#all-albums)
+20. [Sound Island (8)](#sound-island)
+21. [This is the pine club (15)](#this-is-the-pine-club)
+22. [World music (21)](#world-music)
+23. [All albums (326)](#all-albums)
 
 ## African
 
@@ -684,6 +685,17 @@
 - 2015 - Snarky Puppy & Metropole Orkest - Sylva
 - 2023 - Matthew Halsall - An Ever Changing View
 
+## Sound Island
+
+- 2022 - Sound Island - melodic deep house & lofi house mix
+- 2023 - Sound Island - focus no vocals deep house mix
+- 2023 - Sound Island - focus no vocals deep house mix vol. 2
+- 2024 - Sound Island - study set for maximum focus limited vocals deep house mix study in ancient library
+- 2025 - Sound Island - focus music to study - no vocal mix to lock in at night
+- 2025 - Sound Island - no vocal focus music for deep concentration
+- 2025 - Sound Island - no vocals house music for studying working coding - from distraction to focus
+- 2025 - Sound Island - study house music - no vocals - study with me - organic house set
+
 ## This is the pine club
 
 - 2009 - Bombay Bicycle Club - I Had The Blues But I Shook Them Loose
@@ -1038,11 +1050,19 @@
 - 2021 - The Magic Lantern - A Reckoning Bell
 - 2022 - Pinegrove - 11-11
 - 2022 - Psychedelic Porn Crumpets - Night Gnomes
+- 2022 - Sound Island - melodic deep house & lofi house mix
 - 2022 - Youth Sector - Adult Contemporary
 - 2023 - Matthew Halsall - An Ever Changing View
 - 2023 - Soos - Mundo Cute
+- 2023 - Sound Island - focus no vocals deep house mix
+- 2023 - Sound Island - focus no vocals deep house mix vol. 2
 - 2023 - This Is The Kit - Careful Of Your Keepers
 - 2024 - D.C Cross - Glookies Guit
 - 2024 - Larry Folger - Comrades
+- 2024 - Sound Island - study set for maximum focus limited vocals deep house mix study in ancient library
 - 2025 - Anthony Naples - Scanners
 - 2025 - Daniel Bachman - Where The Tide Ebbs And Flows
+- 2025 - Sound Island - focus music to study - no vocal mix to lock in at night
+- 2025 - Sound Island - no vocal focus music for deep concentration
+- 2025 - Sound Island - no vocals house music for studying working coding - from distraction to focus
+- 2025 - Sound Island - study house music - no vocals - study with me - organic house set
