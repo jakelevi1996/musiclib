@@ -109,11 +109,11 @@
     },
     {
         "name":         "1970 - Black Sabbath - Black Sabbath",
-        "playlists":    ["Road trip", "Heavy"]
+        "playlists":    ["Road trip", "Heavy", "Climb"]
     },
     {
         "name":         "1970 - Black Sabbath - Paranoid",
-        "playlists":    ["Road trip", "Heavy"]
+        "playlists":    ["Road trip", "Heavy", "Climb"]
     },
     {
         "name":         "1970 - Curtis Mayfield - Curtis",
@@ -181,7 +181,7 @@
     },
     {
         "name":         "1971 - Roy Harper - Stormcock",
-        "playlists":    ["Road trip", "Folk"]
+        "playlists":    ["Road trip", "Folk", "Climb"]
     },
     {
         "name":         "1971 - Van Morrison - Tupelo Honey",
@@ -257,7 +257,7 @@
     },
     {
         "name":         "1974 - Camel - Mirage",
-        "playlists":    ["Road trip", "Prog"]
+        "playlists":    ["Road trip", "Prog", "Climb"]
     },
     {
         "name":         "1974 - Harmonium - Harmonium",
@@ -381,7 +381,7 @@
     },
     {
         "name":         "1989 - Pixies - Doolittle",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Climb"]
     },
     {
         "name":         "1989 - Steve Reich - Different trains, electric counterpoint",
@@ -509,7 +509,7 @@
     },
     {
         "name":         "1996 - Michael Tröster - El Decameron Negro",
-        "playlists":    ["Road trip", "Classical guitar"]
+        "playlists":    ["Road trip", "Classical guitar", "Climb"]
     },
     {
         "name":         "1996 - Placebo - Come home",
@@ -673,7 +673,7 @@
     },
     {
         "name":         "2004 - Rodrigo y gabriela - Re-foc",
-        "playlists":    ["Road trip", "Focus", "Calm"]
+        "playlists":    ["Road trip", "Focus", "Calm", "Climb"]
     },
     {
         "name":         "2004 - The Zutons - Who killed the zutons",
@@ -761,7 +761,7 @@
     },
     {
         "name":         "2007 - Iron and Wine-The Shepherd's Dog",
-        "playlists":    ["Road trip", "Calm", "Folk"]
+        "playlists":    ["Road trip", "Calm", "Folk", "Climb"]
     },
     {
         "name":         "2007 - Kanye West - Graduation",
@@ -905,7 +905,7 @@
     },
     {
         "name":         "2010 - Tame Impala - Innerspeaker",
-        "playlists":    ["Road trip", "Psychedelic"]
+        "playlists":    ["Road trip", "Psychedelic", "Climb"]
     },
     {
         "name":         "2010 - The tallest man on earth - The wild hunt",
@@ -1005,7 +1005,7 @@
     },
     {
         "name":         "2013 - Arctic Monkeys - AM",
-        "playlists":    ["Road trip", "Climb"]
+        "playlists":    ["Road trip"]
     },
     {
         "name":         "2013 - Darwin Deez - Songs for Imaginative People",
@@ -1017,7 +1017,7 @@
     },
     {
         "name":         "2013 - Fat Freddy's Drop - Blackbird",
-        "playlists":    ["Road trip", "Climb"]
+        "playlists":    ["Road trip"]
     },
     {
         "name":         "2013 - Haim - Days Are Gone",
@@ -1061,7 +1061,7 @@
     },
     {
         "name":         "2014 - Tinariwen - Emmaar",
-        "playlists":    ["Road trip", "World music"]
+        "playlists":    ["Road trip", "World music", "Climb"]
     },
     {
         "name":         "2014 - Tuatara - Underworld",
@@ -1117,7 +1117,7 @@
     },
     {
         "name":         "2018 - Bokanté, Jules Buckley & Metropole Orkest - What Heat",
-        "playlists":    ["Road trip"]
+        "playlists":    ["Road trip", "Climb"]
     },
     {
         "name":         "2018 - Pinegrove - Skylight",
