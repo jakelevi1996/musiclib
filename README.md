@@ -21,7 +21,7 @@
 2. [Angst (10)](#angst)
 3. [Calm (33)](#calm)
 4. [Classical guitar (11)](#classical-guitar)
-5. [Climb (58)](#climb)
+5. [Climb (63)](#climb)
 6. [Focus (54)](#focus)
 7. [Folk (43)](#folk)
 8. [Funk (8)](#funk)
@@ -136,7 +136,6 @@
 - 1977 - Pink Floyd - Animals
 - 1977 - Shakti - Natural elements
 - 1977 - Steely Dan - Aja
-- 1989 - Pixies - Doolittle
 - 1994 - Jeff Buckley - Grace
 - 1995 - Toumani Diabate - Djelika
 - 1996 - Guem - Le Serpent
@@ -160,15 +159,21 @@
 - 2009 - Phoenix - Wolfgang amadeus phoenix
 - 2009 - Tapes 'n Tapes - The Loon
 - 2010 - Bonobo - Black Sands
+- 2010 - Darwin Deez - Darwin Deez
+- 2010 - Snarky Puppy - Tell Your Friends
 - 2010 - Tame Impala - Innerspeaker
 - 2010 - This Is the Kit - Wriggle Out The Restless
 - 2011 - Bombay Bicycle Club - A Different Kind of Fix
 - 2011 - Fatoumata Diawara - Fatou
 - 2011 - Foo Fighters - Wasting Light
+- 2012 - Goat - World Music
 - 2012 - Matthew Halsall - Fletcher Moss Park
 - 2012 - Pinegrove - Meridian
+- 2013 - Darwin Deez - Songs for Imaginative People
+- 2014 - Snarky Puppy - We Like It Here
 - 2014 - Tinariwen - Emmaar
 - 2015 - Patrick Holland - I Want To Believe
+- 2015 - Snarky Puppy & Metropole Orkest - Sylva
 - 2016 - Pinegrove - Cardinal
 - 2016 - Stimming - Alpe Lusia
 - 2017 - Bonobo - Migration
