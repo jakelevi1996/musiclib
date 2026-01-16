@@ -305,7 +305,7 @@
     },
     {
         "name":         "1976 - Shakti - A Handful Of Beauty",
-        "playlists":    ["Road trip", "Focus", "Calm", "World music", "Climb"]
+        "playlists":    ["Road trip", "Focus", "Calm", "World music", "Climb", "Abseil"]
     },
     {
         "name":         "1976 - Steely Dan - The Royal Scam",
@@ -325,7 +325,7 @@
     },
     {
         "name":         "1977 - Shakti - Natural elements",
-        "playlists":    ["Road trip", "Focus", "Calm", "World music", "Climb"]
+        "playlists":    ["Road trip", "Focus", "Calm", "World music", "Climb", "Abseil"]
     },
     {
         "name":         "1977 - Steely Dan - Aja",
@@ -489,7 +489,7 @@
     },
     {
         "name":         "1995 - Toumani Diabate - Djelika",
-        "playlists":    ["Road trip", "Focus", "Calm", "World music", "African", "Climb"]
+        "playlists":    ["Road trip", "Focus", "Calm", "World music", "African", "Climb", "Abseil"]
     },
     {
         "name":         "1996 - Belle and Sebastian - Tigermilk",
@@ -809,7 +809,7 @@
     },
     {
         "name":         "2008 - Matthew Halsall - Sending My Love (Special Edition)",
-        "playlists":    ["Road trip", "Focus", "Calm", "Jazz", "Snarky Matthew"]
+        "playlists":    ["Road trip", "Focus", "Calm", "Jazz", "Snarky Matthew", "Abseil"]
     },
     {
         "name":         "2008 - Pete and the pirates - Little death",
@@ -845,7 +845,7 @@
     },
     {
         "name":         "2009 - Matthew Halsall - Colour Yes (Special Edition)",
-        "playlists":    ["Road trip", "Focus", "Calm", "Jazz", "Snarky Matthew"]
+        "playlists":    ["Road trip", "Focus", "Calm", "Jazz", "Snarky Matthew", "Abseil"]
     },
     {
         "name":         "2009 - Phoenix - Wolfgang amadeus phoenix",
@@ -901,7 +901,7 @@
     },
     {
         "name":         "2010 - Snarky Puppy - Tell Your Friends",
-        "playlists":    ["Road trip", "Focus", "Jazz", "Snarky Matthew", "Climb"]
+        "playlists":    ["Road trip", "Focus", "Jazz", "Snarky Matthew", "Climb", "Abseil"]
     },
     {
         "name":         "2010 - Tame Impala - Innerspeaker",
@@ -1053,7 +1053,7 @@
     },
     {
         "name":         "2014 - Snarky Puppy - We Like It Here",
-        "playlists":    ["Road trip", "Focus", "Jazz", "Snarky Matthew", "Climb"]
+        "playlists":    ["Road trip", "Focus", "Jazz", "Snarky Matthew", "Climb", "Abseil"]
     },
     {
         "name":         "2014 - Temples - Sun Structures",
@@ -1073,7 +1073,7 @@
     },
     {
         "name":         "2015 - Snarky Puppy & Metropole Orkest - Sylva",
-        "playlists":    ["Road trip", "Focus", "Jazz", "Snarky Matthew", "Climb"]
+        "playlists":    ["Road trip", "Focus", "Jazz", "Snarky Matthew", "Climb", "Abseil"]
     },
     {
         "name":         "2015 - Stealing Sheep - Not Real",
@@ -1185,15 +1185,15 @@
     },
     {
         "name":         "2012 - Matthew Halsall - Fletcher Moss Park",
-        "playlists":    ["Jazz", "Snarky Matthew", "Road trip", "Focus", "Calm", "Climb"]
+        "playlists":    ["Jazz", "Snarky Matthew", "Road trip", "Focus", "Calm", "Climb", "Abseil"]
     },
     {
         "name":         "2018 - Nathan Salsburg - Third",
-        "playlists":    ["Primitivism", "Road trip", "Focus", "Calm", "Climb"]
+        "playlists":    ["Primitivism", "Road trip", "Focus", "Calm", "Climb", "Abseil"]
     },
     {
         "name":         "2023 - Matthew Halsall - An Ever Changing View",
-        "playlists":    ["Jazz", "Snarky Matthew", "Road trip", "Focus", "Calm", "Climb"]
+        "playlists":    ["Jazz", "Snarky Matthew", "Road trip", "Focus", "Calm", "Climb", "Abseil"]
     },
     {
         "name":         "2023 - This Is The Kit - Careful Of Your Keepers",

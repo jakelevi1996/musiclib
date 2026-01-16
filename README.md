@@ -17,29 +17,44 @@
 
 ## Contents
 
-1. [African (13)](#african)
-2. [Angst (10)](#angst)
-3. [Calm (33)](#calm)
-4. [Classical guitar (11)](#classical-guitar)
-5. [Climb (63)](#climb)
-6. [Focus (54)](#focus)
-7. [Folk (43)](#folk)
-8. [Funk (8)](#funk)
-9. [Heavy (6)](#heavy)
-10. [Hip hop (14)](#hip-hop)
-11. [House (13)](#house)
-12. [Jazz (17)](#jazz)
-13. [Minimalism (4)](#minimalism)
-14. [None (4)](#none)
-15. [Primitivism (5)](#primitivism)
-16. [Prog (15)](#prog)
-17. [Psychedelic (9)](#psychedelic)
-18. [Road trip (272)](#road-trip)
-19. [Snarky Matthew (7)](#snarky-matthew)
-20. [Sound Island (8)](#sound-island)
-21. [This is the pine club (15)](#this-is-the-pine-club)
-22. [World music (21)](#world-music)
-23. [All albums (326)](#all-albums)
+1. [Abseil (11)](#abseil)
+2. [African (13)](#african)
+3. [Angst (10)](#angst)
+4. [Calm (33)](#calm)
+5. [Classical guitar (11)](#classical-guitar)
+6. [Climb (63)](#climb)
+7. [Focus (54)](#focus)
+8. [Folk (43)](#folk)
+9. [Funk (8)](#funk)
+10. [Heavy (6)](#heavy)
+11. [Hip hop (14)](#hip-hop)
+12. [House (13)](#house)
+13. [Jazz (17)](#jazz)
+14. [Minimalism (4)](#minimalism)
+15. [None (4)](#none)
+16. [Primitivism (5)](#primitivism)
+17. [Prog (15)](#prog)
+18. [Psychedelic (9)](#psychedelic)
+19. [Road trip (272)](#road-trip)
+20. [Snarky Matthew (7)](#snarky-matthew)
+21. [Sound Island (8)](#sound-island)
+22. [This is the pine club (15)](#this-is-the-pine-club)
+23. [World music (21)](#world-music)
+24. [All albums (326)](#all-albums)
+
+## Abseil
+
+- 1976 - Shakti - A Handful Of Beauty
+- 1977 - Shakti - Natural elements
+- 1995 - Toumani Diabate - Djelika
+- 2008 - Matthew Halsall - Sending My Love (Special Edition)
+- 2009 - Matthew Halsall - Colour Yes (Special Edition)
+- 2010 - Snarky Puppy - Tell Your Friends
+- 2012 - Matthew Halsall - Fletcher Moss Park
+- 2014 - Snarky Puppy - We Like It Here
+- 2015 - Snarky Puppy & Metropole Orkest - Sylva
+- 2018 - Nathan Salsburg - Third
+- 2023 - Matthew Halsall - An Ever Changing View
 
 ## African
 
