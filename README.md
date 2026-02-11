@@ -17,12 +17,12 @@
 
 ## Contents
 
-1. [Abseil (11)](#abseil)
-2. [African (13)](#african)
+1. [Abseil (10)](#abseil)
+2. [African (14)](#african)
 3. [Angst (10)](#angst)
 4. [Calm (33)](#calm)
 5. [Classical guitar (11)](#classical-guitar)
-6. [Climb (63)](#climb)
+6. [Climb (67)](#climb)
 7. [Focus (54)](#focus)
 8. [Folk (43)](#folk)
 9. [Funk (8)](#funk)
@@ -39,20 +39,19 @@
 20. [Snarky Matthew (7)](#snarky-matthew)
 21. [Sound Island (8)](#sound-island)
 22. [This is the pine club (15)](#this-is-the-pine-club)
-23. [World music (21)](#world-music)
-24. [All albums (326)](#all-albums)
+23. [World music (22)](#world-music)
+24. [All albums (329)](#all-albums)
 
 ## Abseil
 
 - 1976 - Shakti - A Handful Of Beauty
 - 1977 - Shakti - Natural elements
+- 1993 - Martin Hayes - Martin Hayes
 - 1995 - Toumani Diabate - Djelika
+- 1997 - Martin Hayes - The Lonesome Touch
 - 2008 - Matthew Halsall - Sending My Love (Special Edition)
 - 2009 - Matthew Halsall - Colour Yes (Special Edition)
-- 2010 - Snarky Puppy - Tell Your Friends
 - 2012 - Matthew Halsall - Fletcher Moss Park
-- 2014 - Snarky Puppy - We Like It Here
-- 2015 - Snarky Puppy & Metropole Orkest - Sylva
 - 2018 - Nathan Salsburg - Third
 - 2023 - Matthew Halsall - An Ever Changing View
 
@@ -71,6 +70,7 @@
 - 2006 - Bassekou Kouyaté & Ngoni Ba - Segu Blue
 - 2008 - Kouyaté-Neerman - Kangaba
 - 2011 - Fatoumata Diawara - Fatou
+- 2014 - Habib Koite - Soô
 
 ## Angst
 
@@ -151,11 +151,13 @@
 - 1977 - Pink Floyd - Animals
 - 1977 - Shakti - Natural elements
 - 1977 - Steely Dan - Aja
+- 1993 - Martin Hayes - Martin Hayes
 - 1994 - Jeff Buckley - Grace
 - 1995 - Toumani Diabate - Djelika
 - 1996 - Guem - Le Serpent
 - 1996 - Michael Tröster - El Decameron Negro
 - 1997 - Dispatch - Bang Bang
+- 1997 - Martin Hayes - The Lonesome Touch
 - 1998 - Habib Koité & Bamada - Ma Ya
 - 1998 - Rokia Traore - Mouneissa
 - 2000 - Luomo - Vocalcity
@@ -165,6 +167,7 @@
 - 2004 - Rodrigo y gabriela - Re-foc
 - 2004 - The Zutons - Who killed the zutons
 - 2005 - Fat Freddy's Drop - Based On a True Story
+- 2006 - Bassekou Kouyaté & Ngoni Ba - Segu Blue
 - 2006 - Midlake - The trials of Van Occupanther
 - 2006 - Silversun Pickups - Carnavas
 - 2007 - Foo Fighters - Echoes, Silence, Patience & Grace
@@ -185,6 +188,7 @@
 - 2012 - Matthew Halsall - Fletcher Moss Park
 - 2012 - Pinegrove - Meridian
 - 2013 - Darwin Deez - Songs for Imaginative People
+- 2014 - Habib Koite - Soô
 - 2014 - Snarky Puppy - We Like It Here
 - 2014 - Tinariwen - Emmaar
 - 2015 - Patrick Holland - I Want To Believe
@@ -764,6 +768,7 @@
 - 2007 - Tinariwen - Aman Iman Water Is Life
 - 2008 - Kouyaté-Neerman - Kangaba
 - 2011 - Fatoumata Diawara - Fatou
+- 2014 - Habib Koite - Soô
 - 2014 - Tinariwen - Emmaar
 - 2018 - Wu Man & Wu Wei - Distant Mountains
 
@@ -877,6 +882,7 @@
 - 1991 - Slint - Spiderland
 - 1992 - Gang Starr - Daily Operation
 - 1992 - Pete Rock and CL Smooth - Mecca And The Soul Brother
+- 1993 - Martin Hayes - Martin Hayes
 - 1993 - Ry Cooder & V.M. Bhatt - A Meeting by the River
 - 1993 - Souls Of Mischief - 93 'Til Infinity
 - 1993 - Wu-Tang Clan - Enter the Wu-Tang (36 Chambers)
@@ -906,6 +912,7 @@
 - 1997 - David Russell - Music of Moreno Torroba
 - 1997 - Dispatch - Bang Bang
 - 1997 - Elliott Smith - Either-Or
+- 1997 - Martin Hayes - The Lonesome Touch
 - 1997 - Modest Mouse - The Lonesome Crowded West
 - 1997 - Moodymann - SILENTINTRODUCTION
 - 1997 - Radiohead - OK Computer
@@ -1045,6 +1052,7 @@
 - 2013 - Uncle Acid ad the Deadbeats - Mind Control
 - 2013 - Unknown Mortal Orchestra - II
 - 2014 - Bombay Bicycle Club - So Long See You Tomorrow
+- 2014 - Habib Koite - Soô
 - 2014 - Modern Baseball - You're Gonna Miss It All
 - 2014 - Nick Mulvey - First Mind
 - 2014 - Snarky Puppy - We Like It Here

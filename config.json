@@ -709,7 +709,7 @@
     },
     {
         "name":         "2006 - Bassekou Kouyaté & Ngoni Ba - Segu Blue",
-        "playlists":    ["Road trip", "World music", "African"]
+        "playlists":    ["Road trip", "World music", "African", "Climb"]
     },
     {
         "name":         "2006 - Brand New - The Devil And God Are Raging Inside Me",
@@ -901,7 +901,7 @@
     },
     {
         "name":         "2010 - Snarky Puppy - Tell Your Friends",
-        "playlists":    ["Road trip", "Focus", "Jazz", "Snarky Matthew", "Climb", "Abseil"]
+        "playlists":    ["Road trip", "Focus", "Jazz", "Snarky Matthew", "Climb"]
     },
     {
         "name":         "2010 - Tame Impala - Innerspeaker",
@@ -1053,7 +1053,7 @@
     },
     {
         "name":         "2014 - Snarky Puppy - We Like It Here",
-        "playlists":    ["Road trip", "Focus", "Jazz", "Snarky Matthew", "Climb", "Abseil"]
+        "playlists":    ["Road trip", "Focus", "Jazz", "Snarky Matthew", "Climb"]
     },
     {
         "name":         "2014 - Temples - Sun Structures",
@@ -1073,7 +1073,7 @@
     },
     {
         "name":         "2015 - Snarky Puppy & Metropole Orkest - Sylva",
-        "playlists":    ["Road trip", "Focus", "Jazz", "Snarky Matthew", "Climb", "Abseil"]
+        "playlists":    ["Road trip", "Focus", "Jazz", "Snarky Matthew", "Climb"]
     },
     {
         "name":         "2015 - Stealing Sheep - Not Real",
@@ -1302,5 +1302,17 @@
     {
         "name":         "2024 - Sound Island - study set for maximum focus limited vocals deep house mix study in ancient library",
         "playlists":    ["Sound Island"]
+    },
+    {
+        "name":         "1993 - Martin Hayes - Martin Hayes",
+        "playlists":    ["Climb", "Abseil"]
+    },
+    {
+        "name":         "1997 - Martin Hayes - The Lonesome Touch",
+        "playlists":    ["Climb", "Abseil"]
+    },
+    {
+        "name":         "2014 - Habib Koite - Soô",
+        "playlists":    ["Climb", "African", "World music"]
     }
 ]
