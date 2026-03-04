@@ -22,13 +22,13 @@
 3. [Angst (10)](#angst)
 4. [Calm (33)](#calm)
 5. [Classical guitar (11)](#classical-guitar)
-6. [Climb (67)](#climb)
+6. [Climb (68)](#climb)
 7. [Focus (54)](#focus)
 8. [Folk (43)](#folk)
 9. [Funk (8)](#funk)
 10. [Heavy (6)](#heavy)
 11. [Hip hop (14)](#hip-hop)
-12. [House (13)](#house)
+12. [House (14)](#house)
 13. [Jazz (17)](#jazz)
 14. [Minimalism (4)](#minimalism)
 15. [None (4)](#none)
@@ -40,7 +40,7 @@
 21. [Sound Island (8)](#sound-island)
 22. [This is the pine club (15)](#this-is-the-pine-club)
 23. [World music (22)](#world-music)
-24. [All albums (329)](#all-albums)
+24. [All albums (330)](#all-albums)
 
 ## Abseil
 
@@ -154,6 +154,7 @@
 - 1993 - Martin Hayes - Martin Hayes
 - 1994 - Jeff Buckley - Grace
 - 1995 - Toumani Diabate - Djelika
+- 1996 - Boo Williams - Home Town Chicago
 - 1996 - Guem - Le Serpent
 - 1996 - Michael Tröster - El Decameron Negro
 - 1997 - Dispatch - Bang Bang
@@ -347,6 +348,7 @@
 
 ## House
 
+- 1996 - Boo Williams - Home Town Chicago
 - 1997 - Moodymann - SILENTINTRODUCTION
 - 2000 - Luomo - Vocalcity
 - 2000 - Moodymann - Forevernevermore
@@ -903,6 +905,7 @@
 - 1995 - Mobb Deep - The Infamous
 - 1995 - Toumani Diabate - Djelika
 - 1996 - Belle and Sebastian - Tigermilk
+- 1996 - Boo Williams - Home Town Chicago
 - 1996 - Cardiacs - Sing to God
 - 1996 - Failure - Fantastic Planet
 - 1996 - Guem - Le Serpent
