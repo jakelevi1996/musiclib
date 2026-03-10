@@ -22,13 +22,13 @@
 3. [Angst (10)](#angst)
 4. [Calm (33)](#calm)
 5. [Classical guitar (11)](#classical-guitar)
-6. [Climb (68)](#climb)
+6. [Climb (69)](#climb)
 7. [Focus (54)](#focus)
 8. [Folk (43)](#folk)
 9. [Funk (8)](#funk)
 10. [Heavy (6)](#heavy)
 11. [Hip hop (14)](#hip-hop)
-12. [House (14)](#house)
+12. [House (15)](#house)
 13. [Jazz (17)](#jazz)
 14. [Minimalism (4)](#minimalism)
 15. [None (4)](#none)
@@ -40,7 +40,7 @@
 21. [Sound Island (8)](#sound-island)
 22. [This is the pine club (15)](#this-is-the-pine-club)
 23. [World music (22)](#world-music)
-24. [All albums (330)](#all-albums)
+24. [All albums (331)](#all-albums)
 
 ## Abseil
 
@@ -161,6 +161,7 @@
 - 1997 - Martin Hayes - The Lonesome Touch
 - 1998 - Habib Koité & Bamada - Ma Ya
 - 1998 - Rokia Traore - Mouneissa
+- 1998 - Theo Parrish - First Floor
 - 2000 - Luomo - Vocalcity
 - 2000 - Modest Mouse - The Moon & Antarctica
 - 2000 - Rokia Traore - Wanita
@@ -350,6 +351,7 @@
 
 - 1996 - Boo Williams - Home Town Chicago
 - 1997 - Moodymann - SILENTINTRODUCTION
+- 1998 - Theo Parrish - First Floor
 - 2000 - Luomo - Vocalcity
 - 2000 - Moodymann - Forevernevermore
 - 2003 - Lawrence - The Absence Of Blight
@@ -922,6 +924,7 @@
 - 1998 - Habib Koité & Bamada - Ma Ya
 - 1998 - Neutral Milk Hotel - In the Aeroplane Over the Sea
 - 1998 - Rokia Traore - Mouneissa
+- 1998 - Theo Parrish - First Floor
 - 1998 - Tuatara - Trading With The Enemy
 - 1999 - MF DOOM - Operation Doomsday
 - 1999 - Mos Def - Black On Both Sides
