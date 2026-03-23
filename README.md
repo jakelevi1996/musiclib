@@ -22,7 +22,7 @@
 3. [Angst (10)](#angst)
 4. [Calm (33)](#calm)
 5. [Classical guitar (11)](#classical-guitar)
-6. [Climb (69)](#climb)
+6. [Climb (65)](#climb)
 7. [Focus (54)](#focus)
 8. [Folk (43)](#folk)
 9. [Funk (8)](#funk)
@@ -138,23 +138,19 @@
 ## Climb
 
 - 1940 - Woody Guthrie - Dust Bowl Ballads
-- 1970 - Black Sabbath - Black Sabbath
 - 1970 - Black Sabbath - Paranoid
 - 1971 - Jethro Tull - Aqualung
 - 1971 - Roy Harper - Stormcock
 - 1973 - James Brown - The Payback
 - 1973 - Pink Floyd - The Dark Side of the Moon
 - 1974 - Camel - Mirage
-- 1975 - Pink Floyd - Wish You Were Here
 - 1976 - Shakti - A Handful Of Beauty
 - 1977 - Fela Kuti - Zombie
-- 1977 - Pink Floyd - Animals
 - 1977 - Shakti - Natural elements
 - 1977 - Steely Dan - Aja
 - 1993 - Martin Hayes - Martin Hayes
 - 1994 - Jeff Buckley - Grace
 - 1995 - Toumani Diabate - Djelika
-- 1996 - Boo Williams - Home Town Chicago
 - 1996 - Guem - Le Serpent
 - 1996 - Michael Tröster - El Decameron Negro
 - 1997 - Dispatch - Bang Bang

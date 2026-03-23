@@ -109,7 +109,7 @@
     },
     {
         "name":         "1970 - Black Sabbath - Black Sabbath",
-        "playlists":    ["Road trip", "Heavy", "Climb"]
+        "playlists":    ["Road trip", "Heavy"]
     },
     {
         "name":         "1970 - Black Sabbath - Paranoid",
@@ -285,7 +285,7 @@
     },
     {
         "name":         "1975 - Pink Floyd - Wish You Were Here",
-        "playlists":    ["Road trip", "Prog", "Climb"]
+        "playlists":    ["Road trip", "Prog"]
     },
     {
         "name":         "1975 - Steely Dan - Katy Lied",
@@ -321,7 +321,7 @@
     },
     {
         "name":         "1977 - Pink Floyd - Animals",
-        "playlists":    ["Road trip", "Prog", "Climb"]
+        "playlists":    ["Road trip", "Prog"]
     },
     {
         "name":         "1977 - Shakti - Natural elements",
@@ -1317,7 +1317,7 @@
     },
     {
         "name":         "1996 - Boo Williams - Home Town Chicago",
-        "playlists":    ["House", "Climb"]
+        "playlists":    ["House"]
     },
     {
         "name":         "1998 - Theo Parrish - First Floor",
