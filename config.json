@@ -1322,5 +1322,9 @@
     {
         "name":         "1998 - Theo Parrish - First Floor",
         "playlists":    ["House", "Climb"]
+    },
+    {
+        "name":         "2026 - Nature sounds - Nature sounds",
+        "playlists":    ["Nature sounds"]
     }
 ]

@@ -31,16 +31,17 @@
 12. [House (15)](#house)
 13. [Jazz (17)](#jazz)
 14. [Minimalism (4)](#minimalism)
-15. [None (4)](#none)
-16. [Primitivism (5)](#primitivism)
-17. [Prog (15)](#prog)
-18. [Psychedelic (9)](#psychedelic)
-19. [Road trip (272)](#road-trip)
-20. [Snarky Matthew (7)](#snarky-matthew)
-21. [Sound Island (8)](#sound-island)
-22. [This is the pine club (15)](#this-is-the-pine-club)
-23. [World music (22)](#world-music)
-24. [All albums (331)](#all-albums)
+15. [Nature sounds (1)](#nature-sounds)
+16. [None (4)](#none)
+17. [Primitivism (5)](#primitivism)
+18. [Prog (15)](#prog)
+19. [Psychedelic (9)](#psychedelic)
+20. [Road trip (272)](#road-trip)
+21. [Snarky Matthew (7)](#snarky-matthew)
+22. [Sound Island (8)](#sound-island)
+23. [This is the pine club (15)](#this-is-the-pine-club)
+24. [World music (22)](#world-music)
+25. [All albums (332)](#all-albums)
 
 ## Abseil
 
@@ -387,6 +388,10 @@
 - 1978 - Steve Reich - Music for 18 musicians
 - 1989 - Steve Reich - Different trains, electric counterpoint
 - 1994 - Steve Reich - Tehillim, Three Movements
+
+## Nature sounds
+
+- 2026 - Nature sounds - Nature sounds
 
 ## None
 
@@ -1105,3 +1110,4 @@
 - 2025 - Sound Island - no vocal focus music for deep concentration
 - 2025 - Sound Island - no vocals house music for studying working coding - from distraction to focus
 - 2025 - Sound Island - study house music - no vocals - study with me - organic house set
+- 2026 - Nature sounds - Nature sounds
