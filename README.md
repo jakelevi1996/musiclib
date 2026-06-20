@@ -22,7 +22,7 @@
 3. [Angst (10)](#angst)
 4. [Calm (33)](#calm)
 5. [Classical guitar (11)](#classical-guitar)
-6. [Climb (65)](#climb)
+6. [Climb (67)](#climb)
 7. [Focus (54)](#focus)
 8. [Folk (43)](#folk)
 9. [Funk (8)](#funk)
@@ -139,6 +139,7 @@
 ## Climb
 
 - 1940 - Woody Guthrie - Dust Bowl Ballads
+- 1969 - Crosby, Stills & Nash - Crosby, Stills & Nash
 - 1970 - Black Sabbath - Paranoid
 - 1971 - Jethro Tull - Aqualung
 - 1971 - Roy Harper - Stormcock
@@ -168,6 +169,7 @@
 - 2005 - Fat Freddy's Drop - Based On a True Story
 - 2006 - Bassekou Kouyaté & Ngoni Ba - Segu Blue
 - 2006 - Midlake - The trials of Van Occupanther
+- 2006 - Red Hot Chili Peppers - Stadium Arcadium
 - 2006 - Silversun Pickups - Carnavas
 - 2007 - Foo Fighters - Echoes, Silence, Patience & Grace
 - 2007 - Iron and Wine-The Shepherd's Dog
